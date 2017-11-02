@@ -10,7 +10,6 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 img: /assets/img
-theme: minima
 disqus:
   shortname: filehoo-com
 #google_analytics: UA-2498474-2
