@@ -1,0 +1,34 @@
+title: Atilla Tanrikulu
+description: >- # this means to ignore newlines until "baseurl:"
+  filehoo.com | Donwload software
+baseurl: "/" # the subpath of your site, e.g. /blog
+domain-name: www.filehoo.com
+url: "http://www.filehoo.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Atilla Tanrikulu
+environment: production
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+img: /assets/img
+theme: minima
+disqus:
+  shortname: filehoo-com
+#google_analytics: UA-2498474-2
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Readme.md
+  - node_modules
+  - lib
+
+collections:
+  downloads:
+    output: true
+    permalink: /downloads/:path/
+  articles:
+    output: true
+    permalink: /:path/
