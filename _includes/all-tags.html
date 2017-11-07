@@ -1,0 +1,52 @@
+
+
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for download in site.downloads %}
+	{% assign ttags = download.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+
+
+<div class="panel panel-primary" >
+    <div class="panel-heading filehoo-panel-heading">
+        <h2 class="panel-title">Tags</h2>
+    </div>
+    <div class="panel-body" style="padding:0px;">
+    {% for tag in tags %}
+			  {% if page.tags contains tag %}
+		      <a class="list-group-item" href="/{{ tag | slugify }}-downloads" style="background-color:#dae8f5">
+						<i class="fa fa-folder-open" aria-hidden="true"></i> {{ tag }}
+					</a>
+				{% endif %}
+				{% unless page.tags contains tag %}
+					<a class="list-group-item" href="/{{ tag | slugify }}">
+						<i class="fa fa-folder" aria-hidden="true"></i> {{ tag }}
+					</a>
+				{% endunless %}
+    {% endfor %}
+    </div>
+</div>

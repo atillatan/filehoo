@@ -1,0 +1,20 @@
+<h1 class="H1-large">{{include.download.name}}</h1>
+<span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">{{include.download.modified_date}}</span>
+<p>
+  <img title="Download Free {{include.download.name}}" src="{{ "/assets/img/mir_download.gif" | relative_url }}" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large"  rel="nofollow"  title="Download {{include.download.name}}" download="{{include.download.name}}" href="{{include.download.downloadurl}}"><b>Download Now</b></a>
+</p>
+
+<span class="d_small_info">Version: {{include.download.version}}, Size: {{include.download.size}} <br/>
+  By <a title="{{include.download.name}}" href="{{include.download.by_link}}" target="_blank" > {{include.download.by}}</a> ,
+   License: {{include.download.license}}
+<a title="Report a broken link for {{include.download.name}}" href="/download-{{include.download.name}}" > Report Broken</a><br />
+ </span>
+
+<h2 class="download-description">
+    <strong>{{include.download.name}} description</strong><br/>
+    {{include.download.description}}
+  </h2>

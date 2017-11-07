@@ -1,0 +1,49 @@
+
+
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for download in site.downloads %}
+	{% assign ttags = download.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+
+<h4>All Tags</h4>
+<p style="line-height:30px;font-size:16px;" >
+
+    {% for tag in tags %}
+			  {% if page.tags contains tag %}
+		      <a  href="/{{ tag | slugify }}-downloads" style="background-color:#dae8f5">
+						  {{ tag }},
+					</a>
+				{% endif %}
+				{% unless page.tags contains tag %}
+					<a  href="/{{ tag | slugify }}-downloads">
+						  {{ tag }},
+					</a>
+				{% endunless %}
+    {% endfor %}
+
+</p>

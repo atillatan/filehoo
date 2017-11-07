@@ -1,0 +1,44 @@
+<div class="container-fuiled" style="background-color:#f6f8fa;">
+  <div class="row">
+
+    <div class="col-md-3">
+      <ul>
+
+        <li><a href="{{site.baseutl}}/about/">About</a></li>
+   <li><p class="rss-subscribe"> <a target="_blank" href="{{ "/feed.xml" | relative_url }}">RSS</a></p></li>
+      </ul>
+    </div>
+    <div cclass="col-md-3">
+      <ul>
+
+        <li><a href="{{site.baseutl}}/contact/">Contact Us</a></li>
+
+      <!--Download Count:
+        {% assign counter = 1 %}
+        {% for item in site.downloads %}
+            {% if item.published == true %}
+            {% assign counter=counter | plus:1 %}
+            {% endif %}
+        {% endfor %}
+        {{ counter }}
+      -->
+<li>Last Build: {{ page.date | date: "%B %-d, %Y" }}</li>
+      </ul>
+    </div>
+    <div class="col-md-3">
+
+    </div>
+  </div>
+</div>
+<hr>
+<div class="row-fluid">
+  <div>
+    <div  class="col-md-6">
+      <a href="#">Terms and Conditions</a> |
+      <a href="#">Privacy Policy</a>
+    </div>
+    <div  class="col-md-6">
+      <p class="muted pull-right">© Copyright  {{ site.time | date: '%Y' }} Filehoo. All rights reserved.</p>
+    </div>
+  </div>
+</div>
