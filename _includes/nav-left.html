@@ -1,0 +1,90 @@
+
+{% assign rawcategories = "" %}
+{% for download in site.downloads %}
+	{% assign tcategories = download.category | join:'|' | append:'|' %}
+	{% assign rawcategories = rawcategories | append:tcategories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+	{% if category != "" %}
+		{% if categories == "" %}
+			{% assign categories = category | split:'|' %}
+		{% endif %}
+		{% unless categories contains category %}
+			{% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<!-- Panel -->
+
+
+
+
+ <div class="navbar navbar-default" role="navigation">
+	 <div class="navbar-header" style="background-color: #e0eaf7;">
+		 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+		 <span class="sr-only">Toggle navigation</span>
+		 <span class="icon-bar"></span>
+		 <span class="icon-bar"></span>
+		 <span class="icon-bar"></span>
+		 </button>
+		 <span class="visible-xs navbar-brand">Menu</span>
+
+	 </div>
+	 <div class="navbar-collapse collapse sidebar-navbar-collapse" style="padding:0px;">
+
+		 <div class="panel panel-primary" >
+				 <div class="panel-heading filehoo-panel-heading">
+						 <h2 class="panel-title">Download Categories</h2>
+				 </div>
+				 <div class="panel-body" style="padding:0px;">
+
+				 {% for category in categories %}
+						 {% if page.category contains category %}
+							 <a class="list-group-item" href="/download-{{ category | slugify }}" style="background-color:#dae8f5">
+								 <i class="fa fa-folder-open" aria-hidden="true"></i> {{ category }}
+							 </a>
+						 {% endif %}
+						 {% unless page.category contains category %}
+							 <a class="list-group-item" href="/download-{{ category | slugify }}">
+								 <i class="fa fa-folder" aria-hidden="true"></i> {{ category }}
+							 </a>
+						 {% endunless %}
+				 {% endfor %}
+				 </div>
+		 </div>
+
+		 </ul>
+		 </div><!--/.nav-collapse -->
+	 </div>
+
+
+
+
+<!--
+			<div class="panel panel-primary" >
+			    <div class="panel-heading filehoo-panel-heading">
+			        <h2 class="panel-title">Download Categories</h2>
+			    </div>
+			    <div class="panel-body" style="padding:0px;">
+
+			    {% for category in categories %}
+						  {% if page.category contains category %}
+					      <a class="list-group-item" href="/{{ category | slugify }}" style="background-color:#dae8f5">
+									<i class="fa fa-folder-open" aria-hidden="true"></i> {{ category }}
+								</a>
+							{% endif %}
+							{% unless page.category contains category %}
+								<a class="list-group-item" href="/{{ category | slugify }}">
+									<i class="fa fa-folder" aria-hidden="true"></i> {{ category }}
+								</a>
+							{% endunless %}
+			    {% endfor %}
+			    </div>
+			</div>
+-->

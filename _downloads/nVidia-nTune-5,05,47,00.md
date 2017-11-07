@@ -1,0 +1,102 @@
+---
+layout: downloadpage
+permalink: /downloads/nVidia-nTune-5,05,47,00/
+name: nVidia nTune 5.05.47.00
+file_type: download
+title: nVidia nTune 5.05.47.00
+description: >-
+  the easiest, fastest, and safest performance optimization and monitoring application available for your PC
+tags: [Video Tweak]
+category: Tweak
+sort_order: 100
+rating: 100
+changefreq: monthly
+priority: 0.5
+published: true
+create_date: 
+modified_date: 03/11/2017
+created_by: 
+modified_by: 
+comments: true
+redirect_url: 
+### 
+version:  5.05.47.00
+size: 41.1 MB
+downloadurl: http://us.download.nvidia.com/Windows/nForce/nTune/5.05.47.00/5.05.47.00_ntune_winxp_international.exe
+response: 200
+by: 
+by_link: 
+licence: Freeware
+os: Windows
+---
+
+{% include download-header.html download=page%}
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>NVIDIAnTune is the ultimate software for accessing, monitoring, and adjustingyour system components, including temperature and voltages with clear,user-friendly control panels. Overclock your system for highestperformance or underclock it for near silent operation. All changes areperformed within the Microsoft Windows interface –. enabling fullfunctionality without the need to make changes in the BIOS and rebootyour system. <br />
+<br />
+This is a complete, updated release of the NVIDIA nTune. You are notrequired to install a previous version of this application beforeinstalling the latest version. <br />
+<br />
+On nForce motherboards where specific BIOS support is not available, only basic functionality will be available. <br />
+<br />
+<strong>Supported products:</strong><br />
+<br />
+nForce 220, nForce 220D, nForce 415 and nForce 420D <br />
+nForce2 and nForce2 400 <br />
+nForce2 Ultra and nForce2 Ultra 400 <br />
+nForce2 400R and nForce2 Ultra 400Gb <br />
+nForce3 150 and nForce3 PRO 150 <br />
+nForce3 250, nForce3 250Gb and nForce3 PRO 250 <br />
+nForce4 Pro 2200, nForce4 Ultra, and nForce4 SLI <br />
+nForce 590 SLI, nForce 570 SLI, nForce 570 Ultra, nForce 550 <br />
+nForce 680a SLI, nForce 680i SLI, nForce 650i SLI, nForce 650i Ultra<br />
+<br />
+This application package replaces all previous versions of the NVIDIASystem Utility or NVIDIA nTune. Earlier versions of the applicationshould be uninstalled and the system rebooted prior to installation of this package. <br />
+<br />
+Support for the advanced features of the NVIDIA nTune requires vendorspecific setup files that are not included with this package. Pleasecontact your motherboard or system vendor for the correct files toenable this functionality.<br />
+<br />
+<span><strong>Here are some key features of "nVidia nTune":</strong></span><br />
+<br />
+New and improved task-driven user interface.<br />
+Adjust motherboard settings: Change system clocks, system voltages, system fans and memory timings.<br />
+Adjust GPU settings: Change GPU clocks and fans.<br />
+Dynamic BIOS access: Change system BIOS settings without entering the BIOS!†.<br />
+Automated system tuning: Optimize system performance with the click of a button.<br />
+Custom rules: Provides the ability to customize the circumstances under which different system settings get applied.<br />
+Pre-built profiles/rules: Provide a quick path to getting the best performance when needed.<br />
+Event logging: Allows the tracking of bus speeds, temperatures,voltages, and profile changes in a log file that may be imported to aspreadsheet application for indepth analysis.<br />
+Fall-back control: Provides the ability to identify the preciseprofile/rule associated with a crash (profile/rule will be disabledafter crash).<br />
+Improved dynamic overclocking: Provides on-the-fly overclocking andBIOS configuration within an easy-to-use Windows interface that isstreamlined and simplified for better user understanding. <br />
+System troubleshooting: An automated reporting tool captures allneeded information to help you determine when problems may be happeningto the system, and helps you troubleshoot.<br />
+Improved system monitoring: Temperatures, voltages, and bus speedsare now available as an "always-on-top" window with a transparencyoption so that it is visible at all times.<br />
+Voltage and bus speed monitoring: Track actual motherboard voltages,GPU clocks, bus speeds, and CPU core speed to ensure safe and correctsettings.<br />
+Temperature and fan speed monitoring: Real-time monitoring of CPU,GPU and system temperatures helps prevent hardware damage. nTunesupports dual-CPU and SLI multi-GPU systems.†.<br />
+Dynamically adjustable voltages and fan speeds: Adjust motherboardvoltage levels without a reboot, as well as dynamically control fanspeeds. New option for temperature-based fan control.†.<br />
+Dynamically adjustable memory timings: Change critical memory timings without rebooting and without entering the BIOS. <br />
+<br />
+<br />
+<span><strong>Requirements:</strong></span><br />
+<br />
+Windows XP (32-bit) <br />
+Windows XP x64 Edition <br />
+Windows Vista (32-bit) <br />
+Windows Vista x64 Edition </p>
+<div class="celltext_big"><br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+This is a complete, updated release of the NVIDIA nTune. You are notrequired to install a previous version of this application beforeinstalling the latest version. <br />
+On nForce motherboards where specific BIOS support is not available, only basic functionality will be available. <br />
+Supported products: <br />
+nForce 220, nForce 220D, nForce 415 and nForce 420D <br />
+nForce2 and nForce2 400 <br />
+nForce2 Ultra and nForce2 Ultra 400 <br />
+nForce2 400R and nForce2 Ultra 400Gb <br />
+nForce3 150 and nForce3 PRO 150 <br />
+nForce3 250, nForce3 250Gb and nForce3 PRO 250 <br />
+nForce4 Pro 2200, nForce4 Ultra, and nForce4 SLI <br />
+nForce 590 SLI, nForce 570 SLI, nForce 570 Ultra, nForce 550 <br />
+Supported operating systems for this release: <br />
+Windows XP <br />
+Windows XP x64 Edition (SP1 5.2.3790.1830) <br />
+Best when run at 1024x768 16-bit color... [</div></p></p>

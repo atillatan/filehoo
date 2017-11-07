@@ -1,15 +1,21 @@
-title: Atilla Tanrikulu
-description: >- # this means to ignore newlines until "baseurl:"
-  filehoo.com | Donwload software
-baseurl: "/" # the subpath of your site, e.g. /blog
+title: Filehoo Download Full Freeware Shareware Software Programs applications utilities tools portable apps
+baseurl: "" # the subpath of your site, e.g. /blog
 domain-name: www.filehoo.com
 url: "http://www.filehoo.com" # the base hostname & protocol for your site, e.g. http://example.com
+keywords: >- # this means to ignore newlines until "description:"
+  Filehoo, download, freeware, shareware, software, programs,
+  screensavers, wallpapers, codecs, applications, utilities, drivers, games
+description: >- # this means to ignore newlines until "author:"
+  download, freeware, shareware, software, programs,
+  screensavers, wallpapers, codecs, applications, utilities, drivers, games
 author: Atilla Tanrikulu
-environment: production
+environment: dev
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
 img: /assets/img
+changefreq: monthly
+priority: 0.5
 
 disqus:
   shortname: filehoo-com
@@ -19,16 +25,24 @@ disqus:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
-  - Readme.md
+  - README.md
   - node_modules
   - lib
+  - CNAME
 
 collections:
   downloads:
     output: true
     permalink: /downloads/:path/
-  articles:
+  categories:
     output: true
-    permalink: /:path/
+    permalink: /download-:path/
+  tags:
+    output: true
+    permalink: /:path-downloads/
+  letters:
+    output: true
+    permalink: /download-:path/

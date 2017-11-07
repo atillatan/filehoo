@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+  <header class="container-fulied">
+    {% include nav-top.html %}
+  </header>
+  <section class="container-fulied">
+    <div class="row">
+      <div class="col-sm-3 col-md-2 affix-sidebar">
+        {% include nav-left.html %}
+      </div>
+      <div class="col-sm-9 col-md-10 content" style="padding-left:0px;">
+        {{content}}
+      </div>
+    </div>
+  </section>
+  <br>
+  <footer class="container-fulied">
+    {% include footer.html %}
+  </footer>
+  {% include lib.html %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109069515-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-109069515-1');
+  </script>
+
+</body>
+
+</html>

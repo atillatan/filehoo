@@ -1,0 +1,40 @@
+---
+layout: downloadpage
+permalink: /downloads/FTP-Commander-8,0/
+name: FTP Commander 8.0
+file_type: download
+title: FTP Commander 8.0
+description: >-
+  FTP Commander uploads and downloads your web pages to the Internet super fast and easily
+tags: [FTP Clients]
+category: Internet
+sort_order: 100
+rating: 100
+changefreq: monthly
+priority: 0.5
+published: true
+create_date: 
+modified_date: 03/11/2017
+created_by: 
+modified_by: 
+comments: true
+redirect_url: 
+### 
+version:  8.0
+size: 656 KB
+downloadurl: http://www.ftpcommander.com/DEMO/cftpsetup.exe
+response: 200
+by: 
+by_link: 
+licence: Freeware
+os: Windows
+---
+
+{% include download-header.html download=page%}
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>With FTP Commander you can upload and download information or deleteone or more files and even whole folders (with subdirectories also).This ftp program offers a no-nonsense interface consisting of two side-by-side local computer and FTP server panels.<br />
+<br />
+The service functions of the application include drag-and-pop, pop-upand a context sensitive menu, which can be called up by right-clickingthe mouse. <br />
+<br />
+The program is compatible with Proxy, Firewall, Sockets 4, 4.5 and 5.The superb options of the program include: directory synchronization onlocal and remote access computers (for comparing modified or newfiles), a full range of keys and options to monitor command linecontrol, manual input of FTP</p></p></p>

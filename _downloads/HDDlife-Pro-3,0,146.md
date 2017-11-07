@@ -1,0 +1,96 @@
+---
+layout: downloadpage
+permalink: /downloads/HDDlife-Pro-3,0,146/
+name: HDDlife Pro 3.0.146
+file_type: download
+title: HDDlife Pro 3.0.146
+description: >-
+  HDDlife - free real-time hard-drive statistics, alerts, malfunction protection
+tags: [Hard Disk Utils]
+category: System
+sort_order: 100
+rating: 100
+changefreq: monthly
+priority: 0.5
+published: true
+create_date: 
+modified_date: 03/11/2017
+created_by: 
+modified_by: 
+comments: true
+redirect_url: 
+### 
+version:  3.0.146
+size: 5.58 MB
+downloadurl: http://www.hddlife.com/HDDlifePro.exe
+response: 302
+by: 
+by_link: 
+licence: Trial 
+os: Windows
+---
+
+{% include download-header.html download=page%}
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>HDDlife- worried about hard-drive failure? Get HDDLife - a real time harddrive monitoring utility with alerts, malfunction protection and dataloss prevention functions. This hard-drive inspector is an advancedproactive hard drive failure detection system that controls 100% ofhard-drive risks. <br />
+<br />
+HDDLife is S.M.A.R.T. technology based and works both for single PCsand large computer networks. S.M.A.R.T. technology was developed byhard-drive manufacturers to accurately predict hard-drive life span andprevent HDD malfunction.<br />
+<br />
+HDDlife is a software that helps you protect your HDD. <br />
+<br />
+HDDLife displays S.M.A.R.T. attributes real time and alerts systemadministrator if particular hard-drive s attributes exceed thresholdvalues and being at risk. <br />
+<br />
+The system administrator can then back data up and/or replaceendangered hard-drive. HDDLife loads on Windows start, compares newattribute values with the previous values and consumes absolutely nomemory. <br />
+<br />
+The program is extremely straightforward no fundamental knowledge or PCor hard-drive technology needed whatsoever. Zero failures during lastfour years for 100000+ hard-drives monitored!<br />
+<br />
+JustNow! is a completely new technology that allows you to find out the state of health and performancerate of your hard drives immediately both when you start the programfor the first time and when you start it again! <br />
+<br />
+There is no need to control disks over a long period of time! Noanalogous software allows it! Thanks to this technology, HDDlife alsoshows the health and performance level in percentage as compared to anew disk.<br />
+<br />
+HDDlife can work in the background mode checking and controlling thehealth of your hard drives and the safety of your data at certain timeintervals. At the same time, it uses as little memory as possible anddoes not annoy you with unnecessary messages.<br />
+<br />
+To be able to work efficiently, you must know not only the health, butalso the performance rate of your hard drive. With HDDlife, you will beable to see when it approaches the critical level and have time toreplace your hard drive before it becomes too slow and paralyzes yourwork.<br />
+<br />
+Modern computers emit a large amount of heat and use coolers to get ridof it. A hard drive is no exception: the faster it works, the hotter itgets. When the temperature of a hard drive increases by 10C, itsperformance rate gets two times less! <br />
+<br />
+That is why it is very important to control their temperature too.HDDlife allows you to solve this problem as well since the actual disktemperature is always displayed in the system tray (next to thecomputer clock). <br />
+<br />
+Another nice feature is that HDDlife can show you the highesttemperature the disk has reached for the entire period of its work (incase the disk supports this feature). <br />
+<br />
+HDDlife Pro will allow you to determine how the disk has been workingso far, whether it has ever been overheated before and whether it willhave failures in the future.<br />
+<br />
+<span><strong>Here are some key features of "HDDlife":</strong></span><br />
+<br />
+Usability<br />
+Unique technologies<br />
+Preventing monitor <br />
+Regular preventative checks<br />
+Disk free space info<br />
+Disk performance control<br />
+A thermometer for your disks<br />
+Information about time of the hard disk s operating life<br />
+Adjusting the AAM level –. Performance/Noise<br />
+Remote monitoring and notifications<br />
+Interface in your native language<br />
+<br />
+<br />
+<span><strong>Requirements:</strong></span><br />
+<br />
+Standard PC<br />
+IDE or Serial ATA hard drives<br />
+<br />
+<br />
+<span><strong>Limitations:</strong></span><br />
+<br />
+14-day trial<br />
+</p>
+<div class="celltext_big"><br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+Now you can resize the main window (and the program remembers its size)- so you can see info about free space on all drives at once <br />
+The warning window with a 15 sec delay before powering off the computer in case of overheating/bad health <br />
+Fixed bug with garbage text scrolling in conclusion under Windows 2000<br />
+Some bugs are fixed.</div></p></p>

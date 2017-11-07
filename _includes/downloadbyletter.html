@@ -1,0 +1,44 @@
+{% assign downloadList = site.downloads | sort: 'sort_order'  %}
+
+
+
+<table class="table table-responsive table-striped table-condensed table-hover">
+        <tbody>
+          <tr class="success">
+        <td nowrap="" bgcolor="">
+            &nbsp;<b>SOFTWARE</b>
+        </td>
+        <td nowrap="">
+            &nbsp;<b>DOWNLOAD</b></td>
+        <td>
+            &nbsp;<b>SIZE</b>
+        </td>
+          <td>
+            &nbsp;<b>DESCRIPTION</b>
+         </td>
+        </tr>
+{% for download in downloadList %}
+{% assign letter = download.title | slice: 0  %}
+  {% if include.letter contains letter%}
+    <tr>
+      <td nowrap="" class="tdalphabetik">
+          <a class="a-medium" title="{{download.title}} description" href="{{download.url}}/">
+             <b> {{download.name}}</b>
+          </a>
+      </td>
+      <td nowrap="" class="tdalphabetik">
+          <img title="Download {{download.name}}" border="0" src="{{ "/assets/img/download_small.gif" | relative_url}}" hspace="0" align="absmiddle"/>
+          <a class="a-medium" rel="nofollow" id="{{download.name}}" target="_blank" title="Download {{download.name}}" href="{{download.downloadurl}}">
+              Download Now</a></td>
+      <td nowrap="" class="tdalphabetik">&nbsp;
+          <small>   {{download.size}}</small>
+      </td>
+        <td width="100%" class="tdalphabetik">
+          {{download.description}}
+      </td>
+
+      </tr>
+
+  {% endif %}
+{% endfor %}
+</tbody></table>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+  <body id="Body" rightmargin="0" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
+    <header class="container">
+           {% include nav-top.html %}
+    </header>
+        <section class="container-fuiled">
+            <div class="row">
+              <div class="col-md-2">
+
+                 {% include nav-left.html %}
+
+              </div>
+                <div class="col-md-8 content wrapper">
+                   <article>
+
+                    {% include most-wanted.html %}
+                    {% include editors-picks.html %}
+                    {% include dont-miss.html %}
+                    {{content}}
+                  </article>
+                </div>
+                <aside>
+                <div class="col-md-2">
+                    {% include right.html %}
+                </div>
+              </aside>
+            </div>
+        </section>
+        <br>
+        <footer class="container-fuiled">
+            {% include footer.html %}
+        </footer>
+  {% include lib.html %}
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2498474-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-2498474-2');
+  </script>
+
+
+  </body>
+</html>

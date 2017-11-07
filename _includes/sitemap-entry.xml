@@ -1,0 +1,18 @@
+<url>
+  <loc>http://{{site.domain-name}}{{site.baseurl}}{{include.entry.url}}</loc>
+
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% unless include.entry.changefreq %}
+  <changefreq>{{site.changefreq}}</changefreq>
+  {% endunless %}
+
+
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+  {% unless include.entry.priority %}
+  <priority>{{site.priority}}</priority>
+  {% endunless %}
+</url>
