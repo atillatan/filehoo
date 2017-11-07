@@ -1,9 +1,9 @@
 ---
 layout: downloadpage
-permalink: /downloads/Winamp-5-Lite-5,36-Build-1504-Beta/
-name: Winamp 5 Lite 5.36 Build 1504 Beta
+permalink: /downloads/Winamp/
+name: Winamp
 file_type: download
-title: Winamp 5 Lite 5.36 Build 1504 Beta
+title: Winamp
 description: >-
   Winamp is the premier digital audio player for Windows
 tags: [Audio]
@@ -13,20 +13,20 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
-version:  Beta
-size: 2.40 MB
-downloadurl: http://d1.freewarelist.net/download2.php?a=58070&b=80d8e856752b2319e71fbf608f485bee
+redirect_url:
+###
+version:  V5.666
+size: 16.64MB
+downloadurl: http://199.217.116.45/freesoftwarefiles.com/Multimedia/winamp5666_full_all.exe
 response: 302
-by: 
-by_link: 
-licence: Freeware
+by: Winamp
+by_link: http://www.winamp.com/
+licence: Free Trail
 os: Windows
 ---
 

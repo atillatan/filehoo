@@ -14,7 +14,18 @@ layout: basepage
       {% if site.disqus.shortname %} {% include disqus-comments.html %} {% endif %}
     </div>
     <aside class="col-md-4">
-      Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement   Advertisement
+      {% if site.environment=="production" %}
+      <script type="text/javascript"><!--
+      google_ad_client = "pub-6932012645209598";
+      /* left */
+      google_ad_slot = "4776540219";
+      google_ad_width = 160;
+      google_ad_height = 600;
+      //-->
+      </script><script type="text/javascript"
+      src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+      </script>
+      {% endif %}
       <br/><br/>
       {% include all-tags-flat.html %}
     </aside>

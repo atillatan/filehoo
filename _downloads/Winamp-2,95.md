@@ -12,20 +12,20 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  2.95
 size: 2.36 MB
 downloadurl: http://files.brothersoft.com/mp3_audio/all in one_jukeboxes/winamp295.exe
 response: 200
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---
