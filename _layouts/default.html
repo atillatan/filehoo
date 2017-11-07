@@ -25,7 +25,18 @@
                 </div>
                 <aside>
                 <div class="col-md-2">
-                    {% include right.html %}
+                  {% if site.environment=="production" %}
+                  <script type="text/javascript"><!--
+                  google_ad_client = "pub-6932012645209598";
+                  /* left */
+                  google_ad_slot = "4776540219";
+                  google_ad_width = 160;
+                  google_ad_height = 600;
+                  //-->
+                  </script><script type="text/javascript"
+                  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                  </script>
+                  {% endif %}
                 </div>
               </aside>
             </div>

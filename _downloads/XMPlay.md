@@ -1,9 +1,9 @@
 ---
 layout: downloadpage
-permalink: /downloads/XMPlay-3,4,2,1/
-name: XMPlay 3.4.2.1
+permalink: /downloads/XMPlay/
+name: XMPlay
 file_type: download
-title: XMPlay 3.4.2.1
+title: XMPlay
 description: >-
   XMPlay is an audio player, supporting the OGG /MP3 /MP2 /MP1 /WMA /WAV /MO3 /IT /XM /S3M /MTM /MOD /UMX audio formats
 tags: [Audio]
@@ -13,19 +13,19 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  3.4.2.1
 size: 304 KB
-downloadurl: http://www.un4seen.co.uk/files/xmplay34.zip
+downloadurl: http://support.xmplay.com/files/20/xmplay3823.zip?v=115916
 response: 200
-by: 
-by_link: 
+by: Ian Luck
+by_link:
 licence: Freeware
 os: Windows
 ---
