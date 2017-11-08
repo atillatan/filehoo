@@ -1,9 +1,9 @@
 ---
 layout: downloadpage
-permalink: /downloads/WinGate-6,2,2-Build-1137/
-name: WinGate 6.2.2 Build 1137
+permalink: /downloads/WinGate/
+name: WinGate
 file_type: download
-title: WinGate 6.2.2 Build 1137
+title: WinGate
 description: >-
   WinGate - share Internet access between multiple PC  s over one connection
 tags: [Servers]
@@ -13,20 +13,20 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
-version:  1137
-size: 13.4 MB
-downloadurl: http://downloads.qbik.com/qbiknz2/downloads/WinGate6.2.2.1137 USE.EXE
+redirect_url:
+###
+version: 9.1.1
+size: 65.5 MB
+downloadurl: http://cloud-dl.qbik.com/WinGate9.1.1.5951-x64USE.exe
 response: 301
-by: 
-by_link: 
-licence: Trial 
+by:
+by_link:
+licence: Trial
 os: Windows
 ---
 

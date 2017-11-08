@@ -12,20 +12,20 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  SR 6
 size: 1.24 MB
-downloadurl: http://www.x ways.de/winhex.zip
+downloadurl: http://www.xways.de/winhex.zip
 response: 200
-by: 
-by_link: 
+by:
+by_link:
 licence: Shareware
 os: Windows
 ---

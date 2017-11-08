@@ -13,20 +13,20 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  2
 size: 1.80 MB
-downloadurl: http://www.win rar.com/fileadmin/downloads/wrar_unplugged_3.6.2.2b.exe
+downloadurl: http://www.winrar.com/fileadmin/downloads/wrar_unplugged_3.6.2.2b.exe
 response: 301
-by: 
-by_link: 
-licence: Trial 
+by:
+by_link:
+licence: Trial
 os: Windows
 ---
 

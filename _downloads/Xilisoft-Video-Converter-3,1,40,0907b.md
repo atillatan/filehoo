@@ -12,7 +12,7 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
+published: false
 create_date:
 modified_date: 03/11/2017
 created_by:
@@ -22,7 +22,7 @@ redirect_url:
 ###
 version:  3.1.40.0907b
 size: 15.7 MB
-downloadurl: http://www.xilisoft.com/downloads/st/x video converter.exe
+downloadurl: http://www.xilisoft.com/downloads/st/x-video-converter.exe
 response: 301
 by:
 by_link:

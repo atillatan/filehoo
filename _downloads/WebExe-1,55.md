@@ -12,20 +12,20 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  1.55
 size: 1.59 MB
-downloadurl: http://www.aw soft.com/wexsetup.exe
+downloadurl: http://www.awsoft.com/wexsetup.exe
 response: 301
-by: 
-by_link: 
+by:
+by_link:
 licence: Shareware
 os: Windows
 ---
