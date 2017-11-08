@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Unit-Conversion-downloads/
+permalink: /unit-conversion-downloads/
 name: Unit Conversion
 file_type: tag
 title: Unit Conversion

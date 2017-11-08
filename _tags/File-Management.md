@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /File-Management-downloads/
+permalink: /file-management-downloads/
 name: File Management
 file_type: tag
 title: File Management

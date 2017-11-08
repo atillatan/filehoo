@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Browser-Tweak-downloads/
+permalink: /browser-tweak-downloads/
 name: Browser Tweak
 file_type: tag
 title: Browser Tweak

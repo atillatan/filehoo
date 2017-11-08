@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /System-Tweak-downloads/
+permalink: /system-tweak-downloads/
 name: System Tweak
 file_type: tag
 title: System Tweak

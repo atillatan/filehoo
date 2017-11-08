@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Font-Utils-downloads/
+permalink: /font-utils-downloads/
 name: Font Utils
 file_type: tag
 title: Font Utils

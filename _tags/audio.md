@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Audio-downloads/
+permalink: /audio-downloads/
 name: Audio
 file_type: tag
 title: Audio
@@ -20,5 +20,3 @@ redirecturl:
 
 ---
  {% include downloadbytag.html tag='Audio' %}
-
- 

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Hard-Disk-Utils-downloads/
+permalink: /hard-disk-utils-downloads/
 name: Hard Disk Utils
 file_type: tag
 title: Hard Disk Utils

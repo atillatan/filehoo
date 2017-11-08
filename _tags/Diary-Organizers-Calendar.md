@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Diary-Organizers-Calendar-downloads/
+permalink: /diary-organizers-calendar-downloads/
 name: Diary-Organizers-Calendar
 file_type: tag
 title: Diary-Organizers-Calendar

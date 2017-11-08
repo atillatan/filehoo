@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Protocol-Analyzers-Sniffers-downloads/
+permalink: /protocol-analyzers-sniffers-downloads/
 name: Protocol Analyzers-Sniffers
 file_type: tag
 title: Protocol Analyzers-Sniffers

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Launchers-downloads/
+permalink: /launchers-downloads/
 name: Launchers
 file_type: tag
 title: Launchers

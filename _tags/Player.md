@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Player-downloads/
+permalink: /player-downloads/
 name: Player
 file_type: tag
 title: Player

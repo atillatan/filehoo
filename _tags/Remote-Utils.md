@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Remote-Utils-downloads/
+permalink: /remote-utils-downloads/
 name: Remote Utils
 file_type: tag
 title: Remote Utils

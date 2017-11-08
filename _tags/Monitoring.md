@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Monitoring-downloads/
+permalink: /monitoring-downloads/
 name: Monitoring
 file_type: tag
 title: Monitoring

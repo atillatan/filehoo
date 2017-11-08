@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /SDK-DDK-downloads/
+permalink: /sdk-ddk-downloads/
 name: SDK-DDK
 file_type: tag
 title: SDK-DDK

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Download-Managers-downloads/
+permalink: /download-managers-downloads/
 name: Download Managers
 file_type: tag
 title: Download Managers

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /E-Book-downloads/
+permalink: /d-book-downloads/
 name: E-Book
 file_type: tag
 title: E-Book

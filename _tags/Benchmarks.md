@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Benchmarks-downloads/
+permalink: /benchmarks-downloads/
 name: Benchmarks
 file_type: tag
 title: Benchmarks

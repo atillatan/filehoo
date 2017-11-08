@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Components-downloads/
+permalink: /components-downloads/
 name: Components
 file_type: tag
 title: Components

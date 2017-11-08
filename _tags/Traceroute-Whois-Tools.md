@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Traceroute-Whois-Tools-downloads/
+permalink: /traceroute-whois-tools-downloads/
 name: Traceroute-Whois Tools
 file_type: tag
 title: Traceroute-Whois Tools

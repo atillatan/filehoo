@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Firewall-downloads/
+permalink: /firewall-downloads/
 name: Firewall
 file_type: tag
 title: Firewall

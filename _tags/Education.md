@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Education-downloads/
+permalink: /education-downloads/
 name: Education
 file_type: tag
 title: Education

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /PDF-downloads/
+permalink: /pdf-downloads/
 name: PDF
 file_type: tag
 title: PDF

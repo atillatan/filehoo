@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Cover-editors-downloads/
+permalink: /cover-editors-downloads/
 name: Cover editors
 file_type: tag
 title: Cover editors

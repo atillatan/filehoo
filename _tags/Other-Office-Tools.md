@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Other-Office-Tools-downloads/
+permalink: /other-office-tools-downloads/
 name: Other Office Tools
 file_type: tag
 title: Other Office Tools

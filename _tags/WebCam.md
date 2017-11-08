@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /WebCam-downloads/
+permalink: /webcam-downloads/
 name: WebCam
 file_type: tag
 title: WebCam

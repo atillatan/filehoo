@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Debuggers-Decompilers-Dissasemblers-downloads/
+permalink: /debuggers-decompilers-dissasemblers-downloads/
 name: Debuggers-Decompilers-Dissasemblers
 file_type: tag
 title: Debuggers-Decompilers-Dissasemblers

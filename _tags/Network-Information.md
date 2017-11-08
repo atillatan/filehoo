@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Network-Information-downloads/
+permalink: /network-Information-downloads/
 name: Network Information
 file_type: tag
 title: Network Information

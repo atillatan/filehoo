@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Graphic-downloads/
+permalink: /graphic-downloads/
 name: Graphic
 file_type: tag
 title: Graphic

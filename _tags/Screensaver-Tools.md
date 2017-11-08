@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Screensaver-Tools-downloads/
+permalink: /screensaver-tools-downloads/
 name: Screensaver Tools
 file_type: tag
 title: Screensaver Tools

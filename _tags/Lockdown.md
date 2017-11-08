@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Lockdown-downloads/
+permalink: /lockdown-downloads/
 name: Lockdown
 file_type: tag
 title: Lockdown

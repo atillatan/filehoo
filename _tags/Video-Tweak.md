@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Video-Tweak-downloads/
+permalink: /video-tweak-downloads/
 name: Video Tweak
 file_type: tag
 title: Video Tweak

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Telnet-SSH-Clients-downloads/
+permalink: /telnet-ssh-clients-downloads/
 name: Telnet-SSH Clients
 file_type: tag
 title: Telnet-SSH Clients

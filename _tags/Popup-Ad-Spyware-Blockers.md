@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Popup-Ad-Spyware-Blockers-downloads/
+permalink: /popup-ad-spyware-blockers-downloads/
 name: Popup-Ad-Spyware Blockers
 file_type: tag
 title: Popup-Ad-Spyware Blockers

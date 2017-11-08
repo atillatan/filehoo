@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /DVD-Rip-Other-Tools-downloads/
+permalink: /dvd-rip-other-tools-downloads/
 name: DVD Rip-Other Tools
 file_type: tag
 title: DVD Rip-Other Tools

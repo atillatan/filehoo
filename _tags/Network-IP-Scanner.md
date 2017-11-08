@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Network-IP-Scanner-downloads/
+permalink: /network-ip-scanner-downloads/
 name: Network-IP Scanner
 file_type: tag
 title: Network-IP Scanner

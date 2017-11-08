@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Uninstallers-downloads/
+permalink: /uninstallers-downloads/
 name: Uninstallers
 file_type: tag
 title: Uninstallers

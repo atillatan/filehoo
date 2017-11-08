@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /OS-Enhancements-downloads/
+permalink: /os-enhancements-downloads/
 name: OS Enhancements
 file_type: tag
 title: OS Enhancements

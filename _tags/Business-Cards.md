@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Business-Cards-downloads/
+permalink: /business-cards-downloads/
 name: Business Cards
 file_type: tag
 title: Business Cards

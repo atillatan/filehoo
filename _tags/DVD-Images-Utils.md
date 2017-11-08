@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /DVD-Images-Utils-downloads/
+permalink: /dvd-images-utils-downloads/
 name: DVD Images Utils
 file_type: tag
 title: DVD Images Utils

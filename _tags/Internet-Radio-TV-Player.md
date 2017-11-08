@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Internet-Radio-TV-Player-downloads/
+permalink: /internet-radio-tv-player-downloads/
 name: Internet Radio-TV Player
 file_type: tag
 title: Internet Radio-TV Player

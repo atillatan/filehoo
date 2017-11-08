@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Home-downloads/
+permalink: /home-downloads/
 name: Home
 file_type: tag
 title: Home

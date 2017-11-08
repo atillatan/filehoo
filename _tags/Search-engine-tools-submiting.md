@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Search-engine-tools-submiting-downloads/
+permalink: /search-engine-tools-submiting-downloads/
 name: Search engine tools-submiting
 file_type: tag
 title: Search engine tools-submiting

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Registry-Tweak-downloads/
+permalink: /registry-tweak-downloads/
 name: Registry Tweak
 file_type: tag
 title: Registry Tweak
