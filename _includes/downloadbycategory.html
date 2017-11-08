@@ -1,11 +1,68 @@
-
-# asd1
-
+{% assign downloadList = site.downloads | sort: 'sort_order'  %}
 
 
+{% assign smallIncludeCategory=include.category | slugify %}
+
+{% assign rawtags = "" %}
+
+{% for download in site.downloads %}
+  {% assign smallCategory=download.category | slugify %}
+
+  {% if smallCategory contains smallIncludeCategory %}
+  	{% assign ttags = download.tags | join:'|' | append:'|' %}
+  	{% assign rawtags = rawtags | append:ttags %}
+  {% endif %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
 
 
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+
+
+
+
+
+<table class="table table-responsive" style="margin-bottom:10px;">
+        <tbody>
+          <tr>
+        <td nowrap="" bgcolor="">
+        <h5 style="margin:0px">Related Downloads</h5>
+         </td>
+        </tr>
+      </tbody>
+</table>
+<table   style="margin-left:20px;">
+  <tr>
+{% assign counter = 0 %}
+    {% for tag in tags %}
+    {% assign counter=counter | plus:1 %}
+    <td style="border:0px solid #dfdfdf; padding:5px;">
+    <a class="" href="/{{ tag | slugify }}-downloads/" >
+      <i class="fa fa-folder" aria-hidden="true"></i> {{ tag }}
+    </a>
+   </td>
+    {% if counter==3 %}
+    {% assign counter = 0 %}
+    </tr>
+     <tr>
+    {% endif %}
+
+    {% endfor %}
+</tr>
+
+</table>
 
 
 
@@ -19,3 +76,32 @@
         </tr>
       </tbody>
 </table>
+
+
+{% for download in downloadList %}
+  {% assign download_category=download.category | slugify %}
+
+  {% if download_category contains smallIncludeCategory %}
+
+
+  <table style="margin:20px;width:70%">
+    <tbody>
+      <tr>
+        <td valign="top"><b><a title="{{download.name}} description " href="{{download.url}}/">{{download.name}}</a></b>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF">
+          <p class="d_normal_text" style="margin:0px;">{{download.description}}</p>
+          <span class="d_small_info">Version: {{download.version}}, Size: {{download.size}}, Category: {{download.category}}
+            <br>Licence: {{download.licence}}  -
+            <a rel="nofollow" title="Download {{download.name}}" href="{{download.url}}/" style="color:#77c;font-size:12px;">
+              <nobr>Download Now </nobr>
+            </a>
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  {% endif %}
+{% endfor %}

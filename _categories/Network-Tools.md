@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Network-Tools/
+permalink: /download-network-tools/
 name: Network tools
 file_type: category
 title: Network tools

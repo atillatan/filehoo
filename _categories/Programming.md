@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Programming/
+permalink: /download-programming/
 name: Programming
 file_type: category
 title: Programming

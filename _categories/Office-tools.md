@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Office-tools/
+permalink: /download-office-tools/
 name: Office tools
 file_type: category
 title: Office tools
