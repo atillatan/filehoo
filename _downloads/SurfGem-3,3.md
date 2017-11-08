@@ -12,21 +12,21 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  3.3
 size: 2.18 MB
 downloadurl: http://www.texnotes.com/trial/surfgm33.exe
 response: 302
-by: 
-by_link: 
-licence: Trial 
+by:
+by_link:
+licence: Trial
 os: Windows
 ---
 

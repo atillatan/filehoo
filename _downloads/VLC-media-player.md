@@ -1,9 +1,9 @@
 ---
 layout: downloadpage
-permalink: /downloads/VLC-media-player-(formerly-VideoLAN-Client)-0,8,6c-Final/
-name: VLC media player (formerly VideoLAN Client) 0.8.6c Final
+permalink: /downloads/VLC-media-player/
+name: VLC media player
 file_type: download
-title: VLC media player (formerly VideoLAN Client) 0.8.6c Final
+title: VLC media player
 description: >-
   A multi-platform multimedia player that can read DVDs, VCDs, MPEG, and DivX files
 tags: [Video]
@@ -13,19 +13,19 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  Final
 size: 9.23 MB
-downloadurl: http://downloads.videolan.org/pub/videolan/vlc/0.8.6c/win32/vlc 0.8.6c win32.exe
+downloadurl: https://sourceforge.net/projects/vlc/files/latest/download?source=directory
 response: 200
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---

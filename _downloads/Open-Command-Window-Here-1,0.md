@@ -5,7 +5,7 @@ name: Open Command Window Here 1.0
 file_type: download
 title: Open Command Window Here 1.0
 description: >-
-  Open Command Window Here adds an 
+  Open Command Window Here adds an
 tags: [OS Enhancements]
 category: System
 sort_order: 100
@@ -13,19 +13,19 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  1.0
 size: 513 KB
-downloadurl: http://download.microsoft.com/download/whistler/Install/2/WXP/EN US/CmdHerePowertoySetup.exe
+downloadurl: http://download.microsoft.com/download/whistler/Install/2/WXP/EN-US/CmdHerePowertoySetup.exe
 response: 200
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---

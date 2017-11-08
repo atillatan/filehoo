@@ -12,21 +12,21 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  4.1.2
 size: 721 KB
 downloadurl: http://software files.download.com/sd/mm099u5qHAhtKq0aT8ydzeTJASkBfAGW5MkBKQF8AZbkyQEpAXwBlqJkDW0ZgvIKxPu2lm6oxXtfQJ9UazCoLuz3q3YcxHkw/software/10407419/10407418/1174/mvncce.zip?&lop=feed.dl&subj=intfeed&part=dlint&pid=10407419&psid=10407418&ontid=2163&si
 response: 301
-by: 
-by_link: 
-licence: GPL 
+by:
+by_link:
+licence: GPL
 os: Windows
 ---
 

@@ -12,20 +12,20 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  2.0
 size: 322 KB
 downloadurl: http://www.alouwebdesign.ca/free downloads/downloads/site popularity meter/aloupopmeter.exe
 response: 301
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---

@@ -12,21 +12,21 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  6.4
 size: 1.10 MB
-downloadurl: http://www.pc safety.com/download/securitytweaker.zip
+downloadurl: http://www.pcsafety.com/download/securitytweaker.zip
 response: 200
-by: 
-by_link: 
-licence: Demo 
+by:
+by_link:
+licence: Demo
 os: Windows
 ---
 

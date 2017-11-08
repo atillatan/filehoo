@@ -13,20 +13,20 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  6.5.1
 size: 2.54 MB
 downloadurl: http://www.regnow.com/trialware/download/Download_smrproa.exe?item=7091 4&affiliate=22260
 response: 404
-by: 
-by_link: 
-licence: Demo 
+by:
+by_link:
+licence: Demo
 os: Windows
 ---
 
