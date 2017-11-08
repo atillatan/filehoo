@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Internet/
+permalink: /download-internet/
 name: Internet
 file_type: category
 title: Internet

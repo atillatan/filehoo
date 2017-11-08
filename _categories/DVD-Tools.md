@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-DVD-Tools/
+permalink: /download-dvd-tools/
 name: CD-DVD Tools
 file_type: category
 title: DVD Tools

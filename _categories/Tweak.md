@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Tweak/
+permalink: /download-tweak/
 name: Tweak
 file_type: category
 title: Tweak

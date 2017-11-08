@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Authoring-tools/
+permalink: /download-authoring-tools/
 name: Antivirus
 file_type: category
 title: Authoring tools

@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-Desktop-Enhancements/
+permalink: /download-desktop-enhancements/
 name: Desktop enhancements
 file_type: category
 title: Desktop enhancements

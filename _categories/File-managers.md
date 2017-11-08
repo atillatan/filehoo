@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /download-File-managers/
+permalink: /download-file-managers/
 name: File managers
 file_type: category
 title: File managers
