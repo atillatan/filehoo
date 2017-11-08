@@ -1,8 +1,8 @@
 title: Filehoo Download Full Freeware Shareware Software Programs applications utilities tools portable apps
 baseurl: "" # the subpath of your site, e.g. /blog
 domain-name: www.filehoo.com
-url: https://www.filehoo.com
-enforce_ssl: /www.filehoo.com
+url: http://www.filehoo.com
+#enforce_ssl: /www.filehoo.com
 keywords: >- # this means to ignore newlines until "description:"
   Filehoo, download, freeware, shareware, software, programs,
   screensavers, wallpapers, codecs, applications, utilities, drivers, games
