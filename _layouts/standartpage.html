@@ -8,6 +8,16 @@ layout: basepage
   <div class="panel-body" style="padding:0px;">
 
     <div class="col-md-8">
+      {% if site.environment=="production" %}
+      <script type="text/javascript"><!--
+      google_ad_client = "pub-6932012645209598";
+      /* top */
+      google_ad_slot = "5843510267";
+      google_ad_width = 728;
+      google_ad_height = 90;
+      //-->
+      </script>
+     {% endif %}
       <article>
         {{content}}
       </article>
