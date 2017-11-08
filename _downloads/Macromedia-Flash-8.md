@@ -7,7 +7,7 @@ title: Macromedia Flash 8
 description: >-
   Macromedia Flash - Create effective rich content and applications across desktops and devices
 tags: [WEB Design]
-category: Most Wanted
+category: Internet
 sort_order: 100
 rating: 100
 changefreq: monthly

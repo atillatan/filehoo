@@ -7,7 +7,7 @@ title: Adobe PhotoShop CS2
 description: >-
   Adobe PhotoShop CS2 software, the professional image-editing standard and leader of the Photoshop digital imaging line, delivers more of what you crave. Groundbreaking creative tools help you achieve extraordinary results....
 tags: [Graphic, Design]
-category: Most Wanted
+category: Multimedia
 sort_order: 100
 rating: 100
 changefreq: monthly

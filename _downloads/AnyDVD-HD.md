@@ -7,25 +7,25 @@ title: AnyDVD HD
 description: >-
   AnyDVD HD application will come with same functionality as AnyDVD, but with additional features for full HD-DVD (High Definition DVD) support, including decryption of HD-DVD movie discs
 tags: [DVD Rip-Other Tools]
-category: Most Wanted
+category: DVD tools
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 6.3.0.0
 size: 1.8 MB
 downloadurl: http://static.slysoft.com/SetupAnyDVD6300.exe
 response: -1
-by: 
-by_link: 
+by:
+by_link:
 licence: Trial
 os: Windows
 ---

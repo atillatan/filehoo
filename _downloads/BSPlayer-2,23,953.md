@@ -7,25 +7,25 @@ title: BSPlayer 2.23.953
 description: >-
   BSPlayer' was once one of the best video players, BSplayer is windows player for playing back avi/asf/mpeg video files
 tags: [Video]
-category: Most Wanted
+category: Multimedia
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 2.23.953
 size: 6.4 MB
 downloadurl: http://download2.bsplayer.com/download_free_bsplayer.php?type=1
 response: 404
-by: 
-by_link: 
+by:
+by_link:
 licence: Free
 os: Windows
 ---

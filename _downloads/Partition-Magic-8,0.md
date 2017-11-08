@@ -7,25 +7,25 @@ title: Partition Magic 8.0
 description: >-
   Partitioning your hard drive plays an essential role in maintaining your computer—preventing conflicts, protecting data, improving efficiency, and increasing performance.
 tags: [Hard Disk Utils]
-category: Most Wanted
+category: System
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 8.01
 size: 22.6 MB
 downloadurl: http://www.idilis.ro/downloads/idl/ENPM800RETAILDEMO.ZIP
 response: 404
-by: 
-by_link: 
+by:
+by_link:
 licence: Free
 os: Windows
 ---

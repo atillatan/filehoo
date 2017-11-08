@@ -7,26 +7,26 @@ title: CloneCD 5.3.0.5 Beta
 description: >-
   CloneCD is a powerful CD copy program. It writes in RAW mode, allowing full control on the written data. Therefore, CloneCD will produce real 1:1 copies of your CDs.Due to this special copying mode, CloneCD requires a CD writer that can write in
 tags: [DVD Images Utils]
-category: Most Wanted
+category: DVD tools
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 5.3.0.5 Beta
 size: 2.54 MB
 downloadurl: http://update.slysoft.com/SetupCloneCD5301.exe
 response: -1
-by: 
-by_link: 
-licence: Trial 
+by:
+by_link:
+licence: Trial
 os: Windows
 ---
 

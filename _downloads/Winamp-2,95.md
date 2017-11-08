@@ -7,7 +7,7 @@ title: Winamp 2.95
 description: >-
   Winamp is the premier digital audio player for Windows
 tags: [Audio]
-category: Most Wanted
+category: Multimedia
 sort_order: 100
 rating: 100
 changefreq: monthly
