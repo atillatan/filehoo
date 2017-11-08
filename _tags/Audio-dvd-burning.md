@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Audio-DVD-burning-downloads/
+permalink: /audio-dvd-burning-downloads/
 name: Audio DVD burning
 file_type: tag
 title: Audio DVD burning

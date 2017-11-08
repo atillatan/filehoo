@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Authoring-Related-downloads/
+permalink: /authoring-related-downloads/
 name: Authoring Related
 file_type: tag
 title: Authoring Related

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Chat-downloads/
+permalink: /chat-downloads/
 name: Chat
 file_type: tag
 title: Chat

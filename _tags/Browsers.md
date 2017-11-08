@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Browsers-downloads/
+permalink: /browsers-downloads/
 name: Browsers
 file_type: tag
 title: Browsers

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Security-Related-downloads/
+permalink: /security-related-downloads/
 name: Security Related
 file_type: tag
 title: Security Related

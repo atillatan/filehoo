@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /File-Sharing-downloads/
+permalink: /file-sharing-downloads/
 name: File Sharing
 file_type: tag
 title: File Sharing

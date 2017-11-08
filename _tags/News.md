@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /News-downloads/
+permalink: /news-downloads/
 name: News
 file_type: tag
 title: News

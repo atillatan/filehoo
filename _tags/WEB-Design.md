@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /WEB-Design-downloads/
+permalink: /web-design-downloads/
 name: WEB Design
 file_type: tag
 title: WEB Design

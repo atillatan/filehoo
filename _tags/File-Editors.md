@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /File-Editors-downloads/
+permalink: /file-editors-downloads/
 name: File Editors
 file_type: tag
 title: File Editors

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Screensavers-downloads/
+permalink: /screensavers-downloads/
 name: Screensavers
 file_type: tag
 title: Screensavers

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Newsgroups-Blog-Tools-downloads/
+permalink: /newsgroups-blog-tools-downloads/
 name: Newsgroups-Blog Tools
 file_type: tag
 title: Newsgroups-Blog Tools

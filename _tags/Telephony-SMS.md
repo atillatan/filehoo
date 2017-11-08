@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Telephony-SMS-downloads/
+permalink: /telephony-sms-downloads/
 name: Telephony-SMS
 file_type: tag
 title: Telephony-SMS

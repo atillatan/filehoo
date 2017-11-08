@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Icons-Related-downloads/
+permalink: /icons-related-downloads/
 name: Icons Related
 file_type: tag
 title: Icons Related

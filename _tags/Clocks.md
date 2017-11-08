@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Clocks-downloads/
+permalink: /clocks-downloads/
 name: Clocks
 file_type: tag
 title: Clocks

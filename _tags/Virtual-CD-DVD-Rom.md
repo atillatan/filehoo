@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Virtual-CD-DVD-Rom-downloads/
+permalink: /virtual-cd-dvd-rom-downloads/
 name: Virtual CD-DVD-Rom
 file_type: tag
 title: Virtual CD-DVD-Rom

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Text-editors-downloads/
+permalink: /text-editors-downloads/
 name: Text editors
 file_type: tag
 title: Text editors

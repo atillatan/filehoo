@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Memory-Tweak-downloads/
+permalink: /memory-tweak-downloads/
 name: Memory Tweak
 file_type: tag
 title: Memory Tweak

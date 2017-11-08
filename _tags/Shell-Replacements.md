@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Shell-Replacements-downloads/
+permalink: /shell-replacements-downloads/
 name: Shell Replacements
 file_type: tag
 title: Shell Replacements

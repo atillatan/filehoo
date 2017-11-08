@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Servers-downloads/
+permalink: /servers-downloads/
 name: Servers
 file_type: tag
 title: Servers

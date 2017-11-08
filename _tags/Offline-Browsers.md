@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Offline-Browsers-downloads/
+permalink: /offline-browsers-downloads/
 name: Offline Browsers
 file_type: tag
 title: Offline Browsers

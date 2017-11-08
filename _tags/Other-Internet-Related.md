@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Other-Internet-Related-downloads/
+permalink: /other-internet-related-downloads/
 name: Other Internet Related
 file_type: tag
 title: Other Internet Related

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Secure-cleaning-downloads/
+permalink: /secure-cleaning-downloads/
 name: Secure cleaning
 file_type: tag
 title: Secure cleaning

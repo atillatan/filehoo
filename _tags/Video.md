@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Video-downloads/
+permalink: /video-downloads/
 name: Video
 file_type: tag
 title: Video

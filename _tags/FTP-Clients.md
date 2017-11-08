@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /FTP-Clients-downloads/
+permalink: /ftp-clients-downloads/
 name: FTP Clients
 file_type: tag
 title: FTP Clients

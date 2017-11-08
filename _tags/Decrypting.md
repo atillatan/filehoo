@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Decrypting-downloads/
+permalink: /decrypting-downloads/
 name: Decrypting
 file_type: tag
 title: Decrypting

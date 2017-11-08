@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Other-Programming-Files-downloads/
+permalink: /other-programming-files-downloads/
 name: Other Programming Files
 file_type: tag
 title: Other Programming Files

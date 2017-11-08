@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Packers-Crypters-Protectors-downloads/
+permalink: /packers-crypters-protectors-downloads/
 name: Packers-Crypters-Protectors
 file_type: tag
 title: Packers-Crypters-Protectors

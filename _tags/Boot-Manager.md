@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Boot-Manager-downloads/
+permalink: /boot-manager-downloads/
 name: Boot Manager
 file_type: tag
 title: Boot Manager

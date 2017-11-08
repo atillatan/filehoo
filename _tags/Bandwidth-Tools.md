@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Bandwidth-Tools-downloads/
+permalink: /bandwidth-tools-downloads/
 name: Bandwidth Tools
 file_type: tag
 title: Bandwidth Tools

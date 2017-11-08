@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Help-downloads/
+permalink: /help-downloads/
 name: Help
 file_type: tag
 title: Help

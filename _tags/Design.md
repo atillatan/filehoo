@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Design-downloads/
+permalink: /design-downloads/
 name: Design
 file_type: tag
 title: Design

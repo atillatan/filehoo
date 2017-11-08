@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Back-Up-and-Recovery-downloads/
+permalink: /back-up-and-recovery-downloads/
 name: Back-Up and Recovery
 file_type: tag
 title: Back-Up and Recovery

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /System-Info-downloads/
+permalink: /system-info-downloads/
 name: System Info
 file_type: tag
 title: System Info

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Encrypting-downloads/
+permalink: /encrypting-downloads/
 name: Encrypting
 file_type: tag
 title: Encrypting

@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Miscellaneous-downloads/
+permalink: /miscellaneous-downloads/
 name: Miscellaneous
 file_type: tag
 title: Miscellaneous

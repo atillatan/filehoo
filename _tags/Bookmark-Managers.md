@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Bookmark-Managers-downloads/
+permalink: /bookmark-managers-downloads/
 name: Bookmark Managers
 file_type: tag
 title: Bookmark Managers

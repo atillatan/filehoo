@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Data-DVD-Burning-downloads/
+permalink: /data-dvd-burning-downloads/
 name: Data DVD Burning
 file_type: tag
 title: Data DVD Burning

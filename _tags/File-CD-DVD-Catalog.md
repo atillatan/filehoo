@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /File-CD-DVD-Catalog-downloads/
+permalink: /file-cd-dvd-catalog-downloads/
 name: File-CD-DVD Catalog
 file_type: tag
 title: File-CD-DVD Catalog

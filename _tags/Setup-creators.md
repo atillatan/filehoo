@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Setup-creators-downloads/
+permalink: /setup-creators-downloads/
 name: Setup creators
 file_type: tag
 title: Setup creators

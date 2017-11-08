@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Other-Desktop-Enhancements-downloads/
+permalink: /other-desktop-enhancements-downloads/
 name: Other Desktop Enhancements
 file_type: tag
 title: Other Desktop Enhancements

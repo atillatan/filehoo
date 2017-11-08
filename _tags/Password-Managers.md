@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Password-Managers-downloads/
+permalink: /password-managers-downloads/
 name: Password Managers
 file_type: tag
 title: Password Managers

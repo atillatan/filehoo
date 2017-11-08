@@ -1,6 +1,6 @@
 ---
 layout: downloadlistpage
-permalink: /Themes-downloads/
+permalink: /themes-downloads/
 name: Themes
 file_type: tag
 title: Themes
