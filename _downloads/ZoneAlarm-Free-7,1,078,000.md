@@ -12,20 +12,20 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: true
-create_date: 
+published: false
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  7.1.078.000
 size: 17.5 MB
 downloadurl: http://download.zonealarm.com/bin/free/1025_update/zlsSetup_71_078_000_en.exe
 response: 301
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---
