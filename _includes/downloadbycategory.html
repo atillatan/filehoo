@@ -3,66 +3,13 @@
 
 {% assign smallIncludeCategory=include.category | slugify %}
 
-{% assign rawtags = "" %}
-
-{% for download in site.downloads %}
-  {% assign smallCategory=download.category | slugify %}
-
-  {% if smallCategory contains smallIncludeCategory %}
-  	{% assign ttags = download.tags | join:'|' | append:'|' %}
-  	{% assign rawtags = rawtags | append:ttags %}
-  {% endif %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
-
-
-
-{% assign tags = "" %}
-{% for tag in rawtags %}
-	{% if tag != "" %}
-		{% if tags == "" %}
-			{% assign tags = tag | split:'|' %}
-		{% endif %}
-		{% unless tags contains tag %}
-			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-		{% endunless %}
-	{% endif %}
-{% endfor %}
 
 
 
 
 
 
-<table class="table table-responsive" style="margin-bottom:10px;">
-        <tbody>
-          <tr>
-        <td nowrap="" bgcolor="">
-        <h5 style="margin:0px">Related Downloads</h5>
-         </td>
-        </tr>
-      </tbody>
-</table>
-<table   style="margin-left:20px;">
-  <tr>
-{% assign counter = 0 %}
-    {% for tag in tags %}
-    {% assign counter=counter | plus:1 %}
-    <td style="border:0px solid #dfdfdf; padding:5px;">
-    <a class="" href="/{{ tag | slugify }}-downloads/" >
-      <i class="fa fa-folder" aria-hidden="true"></i> {{ tag }}
-    </a>
-   </td>
-    {% if counter==3 %}
-    {% assign counter = 0 %}
-    </tr>
-     <tr>
-    {% endif %}
-
-    {% endfor %}
-</tr>
-
-</table>
+ 
 
 
 
