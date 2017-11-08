@@ -35,12 +35,12 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 
     {% for tag in tags %}
 			  {% if page.tags contains tag %}
-		      <a  href="/{{ tag | slugify }}-downloads" style="background-color:#dae8f5">
+		      <a  href="/{{ tag | slugify }}-downloads/" style="background-color:#dae8f5">
 						  {{ tag }},
 					</a>
 				{% endif %}
 				{% unless page.tags contains tag %}
-					<a  href="/{{ tag | slugify }}-downloads">
+					<a  href="/{{ tag | slugify }}-downloads/">
 						  {{ tag }},
 					</a>
 				{% endunless %}

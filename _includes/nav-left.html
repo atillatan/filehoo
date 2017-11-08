@@ -46,12 +46,12 @@
 
 				 {% for category in categories %}
 						 {% if page.category contains category %}
-							 <a class="list-group-item" href="/download-{{ category | slugify }}" style="background-color:#dae8f5">
+							 <a class="list-group-item" href="/download-{{ category | slugify }}/" style="background-color:#dae8f5">
 								 <i class="fa fa-folder-open" aria-hidden="true"></i> {{ category }}
 							 </a>
 						 {% endif %}
 						 {% unless page.category contains category %}
-							 <a class="list-group-item" href="/download-{{ category | slugify }}">
+							 <a class="list-group-item" href="/download-{{ category | slugify }}/">
 								 <i class="fa fa-folder" aria-hidden="true"></i> {{ category }}
 							 </a>
 						 {% endunless %}
