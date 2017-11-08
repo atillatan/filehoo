@@ -3,13 +3,13 @@
 
 {% assign smallIncludeCategory=include.category | slugify %}
 
+# asd
 
 
 
 
 
 
- 
 
 
 
@@ -23,32 +23,3 @@
         </tr>
       </tbody>
 </table>
-
-
-{% for download in downloadList %}
-  {% assign download_category=download.category | slugify %}
-
-  {% if download_category contains smallIncludeCategory %}
-
-
-  <table style="margin:20px;width:70%">
-    <tbody>
-      <tr>
-        <td valign="top"><b><a title="{{download.name}} description " href="{{download.url}}/">{{download.name}}</a></b>
-        </td>
-      </tr>
-      <tr>
-        <td bgcolor="#FFFFFF">
-          <p class="d_normal_text" style="margin:0px;">{{download.description}}</p>
-          <span class="d_small_info">Version: {{download.version}}, Size: {{download.size}}, Category: {{download.category}}
-            <br>Licence: {{download.licence}}  -
-            <a rel="nofollow" title="Download {{download.name}}" href="{{download.url}}/" style="color:#77c;font-size:12px;">
-              <nobr>Download Now </nobr>
-            </a>
-          </span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  {% endif %}
-{% endfor %}
