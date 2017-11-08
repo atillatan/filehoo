@@ -1,9 +1,9 @@
 ---
 layout: downloadpage
-permalink: /downloads/QuickZip-1,1-Beta/
-name: QuickZip 1.1 Beta
+permalink: /downloads/QuickZip/
+name: QuickZip
 file_type: download
-title: QuickZip 1.1 Beta
+title: QuickZip
 description: >-
   QuickZip is a freeware file archiver, which handles .zip files
 tags: [null]
@@ -13,20 +13,20 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
-version:  Beta
-size: 557 KB
-downloadurl: http://cdn.simtel.net/pub/simtelnet/win95/compress/dm/download quickzip.exe.exe
+redirect_url:
+###
+version:  4.60.019
+size: 4.20 MB
+downloadurl: http://www.tucows.com/download/windows/files3/quickzip.exe
 response: 200
-by: 
-by_link: 
-licence: GPL 
+by:
+by_link:
+licence: GPL
 os: Windows
 ---
 

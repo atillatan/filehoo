@@ -42,6 +42,7 @@ body {
     font-weight: normal;
     color: #3F00DD;
     background: #eeeeee;
+    white-space: nowrap;
 }
 #tablist2 li a:hover
 {

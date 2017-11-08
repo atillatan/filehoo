@@ -13,19 +13,19 @@ rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  Beta
 size: 749 KB
 downloadurl: http://www.spampal.net/spampal 1.73h beta.exe
 response: 302
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---

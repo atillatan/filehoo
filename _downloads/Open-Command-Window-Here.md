@@ -12,7 +12,7 @@ sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
-published: false
+published: true
 create_date:
 modified_date: 03/11/2017
 created_by:
@@ -22,7 +22,7 @@ redirect_url:
 ###
 version: 1.0
 size: 513 KB
-downloadurl: http://download.microsoft.com/download/whistler/Install/2/WXP/EN US/CmdHerePowertoySetup.exe
+downloadurl: http://download.microsoft.com/download/whistler/Install/2/WXP/EN-US/CmdHerePowertoySetup.exe
 response: 200
 by:
 by_link:
