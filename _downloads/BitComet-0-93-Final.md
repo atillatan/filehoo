@@ -7,25 +7,25 @@ title: BitComet 0.93
 description: >-
   BitComet is a p2p file-sharing freeware fully compatible with Bittorrent, which is one of the most popular p2p protocol designed for high-speed distribution of 100MB or GB sized files. BitComet is a powerful, clean, fast, and easy-to-use bittorrent client
 tags: [File Sharing]
-category: Most Wanted
+category: Internet
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 0.91
 size: 4.72 MB
 downloadurl: http://cn.bitcomet.com/achive/BitComet_0.93_setup.exe
 response: 200
-by: 
-by_link: 
+by:
+by_link:
 licence: Freeware
 os: Windows
 ---

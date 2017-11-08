@@ -1,12 +1,11 @@
 ---
 layout: downloadpage
-permalink: /download-Compression-tools/
+permalink: /download-compression-tools/
 name: Compression tools
 file_type: category
 title: Compression tools
-keywords:
 description: Compression tools
-tags:  
+tags:   
 category: Compression tools
 sort_order: 30
 rating: 100

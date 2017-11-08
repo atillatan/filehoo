@@ -7,26 +7,26 @@ title: Yahoo! Messenger 8.1.0.421
 description: >-
   Yahoo! Messenger - Instant messaging allows you to quickly exchange messages with your online friends
 tags: [Chat]
-category: Most Wanted
+category: Internet
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: true
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version:  8.1.0.421
 size: 9.94 MB
 downloadurl: http://us.dl1.yimg.com/download.yahoo.com/dl/msgr8/us/msgr8us.exe
 response: 301
-by: 
-by_link: 
-licence: Adware 
+by:
+by_link:
+licence: Adware
 os: Windows
 ---
 

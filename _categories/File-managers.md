@@ -4,7 +4,6 @@ permalink: /download-File-managers/
 name: File managers
 file_type: category
 title: File managers
-keywords:
 description: File managers
 tags:  
 category: File managers

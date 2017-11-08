@@ -7,25 +7,25 @@ title: DVD X Copy Deluxe 6.0
 description: >-
   DVD X Copy Deluxe will copy your DVD movies without losing quality
 tags: [DVD Rip-Other Tools]
-category: Most Wanted
+category: DVD tools
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 6.0
 size: 2.55 MB
 downloadurl: http://www.regnow.com/trialware/download/Download_dxdsetup.exe?item=11644 1&affiliate=22260
 response: 404
-by: 
-by_link: 
+by:
+by_link:
 licence: Shareware
 os: Windows
 ---

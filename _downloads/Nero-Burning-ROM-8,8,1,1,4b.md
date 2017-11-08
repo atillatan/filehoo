@@ -7,25 +7,25 @@ title: Nero Burning ROM 8 8.1.1.4
 description: >-
   Using Nero 8 Ultra Edition you can now create and edit, convert and share, rip and burn, backup and protect your digital media, all from one easy-to-use interface!
 tags: [Data DVD Burning]
-category: Most Wanted
+category: DVD tools
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 8 8.1.1.4
 size: 179.3 MB
 downloadurl: http://for mirror.nero.com/trial/Nero 8.1.1.4_eng_trial.exe
 response: -1
-by: 
-by_link: 
+by:
+by_link:
 licence: Trial
 os: Windows
 ---

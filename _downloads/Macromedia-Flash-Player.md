@@ -7,25 +7,25 @@ title: Macromedia Flash Player
 description: >-
   Macromedia Flash Player lets you view the best animation and entertainment on the Web
 tags: [Other Internet Related]
-category: Most Wanted
+category: Internet
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 9.0.28.0
 size: 1.34MB
 downloadurl: http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player.exe
 response: 404
-by: 
-by_link: 
+by:
+by_link:
 licence: Free
 os: Windows
 ---

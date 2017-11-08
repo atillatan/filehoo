@@ -7,25 +7,25 @@ title: BitComet Turbo Accelerator 2.8.3
 description: >-
   An effective plug-in for BitComet P2P that will speedup your downloads
 tags: [File Sharing]
-category: Most Wanted
+category: Internet
 sort_order: 100
 rating: 100
 changefreq: monthly
 priority: 0.5
 published: false
-create_date: 
+create_date:
 modified_date: 03/11/2017
-created_by: 
-modified_by: 
+created_by:
+modified_by:
 comments: true
-redirect_url: 
-### 
+redirect_url:
+###
 version: 3.2
 size: 1.95 MB
 downloadurl: http://www.regnow.com/trialware/download/Download_BitCometTurboAccelerator_installer.exe?item=12769 18&affiliate=22260
 response: 404
-by: 
-by_link: 
+by:
+by_link:
 licence: Adware  
 os: Windows
 ---
