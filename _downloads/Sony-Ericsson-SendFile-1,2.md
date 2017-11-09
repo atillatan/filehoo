@@ -26,7 +26,7 @@ downloadurl: http://www.codesector.com/files/sendfile.exe
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

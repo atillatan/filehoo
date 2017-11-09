@@ -26,7 +26,7 @@ downloadurl: http://umaniac.leffe.dnsalias.com/stable/XviD.Root.24.02.2003.1100.
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

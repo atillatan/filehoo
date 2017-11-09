@@ -26,7 +26,7 @@ downloadurl: http://www.datalandsoftware.com/files/cdlabdes.exe
 response: 301
 by: 
 by_link: 
-licence: Demo
+license: Demo
 os: Windows
 ---
 

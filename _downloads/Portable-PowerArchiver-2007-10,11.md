@@ -26,7 +26,7 @@ downloadurl: http://dl.powerarchiver.com/2007/powarc1011.u3p
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

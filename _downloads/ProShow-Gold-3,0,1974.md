@@ -26,7 +26,7 @@ downloadurl: http://www.photodex.com/files/release/psgold_30_1974.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

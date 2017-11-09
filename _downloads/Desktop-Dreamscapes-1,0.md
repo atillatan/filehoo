@@ -26,7 +26,7 @@ downloadurl: http://www.superxstudios.com/files/dd/DesktopDreamscapesVol1.exe
 response: 200
 by: 
 by_link: 
-licence: Demo
+license: Demo
 os: Windows
 ---
 

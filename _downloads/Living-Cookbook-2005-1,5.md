@@ -26,7 +26,7 @@ downloadurl: http://www.radiumdownloads.com/downloads/livingcookbook/v1.5/lcsetu
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

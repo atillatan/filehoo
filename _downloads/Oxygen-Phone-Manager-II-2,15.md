@@ -26,7 +26,7 @@ downloadurl: http://www.oxygensoftware.com/download/opm2.zip
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

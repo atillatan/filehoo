@@ -26,7 +26,7 @@ downloadurl: http://parniansoft.com/downloads/ParnianPhoto3Demo.zip
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

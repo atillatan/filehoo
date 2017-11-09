@@ -26,7 +26,7 @@ downloadurl: http://a1216.g.akamai.net/3/1216/1204/68f558a822e315/download.mcafe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

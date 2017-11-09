@@ -26,7 +26,7 @@ downloadurl: http://www.divxity.com/download/DivX412Codec.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.relsoftware.com/wlv/download/wlvsetup.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

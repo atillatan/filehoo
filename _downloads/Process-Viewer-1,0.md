@@ -26,7 +26,7 @@ downloadurl: http://www.mitec.cz/Downloads/PV.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

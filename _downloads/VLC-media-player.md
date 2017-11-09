@@ -26,7 +26,7 @@ downloadurl: https://sourceforge.net/projects/vlc/files/latest/download?source=d
 response: 200
 by:
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

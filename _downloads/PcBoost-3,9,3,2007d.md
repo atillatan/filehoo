@@ -26,7 +26,7 @@ downloadurl: http://www.pgware.com/downloads/pcboost.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

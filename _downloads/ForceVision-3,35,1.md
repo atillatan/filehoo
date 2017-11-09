@@ -26,7 +26,7 @@ downloadurl: http://forcevision.net/download/ForceVision_Setup.exe
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.nsasys.com/downloads/FreePortScanner.exe
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

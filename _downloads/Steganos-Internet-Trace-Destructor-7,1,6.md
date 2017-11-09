@@ -26,7 +26,7 @@ downloadurl: http://www.steganos.com/software/itd7int.exe
 response: 301
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.kevesoft.com/files/TagClinic43.zip
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

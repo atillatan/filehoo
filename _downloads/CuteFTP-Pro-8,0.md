@@ -26,7 +26,7 @@ downloadurl: http://installer.globalscape.com/pub/cuteftppro/cuteftppro.exe
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://dexpot.de/download/dexpot14.exe
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

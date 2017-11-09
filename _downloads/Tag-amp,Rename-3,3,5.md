@@ -26,7 +26,7 @@ downloadurl: http://www.softpointer.com/downloads/TagRename335.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

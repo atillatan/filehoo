@@ -26,7 +26,7 @@ downloadurl: http://dl5.filekicker.net/private/$adv rgn2$1189586542$98ebe339dbb2
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://prdownloads.sourceforge.net/virtualdub/VirtualDub 1.7.3.zip
 response: 301
 by: 
 by_link: 
-licence: GPL 
+license: GPL 
 os: Windows
 ---
 

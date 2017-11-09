@@ -26,7 +26,7 @@ downloadurl: http://go.microsoft.com/fwlink/?LinkId=51410&clcid=0x409
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

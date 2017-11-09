@@ -26,7 +26,7 @@ downloadurl: http://www.softperfect.com/download/netscan.exe
 response: 301
 by: 
 by_link: 
-licence: FREE
+license: FREE
 os: Windows
 ---
 

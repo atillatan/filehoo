@@ -26,7 +26,7 @@ downloadurl: http://www.escapeclose.com/EscapeCloseProInstall.exe
 response: 301
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

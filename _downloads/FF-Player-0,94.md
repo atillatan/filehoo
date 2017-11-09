@@ -26,7 +26,7 @@ downloadurl: http://www.ffprojects.net/files/FFPlayer.v0.94.zip
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.rjlsoftware.com/download/exe/resize_setup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://ftp6.ipswitch.com/ipswitch/Product_Downloads/WSFTP_HomeT128_
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

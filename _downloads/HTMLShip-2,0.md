@@ -26,7 +26,7 @@ downloadurl: http://www.excellencesoft.com/HTMLShip%20XP/htmlship.zip
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://cloud-dl.qbik.com/WinGate9.1.1.5951-x64USE.exe
 response: 301
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

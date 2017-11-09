@@ -26,7 +26,7 @@ downloadurl: http://www.neosoft.ru/files/talisman.zip
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://cdrom.digitalriver.com/pub/symantec/2005/NPF_Retail.EXE
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

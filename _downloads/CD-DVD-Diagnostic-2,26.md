@@ -26,7 +26,7 @@ downloadurl: http://www.infinadyne.com/pub/diagnostic.exe
 response: 200
 by: 
 by_link: 
-licence: Free
+license: Free
 os: Windows
 ---
 

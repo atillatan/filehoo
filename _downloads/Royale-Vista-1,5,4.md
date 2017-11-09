@@ -26,7 +26,7 @@ downloadurl: http://fc04.deviantart.com/fs16/f/2007/124/d/a/Royale_Vista_VS_by_d
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

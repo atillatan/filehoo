@@ -26,7 +26,7 @@ downloadurl: http://www.vypress.com/ftp/VyMes40.msi
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

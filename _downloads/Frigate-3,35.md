@@ -26,7 +26,7 @@ downloadurl: http://www.frigate3.com/download/frigate3_pro.exe
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

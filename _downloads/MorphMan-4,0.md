@@ -26,7 +26,7 @@ downloadurl: http://www.stoikimaging.com/downloads/mman300.zip
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

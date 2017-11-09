@@ -26,7 +26,7 @@ downloadurl: http://download.truelaunchbar.com/install/truelaunchbar42.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

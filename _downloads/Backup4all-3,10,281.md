@@ -26,7 +26,7 @@ downloadurl: http://www.backup4all.com/download/setup/b4asetup.exe
 response: 301
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

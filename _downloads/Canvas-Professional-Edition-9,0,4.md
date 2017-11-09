@@ -26,7 +26,7 @@ downloadurl: http://files.acdsystems.com/english/deneba/shareware/canvaspc/canva
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://djmixpro.free.fr/djmixprosetup300.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

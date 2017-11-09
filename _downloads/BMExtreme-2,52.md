@@ -26,7 +26,7 @@ downloadurl: http://www.lp23.com/files/BMExtreme%20v2.52.exe
 response: 302
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

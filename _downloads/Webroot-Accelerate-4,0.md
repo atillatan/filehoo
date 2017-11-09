@@ -26,7 +26,7 @@ downloadurl: http://www.webroot.com/download/trial/1/accsetup1.exe
 response: 302
 by:
 by_link:
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

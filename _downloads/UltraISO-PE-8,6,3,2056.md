@@ -26,7 +26,7 @@ downloadurl: http://www.ezbsys.com/download/uiso8_pe.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.kylinsoft.com/download/instantget.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

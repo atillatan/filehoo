@@ -26,7 +26,7 @@ downloadurl: http://dl.google.com/toolbar/T4/data/en/big/current/GoogleToolbarIn
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

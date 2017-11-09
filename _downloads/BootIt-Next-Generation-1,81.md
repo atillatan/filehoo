@@ -26,7 +26,7 @@ downloadurl: http://terabyteunlimited.com/downloads/bootitng.zip
 response: 301
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.dfincbackup.biz/Download/DFIBk_instHm.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

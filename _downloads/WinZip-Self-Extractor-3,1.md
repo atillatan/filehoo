@@ -26,7 +26,7 @@ downloadurl: http://download.winzip.com/wzipse31.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

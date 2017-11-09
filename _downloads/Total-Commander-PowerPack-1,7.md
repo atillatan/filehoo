@@ -26,7 +26,7 @@ downloadurl: http://www.bloodman.one.pl/totalcmd/download/program/tcmdpp17.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

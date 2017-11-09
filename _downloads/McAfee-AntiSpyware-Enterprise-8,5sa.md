@@ -26,7 +26,7 @@ downloadurl: http://download.nai.com/products/evaluation/anti_spyware/v8.5sa/Eng
 response: 301
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

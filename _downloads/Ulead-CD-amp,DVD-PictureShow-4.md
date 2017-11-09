@@ -26,7 +26,7 @@ downloadurl: http://ftp.ulead.com/pub/Trial/Cool360/C360Try.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

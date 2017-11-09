@@ -26,7 +26,7 @@ downloadurl: http://dl.filebot.org/8057/setupdta.exe
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

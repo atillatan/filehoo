@@ -26,7 +26,7 @@ downloadurl: http://download.jufsoft.com/download/badcopy3.exe
 response: 200
 by: 
 by_link: 
-licence: Demo
+license: Demo
 os: Windows
 ---
 

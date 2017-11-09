@@ -26,7 +26,7 @@ downloadurl: http://www.spampal.net/spampal 1.73h beta.exe
 response: 302
 by:
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

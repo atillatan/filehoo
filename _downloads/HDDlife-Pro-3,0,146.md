@@ -26,7 +26,7 @@ downloadurl: http://www.hddlife.com/HDDlifePro.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

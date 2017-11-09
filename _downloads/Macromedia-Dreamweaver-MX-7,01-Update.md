@@ -26,7 +26,7 @@ downloadurl: http://download.macromedia.com/pub/dreamweaver/updates/dwmx_2004/7_
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

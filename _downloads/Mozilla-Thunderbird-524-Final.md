@@ -26,7 +26,7 @@ downloadurl: https://download.mozilla.org/?product=thunderbird-52.4.0-SSL&os=win
 response: 404
 by: Mozilla
 by_link: https://www.mozilla.org
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

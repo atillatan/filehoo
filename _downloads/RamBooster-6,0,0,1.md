@@ -26,7 +26,7 @@ downloadurl: http://www.sci.fi/~borg/rambooster/Rambooster.zip
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

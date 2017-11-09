@@ -26,7 +26,7 @@ downloadurl: http://download.macromedia.com/pub/dreamweaver/updates/dw_8/8_0_2/w
 response: 200
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

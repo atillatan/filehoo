@@ -26,7 +26,7 @@ downloadurl: http://www.effetech.com/download/MsnSniffer_trial_setup.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.macecraft.com/downloads/RegSupremePro_setup.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

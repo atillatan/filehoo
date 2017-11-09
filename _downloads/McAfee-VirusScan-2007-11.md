@@ -26,7 +26,7 @@ downloadurl: http://download.mcafee.com/products/licensed/vs_pro/english/9.0/VSP
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

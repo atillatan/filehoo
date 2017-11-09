@@ -26,7 +26,7 @@ downloadurl: http://www.vandyke.com/pub/AbsoluteFTP/aftp227.exe
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

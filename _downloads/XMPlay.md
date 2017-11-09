@@ -26,7 +26,7 @@ downloadurl: http://support.xmplay.com/files/20/xmplay3823.zip?v=115916
 response: 200
 by: Ian Luck
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

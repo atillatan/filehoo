@@ -26,7 +26,7 @@ downloadurl: http://www.hamrick.com/files/vuesca84.exe
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

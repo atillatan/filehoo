@@ -26,7 +26,7 @@ downloadurl: http://download.jgsoft.com/editpad/u3/SetupEditPadPro6U3Demo.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.amsn.ro/FastDefrag2.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

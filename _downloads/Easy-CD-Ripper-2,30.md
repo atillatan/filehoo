@@ -26,7 +26,7 @@ downloadurl: http://www.8to32.com/ezcdr_inst.exe
 response: 200
 by: 
 by_link: 
-licence: Demo
+license: Demo
 os: Windows
 ---
 

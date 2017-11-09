@@ -26,7 +26,7 @@ downloadurl: http://download.adobe.com/pub/adobe/photoshop/win/cs2/Photoshop_CS2
 response: 200
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://download.jgsoft.com/editpad/SetupEditPadLite.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

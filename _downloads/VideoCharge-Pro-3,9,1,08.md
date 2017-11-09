@@ -26,7 +26,7 @@ downloadurl: http://www.videocharge.com/download/VideoChargePro_Install.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

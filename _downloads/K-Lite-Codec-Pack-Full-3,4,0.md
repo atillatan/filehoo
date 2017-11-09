@@ -26,7 +26,7 @@ downloadurl: http://files.brothersoft.com/dvd_video/video_codecs/klcodec.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

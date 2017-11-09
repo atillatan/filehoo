@@ -26,7 +26,7 @@ downloadurl: http://www.pmasoft.net/download/onlineeye.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

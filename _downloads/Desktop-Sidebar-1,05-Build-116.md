@@ -26,7 +26,7 @@ downloadurl: http://files.brothersoft.com/desktop_utilities/shell_desktop_manage
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.clonespy.com/english/download/cspy23.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

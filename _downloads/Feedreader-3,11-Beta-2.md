@@ -26,7 +26,7 @@ downloadurl: http://www.feedreader.com/releases/FeedReader310Setup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

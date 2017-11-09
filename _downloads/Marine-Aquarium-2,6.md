@@ -26,7 +26,7 @@ downloadurl: http://download.serenescreen.com/download/MarineAquarium2/Windows/M
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

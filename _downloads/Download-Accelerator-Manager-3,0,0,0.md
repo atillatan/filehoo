@@ -26,7 +26,7 @@ downloadurl: http://www.tensons.com/products/downloadacceleratormanager/dam3Setu
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

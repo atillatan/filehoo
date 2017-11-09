@@ -26,7 +26,7 @@ downloadurl: http://miniwish.com/cc_demo.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

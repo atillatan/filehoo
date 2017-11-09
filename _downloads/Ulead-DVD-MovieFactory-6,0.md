@@ -26,7 +26,7 @@ downloadurl: http://www.corel.com/akdlm/6763/downloads/trials/dmf6/dmf6_tbybhd_u
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

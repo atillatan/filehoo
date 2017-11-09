@@ -26,7 +26,7 @@ downloadurl: http://www.erstenware.com/products/signcrtr.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

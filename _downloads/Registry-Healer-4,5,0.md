@@ -26,7 +26,7 @@ downloadurl: http://www.zoneutils.com/first/rhsetup.zip
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

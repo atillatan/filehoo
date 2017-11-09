@@ -26,7 +26,7 @@ downloadurl: http://www.inmatrix.com/download/zp500wmv.exe
 response: 302
 by:
 by_link:
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://downloads.sourceforge.net/miranda/miranda im v0.6.8 unicode.
 response: 301
 by: 
 by_link: 
-licence: GPL 
+license: GPL 
 os: Windows
 ---
 

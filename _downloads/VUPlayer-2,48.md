@@ -26,7 +26,7 @@ downloadurl: http://www.vuplayer.com/files/vuplayersetup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

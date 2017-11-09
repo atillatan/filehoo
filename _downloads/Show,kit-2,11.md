@@ -26,7 +26,7 @@ downloadurl: http://www.eltima.com/download/sk2setup.exe
 response: 301
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

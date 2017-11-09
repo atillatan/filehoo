@@ -26,7 +26,7 @@ downloadurl: http://www.roadlynx.net/~rccooke/cro/XP_Theme.zip
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

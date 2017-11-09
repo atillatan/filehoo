@@ -26,7 +26,7 @@ downloadurl: http://199.217.116.45/freesoftwarefiles.com/Desktop/WhatsAppSetup.e
 response: 302
 by: Whatsapp
 by_link: https://www.whatsapp.com/
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

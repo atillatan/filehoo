@@ -26,7 +26,7 @@ downloadurl: http://wcarchive.cdrom.com/pub/simtelnet/win95/telecomm/iplus35.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

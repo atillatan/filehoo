@@ -26,7 +26,7 @@ downloadurl: http://download.betanews.com/download/1119628827/winampalt110.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

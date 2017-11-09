@@ -26,7 +26,7 @@ downloadurl: http://www.cogitum.com/downloads/CoTracker/CoTracker.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.istartedsomething.com/uploads/royale_noir.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 
