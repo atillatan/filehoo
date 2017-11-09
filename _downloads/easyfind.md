@@ -5,7 +5,7 @@ name: Easyfind
 file_type: download
 title: Download Easyfind
 description: >-
-  EasyFind is a file, folder and contents search tool. The application locates files using advanced Boolean operators which operates in a similar manner to DEVONthink and DEVONagent. The application also searches using wildcards and phrases. EasyFind is fast, light and does not require indexing.
+  EasyFind finds files and folders by name or content using advanced Boolean operators similar to DEVONthink and DEVONagent, wildcards, and phrases. It does not require indexing, is fast, and uses very little memory. Of course EasyFind doesn't just give you the files, it also shows previews and gives you many other options to work with them. And it's free. Life can be so good.
 tags: [Mac, File Management, System Utilities]
 category: Mac Apps
 sort_order: 100
@@ -21,7 +21,7 @@ comments: true
 redirect_url:
 ###
 version: 6
-size: 2.76MB
+size: 2.76 MB
 downloadurl: https://s3.amazonaws.com/DTWebsiteSupport/download/freeware/easyfind/4.9.3/EasyFind.app.zip
 response: -1
 by: DEVONtechnologies
@@ -32,7 +32,9 @@ os: Mac
 
 {% include download-header.html download=page%}
 
- 
+
+Spotlight is great, but sometimes you need something more specialized. EasyFind finds files and folders by name or content using advanced Boolean operators similar to DEVONthink and DEVONagent, wildcards, and phrases. It does not require indexing, is fast, and uses very little memory. Of course EasyFind doesn't just give you the files, it also shows previews and gives you many other options to work with them. And it's free. Life can be so good.
+
 EasyFind is a file, folder and contents search tool. The application locates files using advanced Boolean operators which operates in a similar manner to DEVONthink and DEVONagent. The application also searches using wildcards and phrases. EasyFind is fast, light and does not require indexing.
 
 ### KEY FEATURES INCLUDE
