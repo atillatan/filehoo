@@ -26,7 +26,7 @@ downloadurl: http://www.softperfect.com/download/files/pinspector.exe
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

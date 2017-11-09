@@ -26,7 +26,7 @@ downloadurl: http://www.gregorybraun.com/MSWINERR.ZIP
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

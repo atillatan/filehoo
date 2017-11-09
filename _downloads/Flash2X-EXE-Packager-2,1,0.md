@@ -26,7 +26,7 @@ downloadurl: http://www.leesoft.net/downloads/epsetup.exe
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

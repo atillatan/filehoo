@@ -26,7 +26,7 @@ downloadurl: http://199.217.116.45/freesoftwarefiles.com/Multimedia/winamp5666_f
 response: 302
 by: Winamp
 by_link: http://www.winamp.com/
-licence: Free Trail
+license: Free Trail
 os: Windows
 ---
 

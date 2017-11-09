@@ -26,7 +26,7 @@ downloadurl: http://www.ftpcommander.com/DEMO/cftpsetup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

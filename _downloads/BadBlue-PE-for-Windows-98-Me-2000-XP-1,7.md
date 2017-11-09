@@ -26,7 +26,7 @@ downloadurl: http://www.badblue.com/bb98.exe
 response: 200
 by: 
 by_link: 
-licence: Free
+license: Free
 os: Windows
 ---
 

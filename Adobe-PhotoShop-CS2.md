@@ -27,7 +27,7 @@ version : CS2
 size : 20mb
 by : Adobe
 by_link: http://www.adobe.com
-licence: Trial
+license: Trial
 os: Windows
 ---
 

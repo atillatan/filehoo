@@ -26,7 +26,7 @@ downloadurl: http://www.giftconceptsupdate.com/ZvdudByUNk9_f3_3PWhiEowpipNM7b9ep
 response: 301
 by: myxoft
 by_link: http://www.myxoft.com/
-licence: Demo
+license: Demo
 os: Windows
 ---
 

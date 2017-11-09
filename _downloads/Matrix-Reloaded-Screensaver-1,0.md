@@ -26,7 +26,7 @@ downloadurl: http://files.brothersoft.com/screen_savers/miscellaneous/matrixrelo
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

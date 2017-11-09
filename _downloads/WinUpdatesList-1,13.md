@@ -26,7 +26,7 @@ downloadurl: http://www.nirsoft.net/utils/wul_setup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

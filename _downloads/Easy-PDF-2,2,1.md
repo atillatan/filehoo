@@ -26,7 +26,7 @@ downloadurl: http://www.pdfdesk.com/easypdfcreator.exe
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

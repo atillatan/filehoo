@@ -26,7 +26,7 @@ downloadurl: http://www.progwhiz.com/files/ftpsched_pro.zip
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

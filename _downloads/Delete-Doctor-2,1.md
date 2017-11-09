@@ -26,7 +26,7 @@ downloadurl: http://www.diskcleaners.com/files/deletedr.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

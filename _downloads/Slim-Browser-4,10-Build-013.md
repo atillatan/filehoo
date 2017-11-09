@@ -26,7 +26,7 @@ downloadurl: http://www.flashpeak.com/sbrowser/sbsetup.exe
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

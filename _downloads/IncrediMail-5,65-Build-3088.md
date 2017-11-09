@@ -26,7 +26,7 @@ downloadurl: http://www5.incredimail.com/contents/setup/IncrediMailSetup.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

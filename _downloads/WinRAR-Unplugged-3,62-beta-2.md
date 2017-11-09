@@ -26,7 +26,7 @@ downloadurl: http://www.winrar.com/fileadmin/downloads/wrar_unplugged_3.6.2.2b.e
 response: 301
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

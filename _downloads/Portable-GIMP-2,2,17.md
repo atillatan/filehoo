@@ -26,7 +26,7 @@ downloadurl: http://downloads.sourceforge.net/portablegimp/GIMP_Portable_2.2.17.
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

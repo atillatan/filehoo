@@ -26,7 +26,7 @@ downloadurl: http://bbs.flashget.com/flashget220cn_preview.exe
 response: 200
 by:
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

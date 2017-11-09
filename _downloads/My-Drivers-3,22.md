@@ -26,7 +26,7 @@ downloadurl: http://www.zhangduo.com/mydrivers.exe
 response: 200
 by: 
 by_link: 
-licence: Adware 
+license: Adware 
 os: Windows
 ---
 

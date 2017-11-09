@@ -26,7 +26,7 @@ downloadurl: http://download.stopzilla.com/binaries/stopzilla/downloaders/10000/
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

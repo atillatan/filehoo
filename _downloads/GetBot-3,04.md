@@ -26,7 +26,7 @@ downloadurl: http://www.getbot.com/getbot.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

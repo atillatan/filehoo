@@ -26,7 +26,7 @@ downloadurl: http://a1709.g.akamai.net/f/1709/2168/7d/www.babylon.com/files/Baby
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

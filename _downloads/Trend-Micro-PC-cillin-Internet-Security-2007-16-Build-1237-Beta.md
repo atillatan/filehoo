@@ -26,7 +26,7 @@ downloadurl: http://www.trendmicro.com/ftp/products/pccillin/TIS2007_TMSiteTrial
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

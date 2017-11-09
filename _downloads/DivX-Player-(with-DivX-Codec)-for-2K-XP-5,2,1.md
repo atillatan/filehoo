@@ -26,7 +26,7 @@ downloadurl: http://download.divx.com/divx/pad/DivX521XP2K.exe
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://199.217.116.45/freesoftwarefiles.com/DVDTools/DTLiteInstalle
 response: 302
 by:
 by_link:
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

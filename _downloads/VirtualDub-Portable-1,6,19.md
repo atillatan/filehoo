@@ -26,7 +26,7 @@ downloadurl: http://kent.dl.sourceforge.net/sourceforge/portableapps/VirtualDub_
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://download.macromedia.com/pub/flash/ts/flash7/uninstall_flash_
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

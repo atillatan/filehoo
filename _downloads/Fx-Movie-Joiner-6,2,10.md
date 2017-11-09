@@ -26,7 +26,7 @@ downloadurl: http://fxjoiner.com/ftp/fxjoiner/fj41033.exe
 response: 302
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

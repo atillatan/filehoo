@@ -26,7 +26,7 @@ downloadurl: http://download.divx.com/divx/pad/DivXInstaller.exe
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

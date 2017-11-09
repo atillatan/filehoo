@@ -26,7 +26,7 @@ downloadurl: http://www.cgsecurity.org/cmospwd-5.0.zip
 response: 200
 by: cgsecurity
 by_link: http://www.cgsecurity.org/
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.smartison.com/winpopup/dwnapp/winpopupgold.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

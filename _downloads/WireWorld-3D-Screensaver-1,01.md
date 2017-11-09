@@ -26,7 +26,7 @@ downloadurl: http://www.digimindsoft.com/wireworld3d.exe
 response: 301
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

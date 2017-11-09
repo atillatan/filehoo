@@ -26,7 +26,7 @@ downloadurl: http://download.hh software.com/download/VCD/v9/demo/VirtualCD9002.
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

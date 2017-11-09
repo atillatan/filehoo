@@ -26,7 +26,7 @@ downloadurl: https://download.poikosoft.com/ez_cd_audio_converter_setup.exe
 response: 301
 by:
 by_link:
-licence: Trial
+license: Trial
 os: Windows
 ---
 

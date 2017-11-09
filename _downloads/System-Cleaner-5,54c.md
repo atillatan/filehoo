@@ -26,7 +26,7 @@ downloadurl: http://dl1.pointstone.com/download/systemcleaner/SystemCleanerSetup
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

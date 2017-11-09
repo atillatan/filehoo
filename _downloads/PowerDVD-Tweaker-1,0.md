@@ -26,7 +26,7 @@ downloadurl: http://download.betanews.com/download/1054253312/PowerDVD_Tweaker_1
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

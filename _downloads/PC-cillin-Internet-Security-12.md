@@ -26,7 +26,7 @@ downloadurl: http://www.trendmicro.com/ftp/products/pccillin/pcc25f1244.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://cn.bitcomet.com/achive/BitComet_0.93_setup.exe
 response: 200
 by:
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

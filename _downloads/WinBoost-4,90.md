@@ -26,7 +26,7 @@ downloadurl: http://www.winboost.com/files/wboost.exe
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

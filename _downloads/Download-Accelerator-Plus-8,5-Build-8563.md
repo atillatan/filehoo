@@ -26,7 +26,7 @@ downloadurl: http://download.speedbit.com/dap85.exe
 response: 200
 by: 
 by_link: 
-licence: Adware
+license: Adware
 os: Windows
 ---
 

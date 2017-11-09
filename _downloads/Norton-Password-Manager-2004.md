@@ -26,7 +26,7 @@ downloadurl: http://cdrom.digitalriver.com/pub/symantec/2004/NPM2004tb15.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

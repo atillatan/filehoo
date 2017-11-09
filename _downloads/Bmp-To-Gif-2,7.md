@@ -26,7 +26,7 @@ downloadurl: http://www.develcor.com/download/bmptogifpro.zip
 response: 200
 by: 
 by_link: 
-licence: Free
+license: Free
 os: Windows
 ---
 

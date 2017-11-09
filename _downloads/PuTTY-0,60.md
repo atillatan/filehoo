@@ -26,7 +26,7 @@ downloadurl: http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

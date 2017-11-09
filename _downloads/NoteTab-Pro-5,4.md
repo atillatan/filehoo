@@ -26,7 +26,7 @@ downloadurl: http://www.fookes.com/ftp/trial/NoteProTrial_Setup.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

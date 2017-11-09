@@ -26,7 +26,7 @@ downloadurl: http://www.nuonsoft.com/downlds/WallpaperCycler_3.0_Setup.exe
 response: 200
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

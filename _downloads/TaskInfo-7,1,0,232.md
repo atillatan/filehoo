@@ -26,7 +26,7 @@ downloadurl: http://www.iarsn.com/taskinfo/tskinf71.exe
 response: 302
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

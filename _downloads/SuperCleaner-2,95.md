@@ -26,7 +26,7 @@ downloadurl: http://www.southbaypc.com/download/CleanSetup.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

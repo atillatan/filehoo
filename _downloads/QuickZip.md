@@ -26,7 +26,7 @@ downloadurl: http://www.tucows.com/download/windows/files3/quickzip.exe
 response: 200
 by:
 by_link:
-licence: GPL
+license: GPL
 os: Windows
 ---
 

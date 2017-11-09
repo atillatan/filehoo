@@ -26,7 +26,7 @@ downloadurl: https://www.blender.org/download/Blender2.79/blender-2.79-windows64
 response: 200
 by: Blender
 by_link: https://www.blender.org
-licence: Free
+license: Free
 os: Windows
 ---
 

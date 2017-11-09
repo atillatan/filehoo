@@ -26,7 +26,7 @@ downloadurl: http://www.leesoft.net/downloads/fssetup.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

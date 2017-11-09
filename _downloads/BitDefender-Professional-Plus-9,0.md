@@ -26,7 +26,7 @@ downloadurl: http://download.bitdefender.com/resources/files/Download/en/bitdefe
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

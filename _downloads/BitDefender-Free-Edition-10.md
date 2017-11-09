@@ -26,7 +26,7 @@ downloadurl: http://download.bitdefender.com/windows/free/winfree/en/bitdefender
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

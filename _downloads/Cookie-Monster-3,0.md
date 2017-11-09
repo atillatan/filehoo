@@ -26,7 +26,7 @@ downloadurl: http://www.ampsoft.net/files/CookieMonsterSetup.exe
 response: 200
 by: 
 by_link: 
-licence: FREE
+license: FREE
 os: Windows
 ---
 

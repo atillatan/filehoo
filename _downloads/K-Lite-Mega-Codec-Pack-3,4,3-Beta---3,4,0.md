@@ -26,7 +26,7 @@ downloadurl: http://www.brothersoft.com/d.php?soft_id=61501&url=http%3A%2F%2Ffil
 response: 302
 by:
 by_link:
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

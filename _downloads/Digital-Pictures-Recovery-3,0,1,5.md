@@ -26,7 +26,7 @@ downloadurl: http://www.dtidata.com/free_data_recovery_software/digital_picture_
 response: 301
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://cache.spamfighter.com/download/pro/spamfighter.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

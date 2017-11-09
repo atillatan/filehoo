@@ -26,7 +26,7 @@ downloadurl: http://sourceforge.net/project/downloading.php?groupname=dvdx&filen
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

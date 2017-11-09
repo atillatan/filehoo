@@ -26,7 +26,7 @@ downloadurl: http://www.mystikmedia.com/download/setup_blazemp.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware 
+license: Shareware 
 os: Windows
 ---
 

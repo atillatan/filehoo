@@ -26,7 +26,7 @@ downloadurl: http://www.fookes.com/ftp/free/ntfree.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

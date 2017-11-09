@@ -26,7 +26,7 @@ downloadurl: http://www.nirsoft.net/utils/pcanyscan.zip
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.primasoft.com/demo/16iecl.zip
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

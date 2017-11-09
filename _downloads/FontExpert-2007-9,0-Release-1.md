@@ -26,7 +26,7 @@ downloadurl: http://www.proximasoftware.com/files/FontExpertSetup.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

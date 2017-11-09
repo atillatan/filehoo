@@ -26,7 +26,7 @@ downloadurl: http://smartprotector.com/eraser/downloads/historyeraser.exe
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

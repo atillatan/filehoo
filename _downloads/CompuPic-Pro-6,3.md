@@ -26,7 +26,7 @@ downloadurl: http://files.photodex.com/cpro32.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware 
+license: Shareware 
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://www.webroot.com/shoppingcart/tryme.php?bjpc=64011&vcode=DT04
 response: 302
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

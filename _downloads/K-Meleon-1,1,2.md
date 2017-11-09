@@ -26,7 +26,7 @@ downloadurl: http://prdownloads.sourceforge.net/kmeleon/K Meleon1.1en US.exe
 response: 301
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

@@ -26,7 +26,7 @@ downloadurl: http://cdrom.wip.digitalriver.com/pub/bws/bws_49/pspf.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

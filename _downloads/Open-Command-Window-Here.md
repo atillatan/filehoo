@@ -26,7 +26,7 @@ downloadurl: http://download.microsoft.com/download/whistler/Install/2/WXP/EN-US
 response: 200
 by:
 by_link:
-licence: Free
+license: Free
 os: Windows
 ---
 

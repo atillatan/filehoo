@@ -26,7 +26,7 @@ downloadurl: http://dpsof.com/app/dvdaudio/daudio.exe
 response: 200
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

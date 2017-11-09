@@ -26,7 +26,7 @@ downloadurl: http://us.download.nvidia.com/Windows/nForce/nTune/5.05.47.00/5.05.
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

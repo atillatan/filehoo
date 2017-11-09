@@ -26,7 +26,7 @@ downloadurl: http://www.headbands.com/gspot/v26x/GSpot270a.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

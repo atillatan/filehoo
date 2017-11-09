@@ -26,7 +26,7 @@ downloadurl: http://download.iolo.net/sm/7pro/trial/SystemMechanic7Pro.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

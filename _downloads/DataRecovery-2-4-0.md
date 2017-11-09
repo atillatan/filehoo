@@ -26,7 +26,7 @@ downloadurl: http://tokiwa.qee.jp/EN/DataRecovery_EN.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

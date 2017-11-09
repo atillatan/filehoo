@@ -26,7 +26,7 @@ downloadurl: http://www.remotelyanywhere.com/files/RemotelyAnywhereNH.msi
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

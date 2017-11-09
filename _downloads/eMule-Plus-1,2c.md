@@ -26,7 +26,7 @@ downloadurl: http://kent.dl.sourceforge.net/sourceforge/emuleplus/eMulePlus 1.2c
 response: 302
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

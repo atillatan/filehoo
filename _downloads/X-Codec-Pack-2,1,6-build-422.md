@@ -26,7 +26,7 @@ downloadurl: http://files.brothersoft.com/dvd_video/video_codecs/X_Codec_Pack_62
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

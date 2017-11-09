@@ -26,7 +26,7 @@ downloadurl: http://www.deskshare.com/download/vem/videoeditmagic.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

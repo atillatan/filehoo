@@ -26,7 +26,7 @@ downloadurl: http://download.bitdefender.com/windows/desktop/antivirus/final/en/
 response: 200
 by: 
 by_link: 
-licence: Free
+license: Free
 os: Windows
 ---
 

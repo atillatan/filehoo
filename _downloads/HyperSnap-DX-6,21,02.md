@@ -26,7 +26,7 @@ downloadurl: http://www.hyperionics.com/downloads/HS6Setup.exe
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 

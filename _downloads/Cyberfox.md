@@ -26,7 +26,7 @@ downloadurl: https://sourceforge.net/projects/cyberfox/files/latest/download
 response: 301
 by: toadyshadow101
 by_link: https://sourceforge.net/u/toadyshadow101/profile/
-licence: Free
+license: Free
 os: Windows
 ---
 

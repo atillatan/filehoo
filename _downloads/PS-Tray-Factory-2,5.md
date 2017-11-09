@@ -26,7 +26,7 @@ downloadurl: http://www.pssoftlab.com/download/pstrayf.zip
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

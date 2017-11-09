@@ -26,7 +26,7 @@ downloadurl: http://www.eltima.com/download/flash_optimizer_lite.exe
 response: 301
 by: 
 by_link: 
-licence: Trial
+license: Trial
 os: Windows
 ---
 

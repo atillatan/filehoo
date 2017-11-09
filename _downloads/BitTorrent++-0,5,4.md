@@ -26,7 +26,7 @@ downloadurl: http://kent.dl.sourceforge.net/sourceforge/btplusplus/BTpp 0.5.4 bi
 response: 302
 by: 
 by_link: 
-licence: Free
+license: Free
 os: Windows
 ---
 

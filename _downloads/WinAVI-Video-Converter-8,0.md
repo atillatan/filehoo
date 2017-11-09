@@ -26,7 +26,7 @@ downloadurl: http://www.winavi.com/WinAVI_Video_Converter.exe
 response: 200
 by:
 by_link:
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

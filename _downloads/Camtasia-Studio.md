@@ -26,7 +26,7 @@ downloadurl: http://199.217.116.45/freesoftwarefiles.com/VideoEditing/camtasia.m
 response: 200
 by: TechSmith
 by_link: https://www.techsmith.com/
-licence: Free Trail
+license: Free Trail
 os: Windows
 ---
 

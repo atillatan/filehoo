@@ -26,7 +26,7 @@ downloadurl: http://www.7byte.com/hotcpu.exe
 response: 200
 by: 
 by_link: 
-licence: Shareware
+license: Shareware
 os: Windows
 ---
 

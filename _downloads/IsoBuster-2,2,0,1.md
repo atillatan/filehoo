@@ -26,7 +26,7 @@ downloadurl: http://www.isobuster.com/dl/dlib2.exe
 response: 301
 by: 
 by_link: 
-licence: Demo 
+license: Demo 
 os: Windows
 ---
 

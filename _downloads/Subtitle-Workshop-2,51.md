@@ -26,7 +26,7 @@ downloadurl: http://www.urusoft.net/downloads/subtitleworkshop251.zip
 response: 200
 by: 
 by_link: 
-licence: Freeware
+license: Freeware
 os: Windows
 ---
 

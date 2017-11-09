@@ -26,7 +26,7 @@ downloadurl: http://www.corel.com/akdlm/6763/downloads/trials/PaintShopProXI/Pai
 response: 200
 by: 
 by_link: 
-licence: Trial 
+license: Trial 
 os: Windows
 ---
 
