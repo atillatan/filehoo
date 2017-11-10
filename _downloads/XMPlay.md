@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /downloads/XMPlay/
+permalink: /downloads/xmplay/
 name: XMPlay
 file_type: download
 title: XMPlay
