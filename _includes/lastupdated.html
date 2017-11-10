@@ -1,0 +1,51 @@
+
+{% assign downloadList = site.downloads | sort: 'modified_date'  %}
+
+<div class="panel panel-primary">
+    <div class="panel-heading  filehoo-panel-heading">
+        <h2 class="panel-title">Last Updated</h2>
+    </div>
+
+    <div class="panel-body" style="padding:4px;">
+
+      {% assign counter = 0 %}
+
+      {% for download in downloadList %}
+      {% assign counter=counter | plus:1 %}
+
+        {% if counter<20  %}
+
+      <li class=""> <a class="" href="{{site.baseurl}}{{download.url}}">{{download.name}}</a></li>
+
+
+         {% endif %}
+      {% endfor %}
+
+    </div>
+
+
+</div>
+
+<div class="panel panel-primary">
+    <div class="panel-heading  filehoo-panel-heading">
+        <h2 class="panel-title">Mac Apps</h2>
+    </div>
+
+    <div class="panel-body" style="padding:4px;">
+
+      {% assign counter = 0 %}
+
+      {% for download in downloadList %}
+
+        {% if download.os=="Mac" %}
+
+      <li class=""> <a class="" href="{{site.baseurl}}{{download.url}}">{{download.name}}</a></li>
+           {% endif %}
+
+
+      {% endfor %}
+
+    </div>
+
+
+</div>
