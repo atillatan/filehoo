@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /downloads/VLC-media-player/
+permalink: /downloads/vlc-media-player/
 name: VLC media player
 file_type: download
 title: VLC media player

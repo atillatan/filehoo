@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /downloads/Winamp/
+permalink: /downloads/winamp/
 name: Winamp
 file_type: download
 title: Winamp
