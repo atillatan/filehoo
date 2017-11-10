@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /downloads/Camtasia-Studio/
+permalink: /downloads/camtasia-studio/
 name: Camtasia Studio
 file_type: download
 title: Camtasia Studio
