@@ -1,6 +1,6 @@
 ---
 layout: downloadpage
-permalink: /downloads/Everything/
+permalink: /downloads/everything/
 name: Everything
 file_type: download
 title: Everything
