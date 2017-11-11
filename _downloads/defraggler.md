@@ -1,7 +1,7 @@
 ---
 layout: downloadpage
-permalink: /downloads/defragler/
-name:
+permalink: /downloads/defraggler/
+name: Defraggler
 file_type: download
 title:
 description: >-
@@ -20,12 +20,12 @@ modified_by:
 comments: true
 redirect_url:
 ###
-version: 2.2.2
+version: 2.2.1
 size: 2.68 MB
-downloadurl: http://www.vandyke.com/pub/AbsoluteFTP/aftp227.exe
+downloadurl: http://download.piriform.com/dfsetup221.exe
 response: 302
-by:
-by_link:
+by: piriform
+by_link: https://www.piriform.com
 license: Freeware
 os: Windows
 ---
