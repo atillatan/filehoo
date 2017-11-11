@@ -10,7 +10,7 @@
 
       {% assign counter = 0 %}
 
-      {% for download in downloadList %}
+      {% for download in downloadList reversed %}
       {% assign counter=counter | plus:1 %}
 
         {% if counter<20  %}
