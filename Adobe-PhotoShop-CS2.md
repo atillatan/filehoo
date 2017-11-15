@@ -49,12 +49,10 @@ id
 152	Others
 162	Scheduling
 170	Windows Widgets
-192	Most Wanted
-193	Editor's Picks
 194	Security Tools
 195	Latest Downloads
 196	Latest Updates
-198	Don't Miss
+
 
 
 id  parentid
