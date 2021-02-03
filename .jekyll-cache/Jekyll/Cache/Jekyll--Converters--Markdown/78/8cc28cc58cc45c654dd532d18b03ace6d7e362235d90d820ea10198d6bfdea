@@ -1,0 +1,185 @@
+I"@ <h1 class="H1-large">Everything</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free Everything" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download Everything" download="Everything" href="https://www.voidtools.com/Everything-1.4.1.877.x64.zip"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 1.4.1, Size: 1.4 MB <br />
+  By <a title="Everything" href="https://www.voidtools.com" target="_blank"> voidtools</a> ,
+   License: Freeware
+<a title="Report a broken link for Everything" href="/reportbroken/index.html?softwareName=Everything&amp;downloadurl=https://www.voidtools.com/Everything-1.4.1.877.x64.zip"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>Everything description</strong><br />
+    Locate files and folders by name instantly.
+  </h2>
+
+<p>Locate files and folders by name instantly.</p>
+
+<ul>
+  <li>Small installation file</li>
+  <li>Clean and simple user interface</li>
+  <li>Quick file indexing</li>
+  <li>Quick searching</li>
+  <li>Minimal resource usage</li>
+  <li>Share files with others easily</li>
+  <li>Real-time updating</li>
+</ul>
+
+<h4 id="what-is-everything">What is “Everything”?</h4>
+
+<p>“Everything” is search engine that locates files and folders by filename instantly for Windows.
+Unlike Windows search “Everything” initially displays every file and folder on your computer (hence the name “Everything”).
+You type in a search filter to limit what files and folders are displayed.</p>
+
+<h4 id="how-long-will-it-take-to-index-my-files">How long will it take to index my files?</h4>
+
+<p>“Everything” only indexes file and folder names and generally takes a few seconds to build its database.
+A fresh install of Windows 10 (about 120,000 files) will take about 1 second to index.
+1,000,000 files will take about 1 minute.</p>
+
+<h4 id="does-everything-search-file-contents">Does Everything search file contents?</h4>
+
+<p>Yes, “Everything” can search file content with the content: search function.
+File content is not indexed, searching content is slow.</p>
+
+<h4 id="does-everything-hog-my-system-resources">Does “Everything” hog my system resources?</h4>
+
+<p>No, “Everything” uses very little system resources.
+A fresh install of Windows 10 (about 120,000 files) will use about 14 MB of ram and less than 9 MB of disk space.
+1,000,000 files will use about 75 MB of ram and 45 MB of disk space.</p>
+
+<h4 id="does-everything-monitor-file-system-changes">Does “Everything” monitor file system changes?</h4>
+
+<p>Yes, “Everything” does monitor file system changes.
+Your search windows will reflect changes made to the file system.</p>
+
+<h4 id="is-everything-free">Is “Everything” free?</h4>
+
+<p>Yes, “Everything” is Freeware.
+Please consider donating.</p>
+
+<h4 id="does-everything-contain-any-malware-spyware-or-adware">Does “Everything” contain any malware, spyware or adware?</h4>
+
+<p>No, “Everything” does not contain any malware, spyware or adware.</p>
+
+<h4 id="does-everything-miss-changes-made-to-the-file-system-if-it-is-not-running">Does “Everything” miss changes made to the file system if it is not running?</h4>
+
+<p>No, “Everything” can be closed and restarted without missing changes made to the file system (even across system restarts).
+“Everything” updates the database when it is started.</p>
+
+<h4 id="what-are-the-system-requirements-for-everything">What are the system requirements for “Everything”?</h4>
+
+<p>“Everything” will run on Windows XP, Vista, Windows 7, Windows 8 and Windows 10
+NTFS indexing requires the Everything service or running “Everything” as administrator.</p>
+
+<h4 id="how-do-i-convert-a-volume-to-ntfs">How do I convert a volume to NTFS?</h4>
+
+<p>Please backup anything important before converting a volume to NTFS.
+Once a volume is converted to NTFS it can not be converted back to FAT or FAT32.
+Please note that some devices may not be able to read NTFS volumes on USB disks / USB drives.</p>
+
+<p>To convert a volume to NTFS:
+From the Start menu, click Run.
+Type in the following and press ENTER:
+cmd
+In the command prompt, type in the following and press ENTER:
+convert D: /fs:ntfs
+where D: is the drive to convert.</p>
+
+<h4 id="can-everything-index-a-mapped-network-drive">Can “Everything” index a mapped network drive?</h4>
+
+<p>Yes, please see Folder indexing for more information.</p>
+
+<h4 id="how-do-i-install-everything">How do I install “Everything”?</h4>
+
+<p>Please see A basic guide to installing “Everything”.</p>
+
+<h4 id="how-do-i-use-everything">How do I use “Everything”?</h4>
+
+<p>Please see A basic guide to using “Everything”.</p>
+
+<h4 id="why-is-everything-14-using-more-memory-than-13">Why is “Everything” 1.4 using more memory than 1.3?</h4>
+
+<p>“Everything” 1.4 indexes file sizes and dates and also stores extra information for faster sorting by default.
+Please see Optimizing for smallest memory foot print to disable these changes.</p>
+
+<h4 id="how-do-i-prevent-the-uac-prompt-when-running-everything">How do I prevent the UAC prompt when running “Everything”?</h4>
+
+<p>“Everything” requires administrative privileges for low level read access to NTFS volumes for NTFS indexing.</p>
+
+<p>The UAC prompt can be avoided by running “Everything” as a standard user and installing the “Everything” service or not using NTFS indexing.</p>
+
+<p>To run “Everything” as a standard user and install the “Everything” service:
+In “Everything”, from the Tools menu, click Options.
+Click the General tab.
+Check Everything Service.
+Uncheck Run as administrator.
+Click OK.
+Exit “Everything” (right click the Everything system tray icon and click Exit)
+Restart Everything.</p>
+
+<h4 id="searching">Searching</h4>
+
+<p>How do I search for a file or folder?</p>
+
+<p>Type the partial file or folder name into the search edit, the results will appear instantly.</p>
+
+<p>How do I use boolean operators?</p>
+
+<p>AND is the default boolean operator.</p>
+
+<p>For example, to search for abc and 123, search for:
+abc 123</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>To search for either of two search terms, add a</td>
+      <td>between the terms.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>For example, to search for .jpg or .bmp, search for:
+.jpg | .bmp</p>
+
+<p>To exclude something from the search include a ! at the front of the term.</p>
+
+<p>For example, to search for everything except abc, search for:
+!abc</p>
+
+<p>To show the basic search syntax in Everything:
+In “Everything”, from the Help menu, click Search syntax.</p>
+
+<p>How do I use wildcards?</p>
+
+<p>Using a * in your search will match any number of any type of character.
+For example, here is how to search for files and folders that start with e and end with g: e*g
+Using a ? in your search will match one character.
+For example, here is how to search for files that have a 2 letter file extension: *.??</p>
+
+<h4 id="how-do-i-include-spaces-in-my-search">How do I include spaces in my search?</h4>
+
+<p>To include spaces in your search enclose your search in double quotes.
+For example, here is how to search for foo<space>bar: "foo bar"</space></p>
+
+<h4 id="how-do-i-search-for-a-file-type">How do I search for a file type?</h4>
+
+<p>To search for a file type, type the file extension into the search edit,
+eg: to search for the mp3 file type, type *.mp3 into the search edit.
+To search for more than one type of file type use a | to separate file types,
+eg: *.bmp|*.jpg will search for files with the extension bmp or jpg.</p>
+
+<h4 id="how-do-i-search-for-files-and-folders-in-a-specific-location">How do I search for files and folders in a specific location?</h4>
+
+<p>To search for files and folders in a specific location include a \ in your search string.
+For example, here is how to search for all your mp3s in a downloads folder: downloads\ .mp3
+You could alternately enable Match Path in the Search menu and include the location in your search string.
+For example, here is how to search for all your avis in a downloads folder with Match Path enabled: downloads .avi</p>
+:ET

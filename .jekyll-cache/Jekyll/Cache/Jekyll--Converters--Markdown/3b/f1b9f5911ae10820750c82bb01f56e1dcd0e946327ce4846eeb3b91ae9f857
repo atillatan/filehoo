@@ -1,0 +1,42 @@
+I"=
+<h1 class="H1-large">BitTorrent++ 0.5.4</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free BitTorrent++ 0.5.4" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download BitTorrent++ 0.5.4" download="BitTorrent++ 0.5.4" href="http://kent.dl.sourceforge.net/sourceforge/btplusplus/BTpp 0.5.4 bin.exe"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 0.5.4, Size: 2.54MB <br />
+  By <a title="BitTorrent++ 0.5.4" href="" target="_blank"> </a> ,
+   License: Free
+<a title="Report a broken link for BitTorrent++ 0.5.4" href="/reportbroken/index.html?softwareName=BitTorrent++ 0.5.4&amp;downloadurl=http://kent.dl.sourceforge.net/sourceforge/btplusplus/BTpp 0.5.4 bin.exe"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>BitTorrent++ 0.5.4 description</strong><br />
+    BT++ is an improved client for the BitTorrent peer-to-peer file distribution solution
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2">BitTorrent++ alpha is an improved client for the BitTorrent peer-to-peer file distribution solution You'll find that BT++ (bee tee plus plus) is an improved client for the BitTorrent peer-to-peer file distribution solution. It is written, like the offical <br />
+BitTorrent client, in Python and wxPython for maximum cross-platform compatibility. It should work on any platform that wxPython is available for. <br />
+<br />
+Here are some key features of "BitTorrent plus plus": <br />
+<br />
+· multiple downloads in a single window <br />
+· minimize to the system tray (win32 only) <br />
+· list style display of downloads and automatic re-starting of interrupted torrents without needing the .torrent link. <br />
+<br />
+<br />
+What's New in This Release: <br />
+<br />
+· The only thing this release fixes is the problem of finshed downloads not getting moved from the temp to the incoming directory. <br />
+· <br />
+· Furthermore this will be the last version of BitTorrent++. Upon request of the developers of the original BitTorrent client we will rename the project. Also the first release under the new name will be some time from now. Currently I'm occupied with my Abitur and after that I'll think on how to continue BT++. It WILL be continued, but as I'm not really pleased with all the code (I'm of the opinion that it is a real mess) I could end up rewriting it. Perhaps even in another language than Python... [ read full changelog ] <br />
+<br />
+<br />
+</font></p></p>
+:ET

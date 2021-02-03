@@ -1,0 +1,47 @@
+I"ñ<h1 class="H1-large">Resource Hacker 3.4.0.79</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free Resource Hacker 3.4.0.79" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download Resource Hacker 3.4.0.79" download="Resource Hacker 3.4.0.79" href="http://delphi.icm.edu.pl/ftp/tools/ResHack.zip"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 3.4.0.79, Size: 541 KB <br />
+  By <a title="Resource Hacker 3.4.0.79" href="" target="_blank"> </a> ,
+   License: Freeware
+<a title="Report a broken link for Resource Hacker 3.4.0.79" href="/reportbroken/index.html?softwareName=Resource Hacker 3.4.0.79&amp;downloadurl=http://delphi.icm.edu.pl/ftp/tools/ResHack.zip"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>Resource Hacker 3.4.0.79 description</strong><br />
+    Resource Hacker - Free utility to view, modify, add, delete and extract resources in 32bit Windows executables
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>Resource Hacker is a free program designed to help you view, modify,add, delete and extract resources in 32bit Windows executables. Itincorporates an internal resource script compiler and decompiler andworks on all 32 Bit Windows OS.<br />
+<br />
+<span><strong>Here are some key features of "Resource Hacker":</strong></span><br />
+<br />
+Viewing Resources: Cursor, Icon, Bitmap, GIF, AVI, and JPG resource images can be viewed. WAV and MIDI audio resourcescan be played. Menus, Dialogs, MessageTables, StringTables,Accelerators, Delphi Forms, and VersionInfo resources can be viewed asdecompiled resource scripts. Menus and Dialogs can also be viewed asthey would appear in a running application.<br />
+<br />
+Saving Resources: Resources can be saved as image files (*.ico, *.bmpetc), as script files (*.rc), as binary resource files (*.res), or asuntyped binary files (*.bin).<br />
+<br />
+Modifying Resources: Resources can be modified by replacing theresource with a resource located in another file (*.ico, *.bmp, *.resetc) or by using the internal resource script compiler (for menus,dialogs etc). Dialog controls can also be visually moved and/or resizedby clicking and dragging the respective dialog controls prior torecompiling with the internal compiler.<br />
+<br />
+Adding Resources: Resources can be added to an application by copying them from external resource files (*.res).<br />
+<br />
+Deleting Resources: Most compilers add resources into applicationswhich are never used by the application. Removing unused resources canreduce an application s size.</p>
+<!-- google_ad_section_end -->
+<p>&#160;</p>
+<div class="celltext_big"><br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+32bit Resource Files (*.res) can now also be viewed and edited. <br />
+Added support for the following Dialog extended style flags:WS_EX_LAYERED, WS_EX_NOINHERITLAYOUT, WS_EX_LAYOUTRTL andWS_EX_NOACTIVATE. <br />
+All resource language ids (except those for cursors and icons) can now be easily changed. <br />
+Bug Fix: LBS_NOINTEGRALHEIGHT and LBS_MULTICOLUMN listbox style flags in dialogs</div>&lt;/p&gt;&lt;/p&gt;
+</font></p></p>
+:ET

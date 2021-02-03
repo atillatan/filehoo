@@ -1,0 +1,100 @@
+I"å<h1 class="H1-large">Titan FTP Server 6.02 Build 530</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free Titan FTP Server 6.02 Build 530" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download Titan FTP Server 6.02 Build 530" download="Titan FTP Server 6.02 Build 530" href="http://www.titanftp.com/software/demosoft/titanftp.exe"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 530, Size: 10.3 MB <br />
+  By <a title="Titan FTP Server 6.02 Build 530" href="" target="_blank"> </a> ,
+   License: Trial
+<a title="Report a broken link for Titan FTP Server 6.02 Build 530" href="/reportbroken/index.html?softwareName=Titan FTP Server 6.02 Build 530&amp;downloadurl=http://www.titanftp.com/software/demosoft/titanftp.exe"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>Titan FTP Server 6.02 Build 530 description</strong><br />
+    Multi-threaded FTP Server for Windows allows you to share files with other users
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>TitanFTP Server is an enterprise class server product for storing andsharing files. With unparalleled performance and scalability, Titanserves a variety of needs from the largest enterprise to the smallworkgroup. The Titan FTP Server software provides an advanced featureset, giving you flexibility and control. An intuitive user interfacemakes Titan FTP Server easy to set up and maintain.<br />
+<br />
+<strong>Security and Access Control</strong><br />
+Securing the important files on your FTP server is a key issue. Titanprovides security and access control features such as SSL for securefile transfers, and S/Key MD4 and MD5 password encryption, enabling ordisabling of anonymous access, and the ability to permit or deny accessbased on IP address. Titan FTP Server also includes the ability toblock FXP and PASV mode transfers. <br />
+<br />
+<strong>Full - Featured Events Handler</strong><br />
+Trigger customized actions based on specific events and conditions.Event Handlers allow the administrator to create rules that willrespond dynamically to the current server state. Event Handlers can beused to send an email&lt;/a&gt;every time the server is started, create a custom log file for eachuser account, or to offload a file from the server immediately after ithas been uploaded. <br />
+<br />
+<strong>Managed File Transfer</strong><br />
+For additional details on our Managed File Transfer solutions, fill out our information request form. <br />
+<br />
+<strong>For Large Enterprises</strong><br />
+Titan FTP Server offers unlimited user accounts (Enterprise Edition) and thecontrols to appropriately manage them. Bandwidth throttling andconfigurable maximum transfer speed allows you to customize thebandwidth given to any user or server. You can regulate the number ofconnections from a given IP, and block users and IPs after aconfigurable number of invalid commands. The control and scalabilitythat Titan FTP Server provides offers an excellent file sharingsolution for even the largest enterprises, especially when used withthe WebDrive Client. <br />
+<br />
+<strong>For Small Workgroups</strong><br />
+Much of the advanced functionality of the Enterprise Edition isincluded in a more economical Personal Edtion. And with features likeconfigurable upload/download ratios and disk quotas, you can controlthe way that files are shared on your system. The Personal Edition isthe perfect solution for managing files in a small workgroup. <br />
+<br />
+<span><strong>Here are some key features of "Titan FTP Server":</strong></span><br />
+<br />
+SSL Support. Allows you to transfer files securely over an encrypted channel. (professional edition). <br />
+Unlimited user accounts (professional edition). <br />
+Bandwidth Throttling Support. Allows you to customize the maximum bandwidth give to any server/user. <br />
+S/KEY Password Encryption - Use MD4 &amp;. MD5 password encryption for supported FTP clients (Like WebDrive). <br />
+Ability to configure Upload/Download Ratios (with Free Files List). <br />
+Ability to set Disk Quotas (with Free Files List). <br />
+Anonymous Access Enable/Disable. <br />
+Ability to configure Custom Messages for logon, logoff, etc. <br />
+Custom STOU Prefix <br />
+Delete Partially Uploaded Files. <br />
+Ability to configure the maximum number of concurrent connections for each server. <br />
+Ability to block FXP. <br />
+Ability to block anti-timeout schemes. <br />
+Ability to configure the Idle timeout before disconnecting users. <br />
+Ability to regulate maximum number of connections from an IP. <br />
+Ability to configure maximum upload and download speeds <br />
+Ability to force uppercase or lowercase directory listings <br />
+Ability to permit/deny access based on IP address information. <br />
+Ability to kick the user off after X number of invalid commands. <br />
+Ability to ban IP address after excessive invalid commands (helps DoS). <br />
+Ability to ban users after excessive invalid commands. <br />
+Ability to ban certain files/filetypes from the system. *.mp3, *.mpeg, etc. <br />
+Ability to customize the Time Zone for each individual server. <br />
+SITE MDTM support <br />
+<br />
+<br />
+<span><strong>Requirements:</strong></span><br />
+<br />
+Pentium class processor or better, 400MHz or faster CPU. <br />
+Minimum of 128MB RAM. <br />
+Minimum 25MB of disk space for the Titan program and 100MB for each FTP Server configuration. <br />
+<br />
+<br />
+<span><strong>Limitations:</strong></span><br />
+<br />
+30 days trial<br />
+</p>
+<div class="celltext_big"><br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+Fixed: Scheduled events were not firing. <br />
+Fixed: The time of the last command was not being updated for someSFTP commands resulting in an incorrect idle connection timeout thatwould close the SFTP connection during long file transfers. <br />
+Fixed: The Event Manager was not reloading the events list when events were added, deleted, or disabled/enabled. <br />
+Fixed: Memory leak that would occur if the same user logged in multiple times repeatedly. <br />
+Fixed: Idle connections were not being closed properly if terminated non-gracefully when a user was not logged in. <br />
+Fixed: COM/srxCFG issue which would not properly retain existing Group settings when adding members to groups. <br />
+Fixed: Optimized ftp connection subsystems to allow more concurrent connections to be serviced simultaneously. <br />
+Fixed: Optimized connection memory usage to limit the amount ofsystem memory each connection uses. This will decrease the memoryfootprint of Titan under heavy loads. <br />
+Fixed: SSL data connections were not being encrypted unless PROT P was issued. <br />
+Fixed: The response to a QUIT command was not sent properly prior to closing the connection. <br />
+Fixed: using GETUATTR GETSATTR and GETGATTR in srxCFG would result in a buffer overflow and/or invalid attributes <br />
+Fixed: srxCFG would not set the users password correctly. <br />
+Fixed: srxCFG would not generate a list of users properly. <br />
+Fixed: Potential buffer overflow issue in the log manager if user supplied invalid content from an ftp client. <br />
+Fixed: PASV mode issue resulting in a 421 memory error if FTP was disabled but FTPS was enabled. <br />
+Changed: Increased the default flood protection values to 100connections in 5 seconds to minimize the risk of valid connectionsbeing banned.... [ </div>&lt;/p&gt;&lt;/p&gt;
+</font></p></p>
+:ET

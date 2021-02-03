@@ -1,0 +1,63 @@
+I"�<h1 class="H1-large">DataRecovery 2.4.0</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free DataRecovery 2.4.0" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download DataRecovery 2.4.0" download="DataRecovery 2.4.0" href="http://tokiwa.qee.jp/EN/DataRecovery_EN.zip"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 2.4.0, Size: 196 KB <br />
+  By <a title="DataRecovery 2.4.0" href="" target="_blank"> </a> ,
+   License: Freeware
+<a title="Report a broken link for DataRecovery 2.4.0" href="/reportbroken/index.html?softwareName=DataRecovery 2.4.0&amp;downloadurl=http://tokiwa.qee.jp/EN/DataRecovery_EN.zip"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>DataRecovery 2.4.0 description</strong><br />
+    A software application that undeletes accidentally deleted files even from recycle bin 
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2">DataRecovery 2.4.0 description <br />
+A software application that undeletes accidentally deleted files even from recycle bin <br />
+<br />
+DataRecovery is freeware and written by TOKIWA to undelete accidentally deleted files even from recycle bin. <br />
+<br />
+But DataRecovery doesn't assure that all files deleted can be recovered successfully. <br />
+<br />
+DataRecovery mostly depends on your system/configuration and we can't support each of all those varieties. <br />
+<br />
+You need "administrator account" to run DataRecovery at WinNT/2000/XP/Vista. <br />
+To wipe out deleted files, DataRecovery directly write NULL to disc. <br />
+On FAT volume, first <br />
+character of the file name is sometimes overwritten by delete-code on deletion. In that case the lost character is replaced by "$" on the list displayed. <br />
+On Windows Vista, due to file protection of OS, you can not wipe out files. <br />
+Norton UnErase keeps DataRecovery from scanning deleted files. <br />
+When you get "Runtime Error" on scanning drive, then mail to TOKIWA, you will receive Debug version. <br />
+<br />
+Here are some key features of "DataRecovery": <br />
+<br />
+· FAT12, FAT16, FAT32, NTFS undeletion <br />
+· undelete NTFS compressed files <br />
+· undelete EFS encrypted files <br />
+· wipe out deleted files never to be recovered again <br />
+· runnable from floppy disk <br />
+· search by partial string in the file name <br />
+· undelete whole files in a directory <br />
+· undelete multiple files by selecting them with Shift/Ctrl key <br />
+· sort items displayed by clicking column headers <br />
+· neither installation nor DLLs is needed <br />
+· Windows Vista supported <br />
+<br />
+<br />
+What's New in This Release: <br />
+<br />
+· improved scanning speed <br />
+· resizable main window <br />
+· fixed multithread related bugs <br />
+· improved user interface... <br />
+<br />
+</font></p></p>
+:ET
