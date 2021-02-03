@@ -1,0 +1,48 @@
+I"ª	<h1 class="H1-large">UPX 3.01</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free UPX 3.01" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download UPX 3.01" download="UPX 3.01" href="http://upx.sourceforge.net/download/upx301w.zip"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 3.01, Size: 310 KB <br />
+  By <a title="UPX 3.01" href="" target="_blank"> </a> ,
+   License: GPL
+<a title="Report a broken link for UPX 3.01" href="/reportbroken/index.html?softwareName=UPX 3.01&amp;downloadurl=http://upx.sourceforge.net/download/upx301w.zip"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>UPX 3.01 description</strong><br />
+    UPX - The BEST free, portable, extendable, high-performance executable packer
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>UPX is a portable, free, extendable, high-performance executable packer for several different executable formats. <br />
+<br />
+It achieves an excellent compression ratio and offers very fastdecompression. Your executables suffer no memory overhead or otherdrawbacks.<br />
+<br />
+UPX supports a number of different executable formats, including<br />
+Windows 95/98/ME/NT/2000/XP programs and DLLs, DOS programs,<br />
+and Linux executables.<br />
+<br />
+<span><strong>Here </strong><strong>are some key features of "UPX":</strong></span><br />
+<br />
+Excellent compression ratio: typically compresses better thanWinZip/zip/gzip, use UPX to decrease the size of your distribution ! <br />
+Very fast decompression: ~10 MB/sec on an ancient Pentium 133, ~200 MB/sec on an Athlon XP 2000+. <br />
+No memory overhead for your compressed executables because of in-place decompression. <br />
+Safe: you can list, test and unpack your executables. Also, achecksum of both the compressed and uncompressed file is maintainedinternally. <br />
+Universal: UPX can pack a number of executable formats. <br />
+Portable: UPX is written in portable endian-neutral C++ <br />
+Extendable: because of the class layout it s very easy to add new executable formats or new compression algorithms <br />
+</p>
+<div class="celltext_big"><br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+Optional LZMA compression <br />
+Support for BSD sy</div>&lt;/p&gt;&lt;/p&gt;
+</font></p></p>
+:ET

@@ -1,0 +1,40 @@
+I"ª<h1 class="H1-large">W32.Blaster.Worm Removal Tool 1.0.6.1</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free W32.Blaster.Worm Removal Tool 1.0.6.1" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download W32.Blaster.Worm Removal Tool 1.0.6.1" download="W32.Blaster.Worm Removal Tool 1.0.6.1" href="http://securityresponse.symantec.com/avcenter/FixBlast.exe"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 1.0.6.1, Size: 132 KB <br />
+  By <a title="W32.Blaster.Worm Removal Tool 1.0.6.1" href="" target="_blank"> </a> ,
+   License: Freeware
+<a title="Report a broken link for W32.Blaster.Worm Removal Tool 1.0.6.1" href="/reportbroken/index.html?softwareName=W32.Blaster.Worm Removal Tool 1.0.6.1&amp;downloadurl=http://securityresponse.symantec.com/avcenter/FixBlast.exe"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>W32.Blaster.Worm Removal Tool 1.0.6.1 description</strong><br />
+    Removal tool to clean the W32.Blaster.Worm infections (fix the RPC vulnerability)
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>Removal tool to clean the W32.Blaster.Worm infections. <br />
+<br />
+It will terminate the viral process, delete the worm files, dropped files, and delete the registry values that were added.<br />
+<br />
+W32.Blaster.Worm is a worm that exploits the DCOM RPC vulnerability (described in Microsoft Security Bulletin MS03-026) using TCP port 135. This worm attempts to download and run the Msblast.exe file.<br />
+<br />
+Block access to TCP port 4444 at the firewall level, and then block thefollowing ports, if they do not use the applications listed:<br />
+<br />
+TCP Port 135, "DCOM RPC" <br />
+UDP Port 69, "TFTP"<br />
+<br />
+The worm also attempts to perform a Denial of Service (DoS) on WindowsUpdate. This is an attempt to prevent you from applying a patch on yourcomputer against the DCOM RPC vulnerability.<br />
+<br />
+<strong>What s New</strong> in This Release:<br />
+<br />
+support for variants through F</p>&lt;/p&gt;&lt;/p&gt;
+</font></p></p>
+:ET

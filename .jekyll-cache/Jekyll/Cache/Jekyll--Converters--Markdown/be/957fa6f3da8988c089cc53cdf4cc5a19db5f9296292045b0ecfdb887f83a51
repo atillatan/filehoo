@@ -1,0 +1,49 @@
+I"K<h1 class="H1-large">Visual Trace Route 0.8</h1>
+<p><span class="d_subinfo_label">Last Updated: </span>
+<span class="d_subinfo_value">03/11/2017</span></p>
+<p>
+  <img title="Download Free Visual Trace Route 0.8" src="/assets/img/mir_download.gif" hspace="5" align="absmiddle" />
+
+
+  <a class="a-large" rel="nofollow" title="Download Visual Trace Route 0.8" download="Visual Trace Route 0.8" href="http://www.d3tr.de/downloads/d3tr.exe"><b>Download Now</b></a>
+</p>
+
+<p><span class="d_small_info">Version: 0.8, Size: 0.6 MB <br />
+  By <a title="Visual Trace Route 0.8" href="" target="_blank"> </a> ,
+   License: Freeware
+<a title="Report a broken link for Visual Trace Route 0.8" href="/reportbroken/index.html?softwareName=Visual Trace Route 0.8&amp;downloadurl=http://www.d3tr.de/downloads/d3tr.exe"> Report Broken</a><br />
+ </span></p>
+
+<h2 class="download-description">
+    <strong>Visual Trace Route 0.8 description</strong><br />
+    FREE Visual replacement for the standard trace route utility
+  </h2>
+
+<p style="fix-download-text !important">
+<p><font size="2"><p>This utility can quickly trace a route from your computer to any other device.<br />
+<br />
+FREE Visual replacement for the standard trace route utility. Thissoftware is the fastest way to get the route between your computer andany other computer in the world. <br />
+<br />
+A utility that traces a packet from your computer to an Internet host,showing how many hops the packet requires to reach the host and howlong each hop takes. <br />
+<br />
+If you re visiting a Web site and pages are appearing slowly, you canuse traceroute to figure out where the longest delays are occurring.Visual Trace Route utility work by sending packets with low time-to-live (TTL) fields. <br />
+<br />
+The TTL value specifies how many hops the packet is allowed before itis returned. When a packet can t reach its destination because the TTLvalue is too low, the last host returns the packet and identifiesitself. <br />
+<br />
+By sending a series of packets and incrementing the TTL value with eachsuccessive packet, traceroute finds out who all the intermediary hostsare.<br />
+<br />
+You can start Visual Trace Route from the desktop icon, or from theprogram group manager of the start menu. Also, you can start VisualTrace Route is from Command Prompt. First, start Command Prompt fromthe Start/Run menu. <br />
+<br />
+<span><strong>Here are some key features of "Visual Trace Route":</strong></span><br />
+<br />
+Very easy to use interface. <br />
+Incredible tracing speed. <br />
+Complete control of tracing parameters. <br />
+Detailed and complete results of the tracing process. <br />
+Real time results in text and graphical mode. <br />
+Complete documentation. <br />
+Desktop and start menu launching. <br />
+Command prompt launching. <br />
+Command prompt launching WITH parameters.</p>&lt;/p&gt;&lt;/p&gt;
+</font></p></p>
+:ET
