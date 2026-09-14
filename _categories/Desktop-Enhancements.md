@@ -4,7 +4,7 @@ permalink: /download-desktop-enhancements/
 name: Desktop enhancements
 file_type: category
 title: Desktop enhancements
-description: Desktop enhancements
+description: "Free desktop enhancements: themes, screensavers, docks and tools that customize your Windows desktop."
 tags:  
 category: Desktop enhancements
 sort_order: 30

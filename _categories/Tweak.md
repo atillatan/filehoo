@@ -4,7 +4,7 @@ permalink: /download-tweak/
 name: Tweak
 file_type: category
 title: Tweak
-description: Tweak
+description: "Free system tweaks: cleaners, optimizers, registry tools and startup managers to speed up Windows."
 tags:  
 category: Tweak
 sort_order: 30

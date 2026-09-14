@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": {{ include.download.name | jsonify }},
+  "description": {{ include.download.description | strip_html | jsonify }},
+  "url": "{{ site.url }}{{ include.download.url }}",
+  "operatingSystem": {{ include.download.os | default: "Windows" | jsonify }},
+  "applicationCategory": "UtilitiesApplication",
+  {% if include.download.version and include.download.version != "" %}"softwareVersion": {{ include.download.version | jsonify }},{% endif %}
+  {% if include.download.size and include.download.size != "" %}"fileSize": {{ include.download.size | jsonify }},{% endif %}
+  {% assign mdp = include.download.modified_date | split: "/" %}{% if mdp.size == 3 %}"dateModified": "{{ mdp[2] }}-{{ mdp[0] }}-{{ mdp[1] }}",{% endif %}
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+    {% if include.download.category %}{ "@type": "ListItem", "position": 2, "name": {{ include.download.category | jsonify }}, "item": "{{ site.url }}/download-{{ include.download.category | slugify }}/" },
+    { "@type": "ListItem", "position": 3, "name": {{ include.download.name | jsonify }} }{% else %}{ "@type": "ListItem", "position": 2, "name": {{ include.download.name | jsonify }} }{% endif %}
+  ]
+}
+</script>

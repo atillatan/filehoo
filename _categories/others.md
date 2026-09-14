@@ -4,7 +4,7 @@ permalink: /download-others/
 name: Others
 file_type: category
 title: Others
-description:
+description: "More free software that does not fit a single box: misc utilities and specialty tools."
 tags:  
 category: Others
 sort_order: 30

@@ -4,7 +4,7 @@ permalink: /download-file-managers/
 name: File managers
 file_type: category
 title: File managers
-description: File managers
+description: "Free file managers: dual-pane explorers, FTP clients and utilities that make handling files faster."
 tags:  
 category: File managers
 sort_order: 30

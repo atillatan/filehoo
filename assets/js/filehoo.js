@@ -147,5 +147,16 @@
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
   } else { boot(); }
-  function boot() { initTheme(); initSearch(); initFavButton(); initFavList(); }
+  function initQueryParam() {
+    if (location.pathname.indexOf("/search") !== 0) return;
+    var m = /[?&]q=([^&]+)/.exec(location.search);
+    if (!m) return;
+    var input = document.querySelector(".search-box input");
+    if (!input) return;
+    input.value = decodeURIComponent(m[1].replace(/\+/g, " "));
+    input.focus();
+    input.dispatchEvent(new Event("input"));
+  }
+
+  function boot() { initTheme(); initSearch(); initFavButton(); initFavList(); initQueryParam(); }
 })();

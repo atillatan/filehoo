@@ -4,7 +4,7 @@ permalink: /download-antivirus/
 name: Antivirus
 file_type: category
 title: Antivirus
-description: 
+description: "Free antivirus and anti-malware downloads: scanners, removal tools and resident protection for Windows."
 tags:  
 category: Antivirus
 sort_order: 30
