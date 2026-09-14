@@ -4,7 +4,7 @@ permalink: /download-security/
 name: Security
 file_type: category
 title: Security
-description: Security
+description: "Free security software: firewalls, encryption, password managers and privacy tools."
 tags:  
 category: Security
 sort_order: 30

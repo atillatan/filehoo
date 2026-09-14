@@ -4,7 +4,7 @@ permalink: /download-network-tools/
 name: Network tools
 file_type: category
 title: Network tools
-description: Network tools
+description: "Free network tools: monitors, analyzers, remote access and diagnostics for LANs and Wi-Fi."
 tags:  
 category: Network tools
 sort_order: 30

@@ -1,10 +1,10 @@
 ---
 layout: downloadpage
 permalink: /download-dvd-tools/
-name: CD-DVD Tools
+name: DVD Tools
 file_type: category
 title: DVD Tools
-description: DVD Tools
+description: "Free DVD tools: burners, rippers, copiers and converters for DVDs, CDs and disc images."
 tags:  
 category: DVD tools
 sort_order: 30

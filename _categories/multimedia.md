@@ -4,7 +4,7 @@ permalink: /download-multimedia/
 name: Multimedia
 file_type: category
 title: Multimedia
-description: Multimedia
+description: "Free multimedia software: audio and video players, converters, editors and codecs."
 tags:  
 category: Multimedia
 sort_order: 30

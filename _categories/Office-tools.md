@@ -4,7 +4,7 @@ permalink: /download-office-tools/
 name: Office tools
 file_type: category
 title: Office tools
-description: Office tools
+description: "Free office tools: word processing, spreadsheets, PDF utilities and productivity helpers."
 tags:  
 category: Office tools
 sort_order: 30
