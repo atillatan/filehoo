@@ -4,7 +4,7 @@ permalink: /download-internet/
 name: Internet
 file_type: category
 title: Internet
-description: Internet
+description: "Free internet software: browsers, download managers, messengers and other everyday online tools."
 tags:  
 category: Internet
 sort_order: 30

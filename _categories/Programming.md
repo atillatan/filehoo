@@ -4,7 +4,7 @@ permalink: /download-programming/
 name: Programming
 file_type: category
 title: Programming
-description: Programming
+description: "Free programming tools: editors, IDEs, compilers, debuggers and developer utilities."
 tags:  
 category: Programming
 sort_order: 30

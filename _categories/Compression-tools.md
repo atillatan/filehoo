@@ -4,7 +4,7 @@ permalink: /download-compression-tools/
 name: Compression tools
 file_type: category
 title: Compression tools
-description: Compression tools
+description: "Free file compression tools: zip, rar, 7z archivers and extractors for packing and unpacking any archive."
 tags:   
 category: Compression tools
 sort_order: 30

@@ -1,14 +1,12 @@
-title: Filehoo Download Full Freeware Shareware Software Programs applications utilities tools portable apps
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Filehoo
+tagline: Free Software, Direct Downloads
+baseurl: ""
 domain-name: www.filehoo.com
-url: http://www.filehoo.com
-#enforce_ssl: /www.filehoo.com
-keywords: >- # this means to ignore newlines until "description:"
-  Filehoo, download, freeware, shareware, software, programs,
-  screensavers, wallpapers, codecs, applications, utilities, drivers, games
-description: >- # this means to ignore newlines until "author:"
-  download, freeware, shareware, software, programs,
-  screensavers, wallpapers, codecs, applications, utilities, drivers, games
+url: https://www.filehoo.com
+lang: en
+description: >-
+  Download free software fast. Every download on Filehoo links straight to the
+  publisher's own file - no repacks, no bundled installers, no waiting pages.
 author: filehoo
 environment: production
 permalink: pretty
@@ -18,9 +16,8 @@ img: /assets/img
 changefreq: monthly
 priority: 0.5
 
-disqus:
-  shortname: filehoo-com
-#google_analytics: UA-2498474-2
+# Google Analytics 4: set your measurement ID to enable tracking
+# ga4_id: G-XXXXXXXXXX
 
 # Build settings
 

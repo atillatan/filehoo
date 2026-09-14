@@ -4,7 +4,7 @@ permalink: /download-mac-apps/
 name: Mac Apps
 file_type: category
 title: Mac Apps
-description: Mac Apps
+description: "Free Mac apps: utilities, media players and productivity software for macOS."
 tags:  
 category: Mac Apps
 sort_order: 30
