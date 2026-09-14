@@ -426,3 +426,16 @@ td, th { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: 
 
 .dl-hero a:visited { color: var(--brand); }
 .hero kbd { border: 1px solid rgba(255,255,255,.5); border-radius: 4px; padding: 1px 6px; }
+
+/* Favorites */
+.fav-toggle {
+  display: inline-flex; align-items: center; gap: 7px;
+  margin: 6px 0 4px 10px; padding: 12px 18px;
+  background: transparent; color: var(--muted);
+  border: 1px solid var(--border); border-radius: var(--radius);
+  font: inherit; font-size: .92rem; cursor: pointer; vertical-align: middle;
+}
+.fav-toggle:hover { border-color: var(--brand); color: var(--brand); }
+.fav-toggle svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+.fav-toggle.on { color: var(--warn); border-color: var(--warn); }
+.fav-toggle.on svg { fill: var(--warn); stroke: var(--warn); }
