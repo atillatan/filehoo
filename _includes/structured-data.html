@@ -9,7 +9,7 @@
   "applicationCategory": "UtilitiesApplication",
   {% if include.download.version and include.download.version != "" %}"softwareVersion": {{ include.download.version | jsonify }},{% endif %}
   {% if include.download.size and include.download.size != "" %}"fileSize": {{ include.download.size | jsonify }},{% endif %}
-  {% assign mdp = include.download.modified_date | split: "/" %}{% if mdp.size == 3 %}"dateModified": "{{ mdp[2] }}-{{ mdp[0] }}-{{ mdp[1] }}",{% endif %}
+  {% if include.download.modified_date %}"dateModified": "{{ include.download.modified_date }}",{% endif %}
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
 }
 </script>

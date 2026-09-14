@@ -14,16 +14,16 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 03/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url:
 ###
-version:  1.4.1
-size: 1.4 MB
-downloadurl: https://www.voidtools.com/Everything-1.4.1.877.x64.zip
-response: 301
+version: 1.4.1.1028
+size: 1.9 MB
+downloadurl: https://www.voidtools.com/Everything-1.4.1.1028.x64-Setup.exe
+response: 200
 by: voidtools
 by_link: https://www.voidtools.com
 license: Freeware

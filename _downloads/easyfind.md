@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 09/11/2017
+modified_date: "2017-09-11"
 created_by:
 modified_by:
 comments: true
