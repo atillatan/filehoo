@@ -1,0 +1,16 @@
+---
+layout: null
+---
+{
+  "name": "Filehoo — Free Software Downloads",
+  "short_name": "Filehoo",
+  "description": "Free software, direct downloads. No repacks, no waiting pages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1320",
+  "theme_color": "#2456c4",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
