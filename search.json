@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+[{% for d in site.downloads %}{"n":{{ d.name | jsonify }},"u":{{ d.url | jsonify }},"c":{{ d.category | jsonify }},"t":{{ d.tags | join: " " | jsonify }},"v":{{ d.version | jsonify }},"s":{{ d.size | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]

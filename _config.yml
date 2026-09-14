@@ -33,6 +33,15 @@ exclude:
   - node_modules
   - lib
   - CNAME
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - portable
+  - gulpfile.js
+  - bower.json
+  - package-lock.json
+  - Adobe-PhotoShop-CS2.md
 
 collections:
   downloads:
