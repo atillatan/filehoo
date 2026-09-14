@@ -1,29 +1,28 @@
 ---
 layout: standartpage
 title: About Filehoo
-description:  
+description: Filehoo has offered free software with direct, no-nonsense downloads since 2007. No repacks, no bundled installers, no waiting pages.
 comments: false
-
 ---
 
-# About Filehoo
+Filehoo is a free-software download site running since **2007**. We do one thing
+and keep it simple: help you find good free software and download it with one
+click, straight from the publisher's own server.
 
+### What makes Filehoo different
 
-Filehoo is a software and technology publication established in 2007. We provide you with the simplest way of downloading the best software - without the usual excessive popups or spyware and without the low level quality software.
+- **Direct downloads.** The green button links to the publisher's official file.
+  We never re-host, repack or wrap installers.
+- **No dark patterns.** No fake download buttons, no countdown pages, no
+  "download manager" bundles.
+- **Curated, not exhaustive.** We list software people actually want, and we
+  regularly check that every link still works.
+- **Fast and light.** No trackers beyond basic analytics, no heavy frameworks.
+  Pages load instantly and work great on phones.
+- **Your list, your machine.** "My Apps" favorites are stored in your browser
+  only - no accounts, no emails.
 
-### We provide
+### Software submissions
 
-- Very fast servers, to make your downloads as fast as possible.
-- All software is 100% spyware and virus free.
-- We are supporting for resuming downloads and download managers.
-- RSS feeds for all updates, categories and for individual programs.
-- Optimized pages for faster browsing.
-- Only the best software, we focus on quality not quantity.
-
-### Software Submissions
-
-- We don't accept software submissions from developers. We analyse the popular softwares software to add.
-<br/>
-<br/>
-<br/>
-<br/>
+We do not accept paid submissions. We pick software by popularity and merit.
+If a link is broken, please [report it](/reportbroken/) - it helps everyone.
