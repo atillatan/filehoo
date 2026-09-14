@@ -1,18 +1,13 @@
 ---
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-{% for page in site.pages %}
-  {% if page.layout %}
-    {% include sitemap-entry.xml entry=page %}
-  {% endif %}
-{% endfor %}
-
-{% for download in site.downloads %}
-{% if download.published==true %}
-{% include sitemap-entry.xml entry=download %}
-{% endif %}
-{% endfor %}
-
+  <url><loc>{{ site.url }}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+{% for d in site.downloads %}  <url><loc>{{ site.url }}{{ d.url }}</loc>{% assign mdp = d.modified_date | split: "/" %}{% if mdp.size == 3 %}<lastmod>{{ mdp[2] }}-{{ mdp[0] }}-{{ mdp[1] }}</lastmod>{% endif %}<changefreq>monthly</changefreq><priority>0.8</priority></url>
+{% endfor %}{% assign catcol = site.collections | where: "label", "categories" | first %}{% for c in catcol.docs %}  <url><loc>{{ site.url }}{{ c.url }}</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+{% endfor %}{% assign letcol = site.collections | where: "label", "letters" | first %}{% for l in letcol.docs %}  <url><loc>{{ site.url }}{{ l.url }}</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+{% endfor %}{% assign tagcol = site.collections | where: "label", "tags" | first %}{% for t in tagcol.docs %}  <url><loc>{{ site.url }}{{ t.url }}</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+{% endfor %}  <url><loc>{{ site.url }}/about/</loc><priority>0.3</priority></url>
+  <url><loc>{{ site.url }}/contact/</loc><priority>0.3</priority></url>
 </urlset>
