@@ -14,16 +14,16 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 10/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url:
 ###
-version: 2.2.1
-size: 2.68 MB
-downloadurl: http://download.piriform.com/dfsetup221.exe
-response: 302
+version: Latest
+size: 
+downloadurl: https://www.ccleaner.com/defraggler/download/standard
+response: 200
 by: piriform
 by_link: https://www.piriform.com
 license: Freeware

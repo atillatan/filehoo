@@ -1,6 +1,6 @@
 <h1>{{ include.download.name }}</h1>
 {% if include.download.modified_date and include.download.modified_date != "" %}
-<div class="updated">Last updated: {{ include.download.modified_date }}</div>
+<div class="updated">Last updated: {{ include.download.modified_date | date: "%B %-d, %Y" }}</div>
 {% endif %}
 
 <div class="meta-chips">

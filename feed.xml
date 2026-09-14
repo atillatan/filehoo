@@ -13,7 +13,7 @@ layout: null
     <title>{{ d.name | xml_escape }}</title>
     <link href="{{ site.url }}{{ d.url }}"/>
     <id>{{ site.url }}{{ d.url }}</id>
-    {% assign mdp = d.modified_date | split: "/" %}{% if mdp.size == 3 %}<updated>{{ mdp[2] }}-{{ mdp[0] }}-{{ mdp[1] }}T00:00:00+00:00</updated>{% else %}<updated>{{ site.time | date_to_xmlschema }}</updated>{% endif %}
+    {% if d.modified_date %}<updated>{{ d.modified_date }}T00:00:00+00:00</updated>{% else %}<updated>{{ site.time | date_to_xmlschema }}</updated>{% endif %}
     <summary>{{ d.description | strip_html | xml_escape | truncate: 200 }}</summary>
   </entry>
 {% endfor %}</feed>
