@@ -1,29 +1,19 @@
 ---
 layout: basepage
 ---
-<div class="panel panel-primary">
-  <div class="panel-heading filehoo-panel-heading">
-    <h2 class="panel-title">{{page.category}} Downloads</h2>
-  </div>
-  <div class="panel-body" style="padding:0px;">
-
-    {% if site.environment=="production" %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6932012645209598"
-     crossorigin="anonymous"></script>
-<!-- top -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-6932012645209598"
-     data-ad-slot="5843510267"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-   {% endif %}
-      <article>
-        {{content}}
-      </article>
-      {% if site.disqus.shortname %} {% include disqus-comments.html %} {% endif %}
-
-
+<div class="container">
+  <nav class="breadcrumbs"><a href="/">Home</a><span class="sep">/</span>{{ page.title | default: "Browse" }}</nav>
+  <div class="page with-side">
+    <div>
+      {% if page.file_type == "tag" %}<h1>{{ page.title }} downloads</h1>{% else %}<h1>Browse software</h1>{% endif %}
+      {% include alpha-nav.html %}
+      {% include ad-unit.html %}
+      <div class="card" style="padding:0;">
+        {{ content }}
+      </div>
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
   </div>
 </div>

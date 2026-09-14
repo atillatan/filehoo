@@ -1,4 +1,43 @@
 ---
-layout: default
+layout: basepage
+title: Filehoo — Free Software, Direct Downloads
+description: Download free software fast. Every download links straight to the publisher's own file — no repacks, no bundled installers, no waiting pages.
 ---
- 
+<div class="container">
+  <div class="hero">
+    <h1>Free software. One page, one button.</h1>
+    <p>Every download links straight to the publisher&rsquo;s own file &mdash; no repacks, no waiting pages, no bundled junk. Press <kbd style="border:1px solid rgba(255,255,255,.5);border-radius:4px;padding:1px 6px;">/</kbd> to search.</p>
+  </div>
+  <div class="page with-side">
+    <div>
+      <section class="my-apps" style="display:none;">
+        <div class="section-head"><h2>My apps</h2></div>
+        <div class="app-grid"></div>
+      </section>
+      {% include most-wanted.html %}
+      {% include ad-unit.html %}
+      {% include lastupdated.html %}
+      {% include editors-picks.html %}
+      <section>
+        <div class="section-head"><h2>Categories</h2></div>
+        <div class="cat-grid">
+          {% assign catcol = site.collections | where: "label", "categories" | first %}
+          {% assign cats = catcol.docs | where_exp: "c", "c.is_hidden != true" | sort: "title" %}
+          {% for cat in cats %}
+          <a class="cat-tile" href="{{ cat.url }}">
+            <svg viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+            {{ cat.title }}
+          </a>
+          {% endfor %}
+        </div>
+      </section>
+      <section style="margin-top:20px;">
+        <div class="section-head"><h2>Browse A&ndash;Z</h2></div>
+        {% include alpha-nav.html %}
+      </section>
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
+  </div>
+</div>

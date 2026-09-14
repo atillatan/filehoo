@@ -1,44 +1,15 @@
-<div class="container-fuiled" style="background-color:#f6f8fa;">
-  <div class="row">
-
-    <div class="col-md-3">
-      <ul>
-
-        <li><a href="{{site.baseutl}}/about/">About</a></li>
-   <li><p class="rss-subscribe"> <a target="_blank" href="{{ "/feed.xml" | relative_url }}">RSS</a></p></li>
-      </ul>
+<footer class="site-footer">
+  <div class="container cols">
+    <div>
+      <strong>filehoo</strong> &middot; free software, direct downloads since 2007.<br>
+      All downloads link straight to the publisher&rsquo;s own file &mdash; no repacks, no bundled installers.
     </div>
-    <div cclass="col-md-3">
-      <ul>
-
-        <li><a href="{{site.baseutl}}/contact/">Contact Us</a></li>
-
-      <!--Download Count:
-        {% assign counter = 1 %}
-        {% for item in site.downloads %}
-            {% if item.published == true %}
-            {% assign counter=counter | plus:1 %}
-            {% endif %}
-        {% endfor %}
-        {{ counter }}
-      -->
-<li>Last Build: {{ page.date | date: "%B %-d, %Y" }}</li>
-      </ul>
-    </div>
-    <div class="col-md-3">
-
-    </div>
+    <nav>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+      <a href="/reportbroken/">Report a broken link</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+    <div>&copy; {{ site.time | date: '%Y' }} filehoo.com</div>
   </div>
-</div>
-<hr>
-<div class="row-fluid">
-  <div>
-    <div  class="col-md-6">
-      <a href="#">Terms and Conditions</a> |
-      <a href="#">Privacy Policy</a>
-    </div>
-    <div  class="col-md-6">
-      <p class="muted pull-right">© Copyright  {{ site.time | date: '%Y' }} Filehoo. All rights reserved.</p>
-    </div>
-  </div>
-</div>
+</footer>

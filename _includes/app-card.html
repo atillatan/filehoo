@@ -1,0 +1,5 @@
+<a class="app-card" href="{{ include.d.url }}" title="{{ include.d.name }} free download">
+  <span class="name">{{ include.d.name }}</span>
+  <span class="desc">{{ include.d.description | strip_html | truncate: 90 }}</span>
+  <span class="meta"><span class="lic">{{ include.d.license | default: "Free" }}</span><span>{{ include.d.size }}</span></span>
+</a>
