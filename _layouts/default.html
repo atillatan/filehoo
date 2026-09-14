@@ -1,62 +1,13 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-{% include head.html %}
-
-  <body id="Body" rightmargin="0" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
-    <header class="container">
-           {% include nav-top.html %}
-    </header>
-        <section class="container-fuiled">
-            <div class="row">
-              <div class="col-md-2">
-
-                 {% include nav-left.html %}
-
-              </div>
-                <div class="col-md-8 content wrapper">
-                   <article>
-
-                    {% include most-wanted.html %}
-                    {% include editors-picks.html %}
-                    {% include lastupdated.html %}
-                    {{content}}
-                  </article>
-                </div>
-                <aside>
-                <div class="col-md-2">
-                  {% if site.environment=="production" %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6932012645209598"
-     crossorigin="anonymous"></script>
-<!-- left -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-6932012645209598"
-     data-ad-slot="4776540219"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-                  {% endif %}
-                </div>
-              </aside>
-            </div>
-        </section>
-        <br>
-        <footer class="container-fuiled">
-            {% include footer.html %}
-        </footer>
-  {% include lib.html %}
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2498474-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-2498474-2');
-  </script>
-
-
-  </body>
-</html>
+---
+layout: basepage
+---
+<div class="container">
+  <div class="page with-side">
+    <div>
+      {{ content }}
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
+  </div>
+</div>

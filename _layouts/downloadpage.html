@@ -1,47 +1,51 @@
 ---
 layout: basepage
 ---
-<div class="panel panel-primary">
-  <div class="panel-heading filehoo-panel-heading">
-    <h2 class="panel-title">{{page.category}} Downloads</h2>
-  </div>
-  <div class="panel-body" style="padding:0px;">
-
-    <div class="col-md-8">
-      {% if site.environment=="production" %}
-      <script type="text/javascript"><!--
-      google_ad_client = "pub-6932012645209598";
-      /* top */
-      google_ad_slot = "5843510267";
-      google_ad_width = 728;
-      google_ad_height = 90;
-      //-->
-      </script><script type="text/javascript"
-      src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-      </script>
-     {% endif %}
-      <article>
-        {{content}}
-      </article>
-      {% if site.disqus.shortname %} {% include disqus-comments.html %} {% endif %}
+{% if page.file_type == "category" %}
+<div class="container">
+  <nav class="breadcrumbs"><a href="/">Home</a><span class="sep">/</span>{{ page.title }}</nav>
+  <div class="page with-side">
+    <div>
+      <h1>{{ page.title }} downloads</h1>
+      {% include ad-unit.html %}
+      <div class="card" style="padding:0;">
+        {{ content }}
+      </div>
     </div>
-    <aside class="col-md-4">
-      {% if site.environment=="production" %}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6932012645209598"
-     crossorigin="anonymous"></script>
-<!-- left -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-6932012645209598"
-     data-ad-slot="4776540219"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-      {% endif %}
-      <br/><br/>
-      {% include all-tags-flat.html %}
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
     </aside>
   </div>
 </div>
+{% else %}
+<div class="container">
+  <nav class="breadcrumbs">
+    <a href="/">Home</a><span class="sep">/</span>
+    {% if page.category %}<a href="/download-{{ page.category | slugify }}/">{{ page.category }}</a><span class="sep">/</span>{% endif %}
+    {{ page.name }}
+  </nav>
+  <div class="page with-side">
+    <div>
+      <article class="card dl-hero">
+        {{ content }}
+      </article>
+      {% assign related = site.downloads | where: "category", page.category | sample: 7 %}
+      {% assign relcount = 0 %}
+      <div class="section-head" style="margin-top:24px;"><h2>Similar software</h2></div>
+      <div class="app-grid">
+        {% for d in related %}{% if d.url != page.url and relcount < 6 %}{% assign relcount = relcount | plus: 1 %}
+        <a class="app-card" href="{{ d.url }}">
+          <span class="name">{{ d.name }}</span>
+          <span class="desc">{{ d.description | strip_html | truncate: 90 }}</span>
+          <span class="meta"><span class="lic">{{ d.license | default: "Free" }}</span><span>{{ d.size }}</span></span>
+        </a>
+        {% endif %}{% endfor %}
+      </div>
+      {% include ad-unit.html %}
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
+  </div>
+</div>
+{% endif %}

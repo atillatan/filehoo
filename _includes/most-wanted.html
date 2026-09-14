@@ -1,21 +1,7 @@
-<div class="panel panel-primary">
-    <div class="panel-heading  filehoo-panel-heading">
-        <h2 class="panel-title">Most Wanted</h2>
-    </div>
-
-    <div class="panel-body" style="padding:4px;">
-
-   <li class=""> <a class="" href="/downloads/WinRAR-Unplugged-3,62-beta-2/">WinRar</a></li>
-      <li class=""> <a class="" href="/downloads/vlc-media-player/">VLC Media Player</a></li>
-         <li class=""> <a class="" href="/downloads/ccleaner/">CCleaner</a></li>
-      <li class=""> <a class="" href="/downloads/camtasia-studio/">Camtasia Studio</a></li>
-        <li class=""> <a class="" href="/downloads/everything/">Everything</a></li>
-      <li class=""> <a class="" href="/downloads/winamp/">Winamp</a></li>
-      <li class=""> <a class="" href="/downloads/xmplay/">XMPlay</a></li>
-
-
-    </div>
-
-
-
-</div>
+{% assign wanted = "/downloads/vlc-media-player/|/downloads/ccleaner/|/downloads/everything/|/downloads/WinRAR-Unplugged-3,62-beta-2/|/downloads/winamp/|/downloads/camtasia-studio/|/downloads/xmplay/|/downloads/defraggler/" | split: "|" %}
+<section>
+  <div class="section-head"><h2>Most wanted</h2><a href="/download-a/">Browse all &rarr;</a></div>
+  <div class="app-grid">
+    {% for u in wanted %}{% for d in site.downloads %}{% if d.url == u %}{% include app-card.html d=d %}{% endif %}{% endfor %}{% endfor %}
+  </div>
+</section>
