@@ -14,19 +14,19 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 03/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url:
 ###
-version: V8.6.0.2079
-size: 300MB
-downloadurl: http://199.217.116.45/freesoftwarefiles.com/VideoEditing/camtasia.msi
+version: Latest
+size: 
+downloadurl: https://www.techsmith.com/camtasia/download/
 response: 200
 by: TechSmith
 by_link: https://www.techsmith.com/
-license: Free Trail
+license: Trial
 os: Windows
 ---
 

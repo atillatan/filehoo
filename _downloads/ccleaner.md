@@ -14,16 +14,16 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 12/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url: 
 ###
-version: 5.10
-size: 6.2 MB
-downloadurl: http://199.217.116.45/freesoftwarefiles.com/SystemTuning/ccsetup510.exe
-response: 302
+version: Latest
+size: 
+downloadurl: https://www.ccleaner.com/ccleaner/download/standard
+response: 200
 by:
 by_link:
 license: Free
