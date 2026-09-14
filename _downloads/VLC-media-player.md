@@ -14,13 +14,13 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 03/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url:
 ###
-version:  Final
+version: Latest
 size: 9.23 MB
 downloadurl: https://sourceforge.net/projects/vlc/files/latest/download?source=directory
 response: 200

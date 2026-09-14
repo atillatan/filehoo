@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 03/11/2017
+modified_date: "2017-03-11"
 created_by:
 modified_by:
 comments: true
@@ -26,7 +26,7 @@ downloadurl: http://199.217.116.45/freesoftwarefiles.com/Multimedia/winamp5666_f
 response: 302
 by: Winamp
 by_link: http://www.winamp.com/
-license: Free Trail
+license: Trial
 os: Windows
 ---
 

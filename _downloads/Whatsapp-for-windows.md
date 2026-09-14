@@ -14,16 +14,16 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date:
-modified_date: 03/11/2017
+modified_date: "2026-09-15"
 created_by:
 modified_by:
 comments: true
 redirect_url:
 ###
-version: 2.2.7
-size: 115MB
-downloadurl: http://199.217.116.45/freesoftwarefiles.com/Desktop/WhatsAppSetup.exe
-response: 302
+version: Latest
+size: 
+downloadurl: https://www.whatsapp.com/download/
+response: 200
 by: Whatsapp
 by_link: https://www.whatsapp.com/
 license: Shareware
