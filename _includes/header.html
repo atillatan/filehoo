@@ -1,0 +1,33 @@
+<header class="site-header">
+  <div class="container bar">
+    <a class="logo" href="/" title="Filehoo — free software, direct downloads">
+      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
+        <rect width="26" height="26" rx="6" fill="var(--brand)"/>
+        <path d="M13 6v9m0 0l-4.2-4.2M13 15l4.2-4.2M7 19.5h12" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </svg>
+      <span class="word">file<b>hoo</b></span>
+    </a>
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.6-4.6"/></svg>
+      <input type="search" placeholder="Search free software&hellip;" aria-label="Search software" autocomplete="off">
+      <kbd>/</kbd>
+      <div class="search-results" role="listbox"></div>
+    </div>
+    <div class="header-actions">
+      <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark mode">
+        <svg class="moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M19.1 4.9l-1.8 1.8M6.7 17.3l-1.8 1.8"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+<nav class="cat-nav" aria-label="Categories">
+  <div class="container chips" style="padding-left:16px;padding-right:16px;">
+    <a class="chip{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
+    {% assign catcol = site.collections | where: "label", "categories" | first %}
+    {% assign cats = catcol.docs | where_exp: "c", "c.is_hidden != true" | sort: "title" %}
+    {% for cat in cats %}
+    <a class="chip{% if page.url == cat.url %} active{% endif %}" href="{{ cat.url }}">{{ cat.title }}</a>
+    {% endfor %}
+  </div>
+</nav>

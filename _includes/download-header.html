@@ -1,20 +1,25 @@
-<h1 class="H1-large">{{include.download.name}}</h1>
-<span class="d_subinfo_label">Last Updated: </span>
-<span class="d_subinfo_value">{{include.download.modified_date}}</span>
-<p>
-  <img title="Download Free {{include.download.name}}" src="{{ "/assets/img/mir_download.gif" | relative_url }}" hspace="5" align="absmiddle" />
+<h1>{{ include.download.name }}</h1>
+{% if include.download.modified_date and include.download.modified_date != "" %}
+<div class="updated">Last updated: {{ include.download.modified_date }}</div>
+{% endif %}
 
+<div class="meta-chips">
+  {% if include.download.version and include.download.version != "" %}<span class="meta-chip">Version <b>{{ include.download.version }}</b></span>{% endif %}
+  {% if include.download.size and include.download.size != "" %}<span class="meta-chip">Size <b>{{ include.download.size }}</b></span>{% endif %}
+  {% if include.download.license and include.download.license != "" %}<span class="meta-chip">License <b>{{ include.download.license }}</b></span>{% endif %}
+  {% if include.download.os and include.download.os != "" %}<span class="meta-chip">OS <b>{{ include.download.os }}</b></span>{% endif %}
+</div>
 
-  <a class="a-large"  rel="nofollow"  title="Download {{include.download.name}}" download="{{include.download.name}}" href="{{include.download.downloadurl}}"><b>Download Now</b></a>
+<a class="btn-download" rel="nofollow noopener" title="Download {{ include.download.name }}" href="{{ include.download.downloadurl }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M4 21h16" stroke-linecap="round" stroke-linejoin="round"/></svg> Download Now</a>
+
+<p class="trust-line">
+  Direct download from the publisher&rsquo;s own server &mdash; no repacks, no bundled installers.
+  {% if include.download.by and include.download.by != "" %}
+    By {% if include.download.by_link and include.download.by_link != "" %}<a rel="nofollow noopener" target="_blank" href="{{ include.download.by_link }}">{{ include.download.by }}</a>{% else %}{{ include.download.by }}{% endif %}.
+  {% endif %}
+  <a href="/reportbroken/?softwareName={{ include.download.name | url_encode }}&downloadurl={{ include.download.downloadurl | url_encode }}">Report a broken link</a>
 </p>
 
-<span class="d_small_info">Version: {{include.download.version}}, Size: {{include.download.size}} <br/>
-  By <a title="{{include.download.name}}" href="{{include.download.by_link}}" target="_blank" > {{include.download.by}}</a> ,
-   License: {{include.download.license}}
-<a title="Report a broken link for {{include.download.name}}" href="/reportbroken/index.html?softwareName={{include.download.name}}&downloadurl={{include.download.downloadurl}}" > Report Broken</a><br />
- </span>
-
-<h2 class="download-description">
-    <strong>{{include.download.name}} description</strong><br/>
-    {{include.download.description}}
-  </h2>
+<div class="dl-desc">
+  <h2><strong>{{ include.download.name }}</strong> &mdash; {{ include.download.description }}</h2>
+</div>

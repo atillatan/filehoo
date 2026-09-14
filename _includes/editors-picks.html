@@ -1,17 +1,7 @@
-<div class="panel panel-primary">
-    <div class="panel-heading  filehoo-panel-heading">
-        <h2 class="panel-title">Editor's Picks</h2>
-    </div>
-
-    <div class="panel-body" style="padding:4px;">
-
-
-      <li class=""> <a class="" href="/downloads/defraggler/">Defraggler</a></li>
-      <li class=""> <a class="" href="/downloads/Whatsapp-for-windows/">Whatsapp for windows</a></li>
-
-
-
-    </div>
-
-
-</div>
+{% assign picks = "/downloads/defraggler/|/downloads/Whatsapp-for-windows/" | split: "|" %}
+<section>
+  <div class="section-head"><h2>Editor&rsquo;s picks</h2></div>
+  <div class="app-grid">
+    {% for u in picks %}{% for d in site.downloads %}{% if d.url == u %}{% include app-card.html d=d %}{% endif %}{% endfor %}{% endfor %}
+  </div>
+</section>
