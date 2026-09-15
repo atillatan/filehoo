@@ -7,7 +7,7 @@ layout: basepage
     <div>
       {% if page.file_type == "tag" %}<h1>{{ page.title }} downloads</h1>{% else %}<h1>Browse software</h1>{% endif %}
       {% include alpha-nav.html %}
-      {% include ad-unit.html %}
+      {% include ad-unit.html class="ad-top" %}
       <div class="card" style="padding:0;">
         {{ content }}
       </div>
