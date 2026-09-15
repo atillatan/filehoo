@@ -16,8 +16,8 @@ img: /assets/img
 changefreq: monthly
 priority: 0.5
 
-# Google Analytics 4: set your measurement ID to enable tracking
-# ga4_id: G-XXXXXXXXXX
+# Google Analytics 4
+ga4_id: G-44WE3EYGFQ
 
 # Build settings
 
