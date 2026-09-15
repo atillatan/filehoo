@@ -439,3 +439,8 @@ td, th { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: 
 .fav-toggle svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.8; }
 .fav-toggle.on { color: var(--warn); border-color: var(--warn); }
 .fav-toggle.on svg { fill: var(--warn); stroke: var(--warn); }
+
+/* Ad density: above-content units are desktop-only; phones keep content first */
+@media (max-width: 768px) {
+  .ad-box.ad-top { display: none; }
+}
