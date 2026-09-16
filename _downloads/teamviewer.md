@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is TeamViewer still free for personal use?"
+    a: "Yes, non-commercial use is free. TeamViewer detects suspected commercial patterns and may limit sessions until you verify personal use."
+  - q: "What is the difference from AnyDesk?"
+    a: "TeamViewer is more established with more features; AnyDesk is lighter and often faster on slow connections. For occasional family support either works."
+  - q: "Can I access my own PC when away?"
+    a: "Yes, set up unattended access with a password and your PC is reachable from anywhere, including phones."
 ###
 version: Latest
 size: 

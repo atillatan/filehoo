@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is WinSCP free for commercial use?"
+    a: "Yes, it is open source (GPL) and free everywhere, including business use."
+  - q: "Can WinSCP synchronize folders?"
+    a: "Yes, its Synchronize command compares local and remote directories and transfers only differences; it can be scripted for scheduled syncs."
+  - q: "Does it do plain FTP too?"
+    a: "Yes: SFTP, SCP, FTP, FTPS, WebDAV and S3. Use the encrypted options whenever possible."
 ###
 version: Latest
 size: 

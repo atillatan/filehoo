@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is MPC-HC still maintained?"
+    a: "Yes. Original development stopped in 2017, but the clsid2 fork on GitHub is actively updated with modern codecs and fixes, and that is the version we link."
+  - q: "MPC-HC or VLC?"
+    a: "VLC has more extras (convert, stream); MPC-HC is lighter and feels native on Windows. Media playback quality is excellent in both."
+  - q: "Does it need codec packs?"
+    a: "No, it bundles LAV Filters and plays practically everything out of the box."
 ###
 version: 2.8.1
 size: 21.9 MB

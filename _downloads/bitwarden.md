@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Bitwarden free tier actually usable?"
+    a: "Yes, it is the most complete free tier of any password manager: unlimited passwords, unlimited devices, sync included."
+  - q: "Has Bitwarden been audited?"
+    a: "Yes, it undergoes regular third-party security audits and the source code is public."
+  - q: "Can I move from LastPass or Chrome?"
+    a: "Yes, Bitwarden imports from virtually every manager and browser via CSV or direct import."
 ###
 version: 2026.8.0
 size: 0.7 MB

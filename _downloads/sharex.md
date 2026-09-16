@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is ShareX free?"
+    a: "Yes, completely free and open source, with no premium version at all."
+  - q: "Can ShareX record video?"
+    a: "Yes, it records regions or full screen to MP4 or GIF, ideal for short demos and bug reports."
+  - q: "Where do my captures go?"
+    a: "Anywhere you configure: local folders, clipboard, or 80+ upload destinations with the link auto-copied."
 ###
 version: 21.0.0
 size: 132.7 MB

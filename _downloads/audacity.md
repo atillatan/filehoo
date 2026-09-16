@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Audacity free?"
+    a: "Yes, free and open source. Version 4 modernized the interface while keeping everything free."
+  - q: "Can it record what is playing on my PC?"
+    a: "Yes, choose the loopback/WASAPI input to capture system audio, useful for digitizing streams or calls where permitted."
+  - q: "Does it export MP3?"
+    a: "Yes, MP3 export is built in now; the old separate LAME encoder download has not been needed for years."
 ###
 version: 4.0.0
 size: 47.2 MB

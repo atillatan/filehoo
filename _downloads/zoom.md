@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Zoom free to use?"
+    a: "Yes. The free plan allows unlimited one-on-one calls and group meetings up to 40 minutes with 100 participants. Longer group meetings need a paid plan."
+  - q: "Do guests need a Zoom account to join?"
+    a: "No. Joining a meeting only requires the link; an account is needed only to host."
+  - q: "Does Zoom work without installing anything?"
+    a: "Meetings can run in a browser, but the desktop client offers better video quality, screen sharing and virtual backgrounds."
 ###
 version: Latest
 size: 

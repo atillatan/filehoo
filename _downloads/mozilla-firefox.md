@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Firefox really more private than Chrome?"
+    a: "By default, yes. Enhanced Tracking Protection blocks trackers out of the box, and Mozilla's business model does not depend on advertising profiles the way Google's does."
+  - q: "Will my Chrome bookmarks and passwords transfer?"
+    a: "Yes. On first run Firefox offers to import bookmarks, history, passwords and cookies from Chrome in one step."
+  - q: "Is Firefox free?"
+    a: "Yes, completely. It is open source and developed by the non-profit-owned Mozilla Corporation."
 ###
 version: Latest
 size: 

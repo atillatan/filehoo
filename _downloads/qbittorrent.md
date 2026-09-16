@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is qBittorrent free and ad-free?"
+    a: "Yes. It is open source, has no ads and never bundles other software, which is exactly why it replaced uTorrent as the default choice."
+  - q: "Is using qBittorrent legal?"
+    a: "The software and protocol are legal. What you download determines legality; plenty of legitimate content is distributed by torrent."
+  - q: "How do I control it remotely?"
+    a: "Enable the Web UI in settings and manage downloads from any browser, including your phone."
 ###
 version: Latest
 size: 

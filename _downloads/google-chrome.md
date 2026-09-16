@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Google Chrome free?"
+    a: "Yes, Chrome is free on every platform. Google funds it through its search and advertising business."
+  - q: "Does this download give the latest version?"
+    a: "Yes, the link always fetches the current stable installer directly from Google's servers, and Chrome keeps itself updated automatically afterwards."
+  - q: "Chrome or Firefox - which should I pick?"
+    a: "Chrome offers the widest site compatibility and deep Google integration; Firefox offers stronger default privacy. Both are excellent; many people keep both installed."
 ###
 version: Latest
 size: 
