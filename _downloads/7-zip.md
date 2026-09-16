@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is 7-Zip completely free?"
+    a: "Yes. 7-Zip is open source under the LGPL license and free for both personal and commercial use, with no ads or paid version."
+  - q: "Can 7-Zip open RAR files?"
+    a: "Yes, 7-Zip extracts RAR and RAR5 archives without any extra software. It cannot create RAR files because the format is proprietary."
+  - q: "Is 7-Zip safe?"
+    a: "Yes, as long as you download it from the official 7-zip.org, which is exactly where our download button points. It contains no adware or bundled software."
 ###
 version: 25.01
 size: 1.6 MB

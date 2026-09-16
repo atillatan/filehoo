@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is HandBrake free without watermarks?"
+    a: "Yes, completely free, open source, no watermark, no duration limits."
+  - q: "Which preset should I use?"
+    a: "Start with 'Fast 1080p30' for compatibility or an H.265 preset for smaller files. Presets exist for phones, tablets and consoles."
+  - q: "Why is converting slow?"
+    a: "Video encoding is heavy by nature. Enable hardware encoding (NVENC, QSV, AMF) in preferences for a large speedup at slight quality cost."
 ###
 version: 1.11.2
 size: 24.2 MB

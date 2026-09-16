@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Krita free? Why is it paid in some stores?"
+    a: "Krita is free from krita.org and our link. The paid Steam and Microsoft Store listings are voluntary ways to fund development, same software."
+  - q: "Krita or GIMP for drawing?"
+    a: "Krita, decisively. Its brush engines and stabilizers are built for artists; GIMP is better for photo editing."
+  - q: "Does Krita do animation?"
+    a: "Yes, a frame-by-frame animation timeline with onion skinning is built in."
 ###
 version: 6.0.4
 size: 

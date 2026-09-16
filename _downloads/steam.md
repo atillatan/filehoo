@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Steam free?"
+    a: "Yes, the platform itself is free; you pay only for the games you buy. Thousands of free-to-play titles cost nothing."
+  - q: "Can I share games with family?"
+    a: "Yes, Steam Family lets you share your library with up to five family members, with parental controls."
+  - q: "Do my games work on a new PC?"
+    a: "Yes. Install Steam, sign in, and your entire library is available to download, with cloud saves for supported games."
 ###
 version: Latest
 size: 

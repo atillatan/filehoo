@@ -30,6 +30,7 @@ layout: basepage
       <article class="card dl-hero">
         {{ content }}
       </article>
+      {% include faq.html page=page %}
       {% assign related = site.downloads | where: "category", page.category | sample: 7 %}
       {% assign relcount = 0 %}
       <div class="section-head" style="margin-top:24px;"><h2>Similar software</h2></div>

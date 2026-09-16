@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is OBS Studio really free? No watermark?"
+    a: "Completely free, open source, no watermark, no time limit. It is funded by sponsorships and donations."
+  - q: "OBS or the built-in Xbox Game Bar?"
+    a: "Game Bar is fine for quick game clips. OBS records the entire desktop, mixes camera and mic, streams live and produces far better quality."
+  - q: "Why is my recording laggy?"
+    a: "Enable hardware encoding (NVENC/AMF) in Settings, Output. Software x264 encoding on a busy CPU is the usual culprit."
 ###
 version: 32.2.2
 size: 152 MB

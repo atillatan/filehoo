@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is PowerToys official Microsoft software?"
+    a: "Yes, it is developed by Microsoft as an open-source project on GitHub."
+  - q: "Which PowerToys feature should I try first?"
+    a: "FancyZones. Custom snap layouts change how you use a large monitor. The Command Palette launcher is a close second."
+  - q: "Does it slow down Windows?"
+    a: "No measurable impact for typical use; each utility can be disabled individually if unused."
 ###
 version: 0.101
 size: 283 MB

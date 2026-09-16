@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Telegram Desktop free?"
+    a: "Yes, fully free with no ads in chats. An optional Premium subscription adds cosmetic and power features."
+  - q: "Do I need my phone to use Telegram on PC?"
+    a: "Only once, to scan the login QR code. After that the desktop app works independently, unlike WhatsApp's early web versions."
+  - q: "Are Telegram chats encrypted?"
+    a: "All chats use client-server encryption; Secret Chats on mobile add end-to-end encryption. The desktop app does not support Secret Chats."
 ###
 version: Latest
 size: 
