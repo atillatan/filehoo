@@ -41,6 +41,9 @@ exclude:
   - Adobe-PhotoShop-CS2.md
 
 collections:
+  guides:
+    output: true
+    permalink: /guides/:path/
   downloads:
     output: true
     permalink: /downloads/:path/

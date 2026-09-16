@@ -1,0 +1,41 @@
+---
+layout: basepage
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | strip_html | jsonify }},
+  "url": "{{ site.url }}{{ page.url }}",
+  {% if page.modified_date %}"dateModified": "{{ page.modified_date }}",{% endif %}
+  {% if page.create_date %}"datePublished": "{{ page.create_date }}",{% endif %}
+  "author": { "@type": "Organization", "name": "Filehoo" },
+  "publisher": { "@type": "Organization", "name": "Filehoo", "url": "{{ site.url }}/" }
+}
+</script>
+<div class="container">
+  <nav class="breadcrumbs"><a href="/">Home</a><span class="sep">/</span><a href="/guides/">Guides</a><span class="sep">/</span>{{ page.title }}</nav>
+  <div class="page with-side">
+    <div>
+      <article class="card guide-body">
+        <h1>{{ page.title }}</h1>
+        {% if page.modified_date %}<div class="updated text-muted" style="font-size:.85rem;margin-bottom:14px;">Updated {{ page.modified_date | date: "%B %-d, %Y" }}</div>{% endif %}
+        {{ content }}
+      </article>
+      {% include ad-unit.html %}
+      {% assign gcol = site.collections | where: "label", "guides" | first %}
+      {% assign others = gcol.docs | sample: 4 %}
+      <div class="section-head" style="margin-top:24px;"><h2>More guides</h2></div>
+      <div class="app-grid">
+        {% assign shown = 0 %}
+        {% for g in others %}{% if g.url != page.url and shown < 3 %}{% assign shown = shown | plus: 1 %}
+        <a class="app-card" href="{{ g.url }}"><span class="name" style="white-space:normal;">{{ g.title }}</span><span class="desc">{{ g.description | strip_html | truncate: 90 }}</span></a>
+        {% endif %}{% endfor %}
+      </div>
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
+  </div>
+</div>

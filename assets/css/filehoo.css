@@ -444,3 +444,30 @@ td, th { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: 
 @media (max-width: 768px) {
   .ad-box.ad-top { display: none; }
 }
+
+/* Guide pages */
+.guide-body { padding: 26px 28px; }
+.guide-body h2 { margin-top: 28px; font-size: 1.2rem; }
+.guide-body h3 { margin-top: 20px; }
+.guide-body p { max-width: 68ch; }
+.guide-body table { font-size: .9rem; margin: 14px 0; }
+.guide-body .tbl-wrap { overflow-x: auto; }
+.pick-box {
+  border: 1px solid var(--border); border-left: 4px solid var(--accent);
+  border-radius: var(--radius); padding: 14px 18px; margin: 14px 0;
+  background: var(--surface-2);
+}
+.pick-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.pick-badge {
+  background: var(--accent); color: #fff; font-size: .7rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .06em;
+  border-radius: 4px; padding: 2px 8px;
+}
+[data-theme="dark"] .pick-badge { color: #06220f; }
+.pick-name { font-weight: 700; font-size: 1.05rem; }
+.pick-meta { color: var(--muted); font-size: .82rem; }
+.pick-pitch { margin: 6px 0 8px; max-width: 68ch; }
+.pick-cta { font-weight: 600; font-size: .92rem; }
+
+.guide-body table { display: block; overflow-x: auto; white-space: nowrap; }
+.guide-body table td:first-child, .guide-body table th:first-child { font-weight: 600; }
