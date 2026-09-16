@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is GIMP really free? What is the catch?"
+    a: "No catch. GIMP has been free and open source since 1996, developed by volunteers and funded by donations."
+  - q: "Can GIMP open Photoshop PSD files?"
+    a: "Yes, with good results for typical layered files. Extremely complex PSDs with smart objects may flatten some features."
+  - q: "Does GIMP support non-destructive editing?"
+    a: "Since version 3, yes: filters can be re-edited on layers instead of being baked in."
 ###
 version: 3.0.8
 size: 

@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is LibreOffice compatible with Microsoft Office files?"
+    a: "Yes, it reads and writes docx, xlsx and pptx well. Very complex documents may show minor layout shifts."
+  - q: "Is LibreOffice really free, even for companies?"
+    a: "Yes, free for any use under an open-source license. Optional paid support exists from third parties."
+  - q: "LibreOffice or Google Docs?"
+    a: "LibreOffice is a full offline suite with advanced features; Google Docs wins for real-time collaboration. Many people use both."
 ###
 version: 26.8
 size: 

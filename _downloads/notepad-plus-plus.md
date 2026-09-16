@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Notepad++ free?"
+    a: "Yes, free and open source under the GPL. No ads, no paid tier, funded by donations."
+  - q: "Can it edit huge files?"
+    a: "It comfortably handles files in the tens of megabytes. For multi-gigabyte logs, specialized viewers do better."
+  - q: "Does it replace Windows Notepad?"
+    a: "It can. It opens instantly and handles every encoding, and an official setting can register it as the default editor."
 ###
 version: 8.9.8
 size: 6.6 MB

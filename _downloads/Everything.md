@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "How is Everything so fast?"
+    a: "It reads the NTFS file index directly instead of crawling folders, so results appear as you type, instantly."
+  - q: "Does Everything search file contents?"
+    a: "By default it searches names only, which is why it is instant. Content search exists but is slower; pair it with grep-style tools for content."
+  - q: "Is Everything free?"
+    a: "Yes, completely free; the author accepts donations."
 ###
 version: 1.4.1.1028
 size: 1.9 MB

@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Discord free?"
+    a: "Yes. Voice, video, text and communities are free. Nitro is an optional subscription for bigger uploads and cosmetics."
+  - q: "Is Discord only for gamers?"
+    a: "Not anymore. Study groups, hobby communities, open-source projects and companies all run Discord servers."
+  - q: "Can I use Discord in a browser instead?"
+    a: "Yes, discord.com works in any browser, but the desktop app adds game overlay, better voice processing and push-to-talk."
 ###
 version: Latest
 size: 

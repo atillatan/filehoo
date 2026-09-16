@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Does the WinRAR trial really never expire?"
+    a: "The 40-day trial keeps functioning with a purchase reminder. The vendor tolerates this for home users; businesses should buy licenses."
+  - q: "WinRAR or 7-Zip?"
+    a: "7-Zip for most people: free and compresses better. WinRAR if you must create RAR files or want recovery records. See our comparison guide."
+  - q: "What are recovery records?"
+    a: "Extra redundancy data added to an archive that lets WinRAR repair corruption, unique protection for archives stored long-term."
 ###
 version: 7.23
 size: 3.6 MB
