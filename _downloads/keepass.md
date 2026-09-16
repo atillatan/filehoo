@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is KeePass safe to trust with all my passwords?"
+    a: "Its encrypted database format (AES-256/ChaCha20) is open, audited and battle-tested since 2003. Security ultimately depends on your master passphrase."
+  - q: "How do I sync KeePass across devices?"
+    a: "Put the database file in any sync service (Dropbox, OneDrive, Syncthing). Compatible apps exist for Android (KeePassDX) and iOS (Strongbox)."
+  - q: "KeePass or Bitwarden?"
+    a: "KeePass keeps everything local under your control; Bitwarden adds effortless cloud sync and browser autofill. See our password manager guide for the full comparison."
 ###
 version: Latest
 size: 

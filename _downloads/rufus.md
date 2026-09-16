@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Rufus safe to use?"
+    a: "Yes, it is open source and the standard tool for bootable USB drives. Download only from rufus.ie or the official GitHub, which is where our link points."
+  - q: "Can Rufus bypass Windows 11 requirements?"
+    a: "Yes, when writing a Windows 11 ISO it offers to remove the TPM, Secure Boot and RAM checks, and even local-account setup."
+  - q: "Will it erase my USB drive?"
+    a: "Yes, completely. Back up anything on the stick before writing an image."
 ###
 version: 4.15
 size: 1.9 MB

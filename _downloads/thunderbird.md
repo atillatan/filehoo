@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Thunderbird free?"
+    a: "Yes, free and open source, now developed by the Mozilla-owned MZLA with major annual releases."
+  - q: "Does it work with Gmail and Outlook.com?"
+    a: "Yes, both set up automatically with OAuth. Exchange support arrived natively in recent versions."
+  - q: "Can it handle multiple accounts?"
+    a: "Yes, unlimited accounts with a unified inbox, per-account identities and filters."
 ###
 version: Latest
 size: 

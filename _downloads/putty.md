@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is PuTTY still maintained?"
+    a: "Yes, Simon Tatham still releases updates with modern key exchange and cipher support."
+  - q: "Where does PuTTY store sessions?"
+    a: "In the Windows registry. Export them via regedit or use the portable trick of a settings file wrapper if you need portability."
+  - q: "PuTTY or Windows' built-in OpenSSH?"
+    a: "The built-in ssh command covers quick connections. PuTTY adds saved sessions, serial console support, and the Pageant key agent."
 ###
 version: Latest
 size: 

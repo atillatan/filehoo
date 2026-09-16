@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is Spotify free on Windows?"
+    a: "Yes, with ads and some shuffle restrictions. Premium removes ads and enables downloads and lossless quality."
+  - q: "Can I play my own MP3 files?"
+    a: "Yes, enable Local Files in settings and Spotify becomes a player for your own music collection too."
+  - q: "Why install the app instead of using the web player?"
+    a: "The desktop app supports higher quality, local files, hardware acceleration and system media keys."
 ###
 version: Latest
 size: 

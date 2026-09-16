@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is AnyDesk free for personal use?"
+    a: "Yes. Helping family or accessing your own machines costs nothing; commercial use requires a license."
+  - q: "Is AnyDesk safe?"
+    a: "The software itself is secure (TLS 1.2, 2FA). Be aware that scammers abuse remote tools socially: never grant access to someone who called you unsolicited."
+  - q: "Does AnyDesk work without installation?"
+    a: "Yes, the downloaded exe runs directly. Installation is optional and only needed for unattended access."
 ###
 version: Latest
 size: 

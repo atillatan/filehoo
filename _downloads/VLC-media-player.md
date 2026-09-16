@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is VLC free? Are there ads?"
+    a: "Completely free, open source, no ads, no tracking, developed by the VideoLAN non-profit."
+  - q: "Can VLC convert videos?"
+    a: "Yes, Media, Convert/Save handles basic conversions. For batch work and quality control, HandBrake does it better."
+  - q: "Why does VLC play files other players cannot?"
+    a: "It ships its own codecs for practically every format ever made, so it never depends on what Windows has installed."
 ###
 version: Latest
 size: 9.23 MB

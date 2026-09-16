@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is FileZilla safe? I heard about adware."
+    a: "The application is safe, open source and clean when downloaded from the official project, which our link uses. Its old reputation came from third-party download portals wrapping the installer."
+  - q: "Does FileZilla support SFTP?"
+    a: "Yes, FTP, FTPS and SFTP. Prefer SFTP or FTPS whenever your server supports encryption."
+  - q: "Can it resume interrupted transfers?"
+    a: "Yes, including files larger than 4 GB. Failed items stay in the queue for retry."
 ###
 version: Latest
 size: 

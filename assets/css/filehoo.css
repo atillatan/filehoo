@@ -471,3 +471,11 @@ td, th { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: 
 
 .guide-body table { display: block; overflow-x: auto; white-space: nowrap; }
 .guide-body table td:first-child, .guide-body table th:first-child { font-weight: 600; }
+
+/* FAQ */
+.faq-section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 22px; margin-top: 16px; }
+.faq-section h2 { font-size: 1.1rem; margin: 0 0 6px; }
+.faq-item { border-bottom: 1px solid var(--border); padding: 8px 0; }
+.faq-item:last-child { border-bottom: none; }
+.faq-item summary { cursor: pointer; font-weight: 600; }
+.faq-item p { margin: 8px 0 4px; color: var(--muted); max-width: 68ch; }

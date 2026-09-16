@@ -19,6 +19,13 @@ created_by:
 modified_by:
 comments: true
 redirect_url:
+faq:
+  - q: "Is VS Code free for commercial use?"
+    a: "Yes. The product is free for any use. The source code is open (MIT); Microsoft's binary adds telemetry you can disable in settings."
+  - q: "VS Code or Visual Studio - what is the difference?"
+    a: "VS Code is a fast, cross-platform code editor. Visual Studio is a heavyweight Windows IDE for .NET and C++ work. For web and general development, VS Code is what you want."
+  - q: "Which languages does it support?"
+    a: "Practically all of them. JavaScript, TypeScript and Python work out of the box, and the extension marketplace covers everything else from Rust to COBOL."
 ###
 version: Latest
 size: 
