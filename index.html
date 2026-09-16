@@ -17,6 +17,18 @@ description: Download free software fast. Every download links straight to the p
       </section>
       {% include most-wanted.html %}
       {% include ad-unit.html class="ad-top" %}
+      <section>
+        <div class="section-head"><h2>Guides</h2><a href="/guides/">All guides &rarr;</a></div>
+        <div class="app-grid" style="grid-template-columns:repeat(auto-fill,minmax(250px,1fr));">
+          {% assign gcol = site.collections | where: "label", "guides" | first %}
+          {% for g in gcol.docs limit: 6 %}{% unless g.url == "/guides/" %}
+          <a class="app-card" href="{{ g.url }}">
+            <span class="name" style="white-space:normal;">{{ g.title }}</span>
+            <span class="desc">{{ g.description | strip_html | truncate: 80 }}</span>
+          </a>
+          {% endunless %}{% endfor %}
+        </div>
+      </section>
       {% include lastupdated.html %}
       {% include editors-picks.html %}
       <section>

@@ -24,6 +24,7 @@
 <nav class="cat-nav" aria-label="Categories">
   <div class="container chips" style="padding-left:16px;padding-right:16px;">
     <a class="chip{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
+    <a class="chip{% if page.url contains '/guides/' %} active{% endif %}" href="/guides/">Guides</a>
     {% assign catcol = site.collections | where: "label", "categories" | first %}
     {% assign cats = catcol.docs | where_exp: "c", "c.is_hidden != true" | sort: "title" %}
     {% for cat in cats %}
