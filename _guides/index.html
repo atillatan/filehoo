@@ -1,0 +1,27 @@
+---
+layout: basepage
+title: Software Guides
+permalink: /guides/
+description: Honest, practical guides to the best free software - comparisons, picks and how to choose, with direct downloads for every recommendation.
+---
+<div class="container">
+  <nav class="breadcrumbs"><a href="/">Home</a><span class="sep">/</span>Guides</nav>
+  <div class="page with-side">
+    <div>
+      <h1>Software guides</h1>
+      <p class="text-muted">Short, honest answers to "which one should I actually use?" Every recommendation has a direct, junk-free download.</p>
+      <div class="app-grid" style="grid-template-columns:repeat(auto-fill,minmax(260px,1fr));">
+        {% assign gcol = site.collections | where: "label", "guides" | first %}
+        {% for g in gcol.docs %}{% if g.url != page.url %}
+        <a class="app-card" href="{{ g.url }}">
+          <span class="name" style="white-space:normal;">{{ g.title }}</span>
+          <span class="desc">{{ g.description | strip_html | truncate: 110 }}</span>
+        </a>
+        {% endif %}{% endfor %}
+      </div>
+    </div>
+    <aside class="side">
+      {% include ad-unit.html slot="4776540219" %}
+    </aside>
+  </div>
+</div>

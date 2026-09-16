@@ -2,4 +2,4 @@
 layout: null
 sitemap: false
 ---
-[{% for d in site.downloads %}{"n":{{ d.name | jsonify }},"u":{{ d.url | jsonify }},"c":{{ d.category | jsonify }},"t":{{ d.tags | join: " " | jsonify }},"v":{{ d.version | jsonify }},"s":{{ d.size | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]
+[{% for d in site.downloads %}{"n":{{ d.name | jsonify }},"u":{{ d.url | jsonify }},"c":{{ d.category | jsonify }},"t":{{ d.tags | join: " " | jsonify }},"v":{{ d.version | jsonify }},"s":{{ d.size | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}{% assign gcol = site.collections | where: "label", "guides" | first %}{% for g in gcol.docs %}{% unless g.url == "/guides/" %},{"n":{{ g.title | jsonify }},"u":{{ g.url | jsonify }},"c":"Guide","t":"guide comparison best","v":"","s":""}{% endunless %}{% endfor %}]
