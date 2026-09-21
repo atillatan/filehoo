@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-16"
-modified_date: "2026-09-16"
+modified_date: "2026-09-21"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Does it need codec packs?"
     a: "No, it bundles LAV Filters and plays practically everything out of the box."
 ###
-version: 2.8.1
+version: 2.8.2
 size: 21.9 MB
-downloadurl: https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe
+downloadurl: https://github.com/clsid2/mpc-hc/releases/download/2.8.2/MPC-HC.2.8.2.x64.exe
 response: 200
 by: clsid2
 by_link: https://github.com/clsid2/mpc-hc
