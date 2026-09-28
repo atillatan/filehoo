@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-15"
-modified_date: "2026-09-15"
+modified_date: "2026-09-28"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Does it replace Windows Notepad?"
     a: "It can. It opens instantly and handles every encoding, and an official setting can register it as the default editor."
 ###
-version: 8.9.8
+version: 8.9.8.1
 size: 6.6 MB
-downloadurl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8/npp.8.9.8.Installer.x64.exe
+downloadurl: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe
 response: 200
 by: Don Ho
 by_link: https://notepad-plus-plus.org/
