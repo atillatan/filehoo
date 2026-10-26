@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-15"
-modified_date: "2026-09-15"
+modified_date: "2026-10-26"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Why is my recording laggy?"
     a: "Enable hardware encoding (NVENC/AMF) in Settings, Output. Software x264 encoding on a busy CPU is the usual culprit."
 ###
-version: 32.2.2
-size: 152 MB
-downloadurl: https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe
+version: 33.0.0
+size: 178.0 MB
+downloadurl: https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-x64-Installer.exe
 response: 200
 by: OBS Project
 by_link: https://obsproject.com/

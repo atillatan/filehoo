@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-16"
-modified_date: "2026-10-19"
+modified_date: "2026-10-26"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Can I move from LastPass or Chrome?"
     a: "Yes, Bitwarden imports from virtually every manager and browser via CSV or direct import."
 ###
-version: 2026.10.0
+version: 2026.10.1
 size: 0.7 MB
-downloadurl: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.0/Bitwarden-Installer-2026.10.0.exe
+downloadurl: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.1/Bitwarden-Installer-2026.10.1.exe
 response: 200
 by: Bitwarden Inc.
 by_link: https://bitwarden.com/
