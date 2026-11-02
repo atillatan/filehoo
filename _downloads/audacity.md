@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-15"
-modified_date: "2026-10-05"
+modified_date: "2026-11-02"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Does it export MP3?"
     a: "Yes, MP3 export is built in now; the old separate LAME encoder download has not been needed for years."
 ###
-version: 4.0.1
+version: 4.0.2
 size: 47.5 MB
-downloadurl: https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi
+downloadurl: https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-x86_64.msi
 response: 200
 by: Audacity Team
 by_link: https://www.audacityteam.org/
