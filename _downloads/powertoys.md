@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-15"
-modified_date: "2026-11-02"
+modified_date: "2026-11-09"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Does it slow down Windows?"
     a: "No measurable impact for typical use; each utility can be disabled individually if unused."
 ###
-version: 0.102.3001
+version: 0.102.3101
 size: 308.9 MB
-downloadurl: https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe
+downloadurl: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe
 response: 200
 by: Microsoft
 by_link: https://learn.microsoft.com/windows/powertoys/

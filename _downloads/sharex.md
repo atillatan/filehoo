@@ -14,7 +14,7 @@ changefreq: monthly
 priority: 0.5
 published: true
 create_date: "2026-09-15"
-modified_date: "2026-09-15"
+modified_date: "2026-11-09"
 created_by:
 modified_by:
 comments: true
@@ -27,9 +27,9 @@ faq:
   - q: "Where do my captures go?"
     a: "Anywhere you configure: local folders, clipboard, or 80+ upload destinations with the link auto-copied."
 ###
-version: 21.0.0
-size: 132.7 MB
-downloadurl: https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe
+version: 22.4.0
+size: 138.7 MB
+downloadurl: https://github.com/ShareX/ShareX/releases/download/v22.4.0/ShareX-22.4.0-setup-x64.exe
 response: 200
 by: ShareX Team
 by_link: https://getsharex.com/
